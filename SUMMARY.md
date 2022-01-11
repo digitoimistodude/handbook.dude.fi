@@ -1,22 +1,19 @@
 # Table of contents
 
-## Esittely
-
-* [📘 Handbookin tarkoitus](README.md)
-* [Avoimuus](esittely/avoimuus.md)
+* [Esittely](README.md)
+  * [📘 Handbookin tarkoitus](<README (1).md>)
+  * [Avoimuus](esittely/avoimuus.md)
+* [Yleiset käytänteet](yleiset-kaeytaenteet.md)
 
 ## Yleiset käytänteet
 
-* [Uudet asiat](yleiset-kaeytaenteet/uudet-asiat.md)
-* [Lähtökohdat](yleiset-kaeytaenteet/laehtoekohdat.md)
-* [Duden arvot yrityksenä](yleiset-kaeytaenteet/duden-arvot-yrityksenae.md)
-* [Alihankinta](yleiset-kaeytaenteet/alihankinta.md)
+* [Uudet asiat](yleiset-kaeytaenteet-1/uudet-asiat.md)
+* [Lähtökohdat](yleiset-kaeytaenteet-1/laehtoekohdat.md)
+* [Duden arvot yrityksenä](yleiset-kaeytaenteet-1/duden-arvot-yrityksenae.md)
+* [Alihankinta](yleiset-kaeytaenteet-1/alihankinta.md)
 
 ## Työskenteleminen Dudella
 
-* [Aloittaminen](tyoeskenteleminen-dudella/aloittaminen.md)
-* [Kehittäjälle](tyoeskenteleminen-dudella/kehittaejaelle.md)
-* [Toimistotila](tyoeskenteleminen-dudella/toimistotila.md)
 * [Työajat](tyoeskenteleminen-dudella/tyoeajat/README.md)
   * [Työajan seuranta](tyoeskenteleminen-dudella/tyoeajat/tyoeajan-seuranta.md)
 * [Työhyvinvointi](tyoeskenteleminen-dudella/tyoehyvinvointi.md)
@@ -26,6 +23,9 @@
 * [Asiakaspalaverit ja aloitustyöpaja](tyoeskenteleminen-dudella/asiakaspalaverit-ja-aloitustyoepaja.md)
 * [Asiakaspalvelu ja tuki](tyoeskenteleminen-dudella/asiakaspalvelu-ja-tuki.md)
 * [Etätyöskentely](tyoeskenteleminen-dudella/etaetyoeskentely.md)
+* [Aloittaminen](tyoeskenteleminen-dudella/aloittaminen.md)
+* [Kehittäjälle](tyoeskenteleminen-dudella/kehittaejaelle.md)
+* [Toimistotila](tyoeskenteleminen-dudella/toimistotila.md)
 
 ## WordPress-kehitys
 
