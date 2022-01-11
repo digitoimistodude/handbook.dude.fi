@@ -4,6 +4,10 @@ description: Tervetuloa seuraamaan Duden virallista yritys-dokumentaatiota.
 
 # 📘 Handbookin tarkoitus
 
+{% hint style="info" %}
+**Huom!** Tämä Handbook on työn alla. Siirrämme parhaillaan tänne kaikki ei-tekniset dokumentaatiot vanhasta versiosta.
+{% endhint %}
+
 ## Mikä Handbook?
 
 Selaat [Digitoimisto Dude Oy:n](https://www.dude.fi) dokumenttia, jonka on tarkoitus toimia suunnannäyttäjänä uudelle ja vanhalle dudelle ”mustaa valkoisella” -tyyppisenä ohjeistuksena toimintatavoista.
