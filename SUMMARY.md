@@ -39,6 +39,15 @@
   * [CSS Guidelines](wordpress-kehitys/koodausstandardit/css-guidelines.md)
   * [HTML Guidelines](wordpress-kehitys/koodausstandardit/html-guidelines.md)
   * [PHP Guidelines](wordpress-kehitys/koodausstandardit/php-guidelines.md)
+* [Git & open source](wordpress-kehitys/git-and-open-source.md)
+* [Front end & teemakehitys](wordpress-kehitys/front-end-and-teemakehitys.md)
+* [Taustakehitys ja lisäosat](wordpress-kehitys/taustakehitys-ja-lisaeosat.md)
+* [Dokumentointi](wordpress-kehitys/dokumentointi.md)
+* [Stagingiin vieminen](wordpress-kehitys/stagingiin-vieminen.md)
+* [Julkaisu](wordpress-kehitys/julkaisu.md)
+* [Made by Dude -badge](wordpress-kehitys/made-by-dude-badge.md)
+* [Jatkokehitys](wordpress-kehitys/jatkokehitys.md)
+* [Koodin katselmointi](wordpress-kehitys/koodin-katselmointi.md)
 
 ***
 
