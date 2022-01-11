@@ -1,4 +1,4 @@
-# WordPress-optimoidut palvelimet - Digitoimisto Dude Oy
+# WordPress-optimoidut palvelimet
 
 #### Sijainti
 
@@ -10,7 +10,7 @@ Duden palvelimet ovat fyysisesti Multimin hoidossa, mutta palvelintekniikan ylla
 
 Duden verkon takaa neljä isointa Internet-palveluntarjoajaa. Jos yksi verkko kaatuu, ei koko infrastruktuuri jää tavoittamattomiin vaan voidaan hyödyntää toisen palveluntarjoajan verkkoa. **Private** [**vlan**](https://fi.wikipedia.org/wiki/Virtuaalil%C3%A4hiverkko) on Duden hopealuoti niin nopean suorituskyvyn, äärimmäisen tietoturvan kuin korkean tason saatavuudenkin osalta.
 
-![](<../../.gitbook/assets/xpalvelimet 1024x864.png.pagespeed.ic.68SKuVB4xH>)
+![](<../.gitbook/assets/xpalvelimet 1024x864.png.pagespeed.ic.68SKuVB4xH>)
 
 #### Vastuullisuus
 

@@ -3,12 +3,7 @@
 ## Esittely
 
 * [📘 Handbookin tarkoitus](README.md)
-  * [Digitoimisto Dude Oy Handbook / Operointimanuaali](esittely/handbookin-tarkoitus/digitoimisto-dude-oy-handbook-operointimanuaali.md)
-  * [Yleiset käytänteet, kuinka toimimme](esittely/handbookin-tarkoitus/yleiset-kaeytaenteet-kuinka-toimimme.md)
-  * [WordPress-optimoidut palvelimet - Digitoimisto Dude Oy](esittely/handbookin-tarkoitus/wordpress-optimoidut-palvelimet-digitoimisto-dude-oy.md)
-  * [Sisäinen tekninen kehitys - Digitoimisto Dude Oy](esittely/handbookin-tarkoitus/sisaeinen-tekninen-kehitys-digitoimisto-dude-oy.md)
   * [Työskenteleminen Dudella - Digitoimisto Dude Oy](esittely/handbookin-tarkoitus/tyoeskenteleminen-dudella-digitoimisto-dude-oy.md)
-  * [WordPress-kehitys - Digitoimisto Dude Oy](esittely/handbookin-tarkoitus/wordpress-kehitys-digitoimisto-dude-oy.md)
   * [Sanasto - Digitoimisto Dude Oy, Jyväskylä](esittely/handbookin-tarkoitus/sanasto-digitoimisto-dude-oy-jyvaeskylae.md)
   * [Verkkosivujen saavutettavuus - Digitoimisto Dude Oy](esittely/handbookin-tarkoitus/verkkosivujen-saavutettavuus-digitoimisto-dude-oy.md)
   * [Avoimuus - Handbook - Digitoimisto Dude Oy, Jyväskylä](esittely/handbookin-tarkoitus/avoimuus-handbook-digitoimisto-dude-oy-jyvaeskylae.md)
@@ -33,16 +28,27 @@
 * [Duden arvot yrityksenä](yleiset-kaeytaenteet/duden-arvot-yrityksenae.md)
 * [Alihankinta](yleiset-kaeytaenteet/alihankinta.md)
 
-## Työskenteleminen Dudella
+## WordPress-kehitys
 
-* [Aloittaminen](tyoeskenteleminen-dudella/aloittaminen.md)
-* [Kehittäjälle](tyoeskenteleminen-dudella/kehittaejaelle.md)
-* [Toimistotila](tyoeskenteleminen-dudella/toimistotila.md)
-* [Työajat](tyoeskenteleminen-dudella/tyoeajat.md)
-* [Työhyvinvointi](tyoeskenteleminen-dudella/tyoehyvinvointi.md)
-* [Työkalut & Workflow](tyoeskenteleminen-dudella/tyoekalut-and-workflow.md)
-* [Page 5](tyoeskenteleminen-dudella/page-5.md)
-* [Page 4](tyoeskenteleminen-dudella/page-4.md)
-* [Page 3](tyoeskenteleminen-dudella/page-3.md)
-* [Page 2](tyoeskenteleminen-dudella/page-2.md)
-* [Page 1](tyoeskenteleminen-dudella/page-1.md)
+* [WordPress-kehitys](wordpress-kehitys/wordpress-kehitys.md)
+* [Työkalut & tekniikat](wordpress-kehitys/tyoekalut-and-tekniikat.md)
+* [Projektin aloitus](wordpress-kehitys/projektin-aloitus/README.md)
+  * [Myöhemmin projektiin mukaan tulevat](wordpress-kehitys/projektin-aloitus/myoehemmin-projektiin-mukaan-tulevat.md)
+* [Handoff suunnittelijalta koodarille](wordpress-kehitys/handoff-suunnittelijalta-koodarille.md)
+* [Koodausstandardit](wordpress-kehitys/koodausstandardit/README.md)
+  * [CSS Guidelines](wordpress-kehitys/koodausstandardit/css-guidelines.md)
+  * [HTML Guidelines](wordpress-kehitys/koodausstandardit/html-guidelines.md)
+  * [PHP Guidelines](wordpress-kehitys/koodausstandardit/php-guidelines.md)
+
+***
+
+* [Sisäinen tekninen kehitys](sisaeinen-tekninen-kehitys.md)
+
+## Palvelimet
+
+* [WordPress-optimoidut palvelimet](palvelimet/wordpress-optimoidut-palvelimet.md)
+* [Pävitykset ja ylläpito](palvelimet/paevitykset-ja-yllaepito.md)
+* [Monitorointi](palvelimet/monitorointi.md)
+* [Huoltotoimet ja ongelmat](palvelimet/huoltotoimet-ja-ongelmat.md)
+* [Redis](palvelimet/redis.md)
+* [fail2ban](palvelimet/fail2ban.md)
