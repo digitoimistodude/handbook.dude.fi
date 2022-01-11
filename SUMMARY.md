@@ -28,6 +28,21 @@
 * [Duden arvot yrityksenä](yleiset-kaeytaenteet/duden-arvot-yrityksenae.md)
 * [Alihankinta](yleiset-kaeytaenteet/alihankinta.md)
 
+## Työskenteleminen Dudella
+
+* [Aloittaminen](tyoeskenteleminen-dudella/aloittaminen.md)
+* [Kehittäjälle](tyoeskenteleminen-dudella/kehittaejaelle.md)
+* [Toimistotila](tyoeskenteleminen-dudella/toimistotila.md)
+* [Työajat](tyoeskenteleminen-dudella/tyoeajat/README.md)
+  * [Työajan seuranta](tyoeskenteleminen-dudella/tyoeajat/tyoeajan-seuranta.md)
+* [Työhyvinvointi](tyoeskenteleminen-dudella/tyoehyvinvointi.md)
+* [Työkalut & Workflow](tyoeskenteleminen-dudella/tyoekalut-and-workflow.md)
+* [Ilmapiiri ja työrauha](tyoeskenteleminen-dudella/ilmapiiri-ja-tyoerauha.md)
+* [Sisäiset palaverit ja kehitys](tyoeskenteleminen-dudella/sisaeiset-palaverit-ja-kehitys.md)
+* [Asiakaspalaverit ja aloitustyöpaja](tyoeskenteleminen-dudella/asiakaspalaverit-ja-aloitustyoepaja.md)
+* [Asiakaspalvelu ja tuki](tyoeskenteleminen-dudella/asiakaspalvelu-ja-tuki.md)
+* [Etätyöskentely](tyoeskenteleminen-dudella/etaetyoeskentely.md)
+
 ## WordPress-kehitys
 
 * [WordPress-kehitys](wordpress-kehitys/wordpress-kehitys.md)
