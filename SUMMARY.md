@@ -4,7 +4,6 @@
 
 * [📘 Handbookin tarkoitus](README.md)
   * [Työskenteleminen Dudella - Digitoimisto Dude Oy](esittely/handbookin-tarkoitus/tyoeskenteleminen-dudella-digitoimisto-dude-oy.md)
-  * [Sanasto - Digitoimisto Dude Oy, Jyväskylä](esittely/handbookin-tarkoitus/sanasto-digitoimisto-dude-oy-jyvaeskylae.md)
   * [Verkkosivujen saavutettavuus - Digitoimisto Dude Oy](esittely/handbookin-tarkoitus/verkkosivujen-saavutettavuus-digitoimisto-dude-oy.md)
   * [Avoimuus - Handbook - Digitoimisto Dude Oy, Jyväskylä](esittely/handbookin-tarkoitus/avoimuus-handbook-digitoimisto-dude-oy-jyvaeskylae.md)
   * [Tietosuojaseloste - Digitoimisto Dude Oy](esittely/handbookin-tarkoitus/tietosuojaseloste-digitoimisto-dude-oy.md)
@@ -76,3 +75,28 @@
 * [Huoltotoimet ja ongelmat](palvelimet/huoltotoimet-ja-ongelmat.md)
 * [Redis](palvelimet/redis.md)
 * [fail2ban](palvelimet/fail2ban.md)
+
+***
+
+* [Sanasto](sanasto.md)
+
+## Tietosuojaseloste
+
+* [Tiivistelmä](tietosuojaseloste/tiivistelmae.md)
+* [Rekisterinpitäjä ja sen yhteystiedot](tietosuojaseloste/rekisterinpitaejae-ja-sen-yhteystiedot.md)
+* [Mitä tietoja minusta voidaan kerätä?](tietosuojaseloste/mitae-tietoja-minusta-voidaan-keraetae.md)
+* [Mihin henkilötietojani käytetään?](tietosuojaseloste/mihin-henkiloetietojani-kaeytetaeaen.md)
+* [Miten tietojani säilytetään ja suojataan?](tietosuojaseloste/miten-tietojani-saeilytetaeaen-ja-suojataan.md)
+* [Kuka käsittelee henkilötietojani?](tietosuojaseloste/kuka-kaesittelee-henkiloetietojani.md)
+* [Kuinka kauan tietojani säilytetään?](tietosuojaseloste/kuinka-kauan-tietojani-saeilytetaeaen.md)
+* [Millaisia oikeuksia minulla on?](tietosuojaseloste/millaisia-oikeuksia-minulla-on.md)
+* [Kuinka saan järjestelmiin itsestäni tallennetut tiedot?](tietosuojaseloste/kuinka-saan-jaerjestelmiin-itsestaeni-tallennetut-tiedot.md)
+* [Miten voin vaikuttaa tietojeni käyttöön?](tietosuojaseloste/miten-voin-vaikuttaa-tietojeni-kaeyttoeoen.md)
+* [Luovutetaanko henkilötietojani kolmansille osapuolille?](tietosuojaseloste/luovutetaanko-henkiloetietojani-kolmansille-osapuolille.md)
+* [Käytetäänkö sivuillla evästeitä ja mitä ne ovat?](tietosuojaseloste/kaeytetaeaenkoe-sivuillla-evaesteitae-ja-mitae-ne-ovat.md)
+* [Voidaanko tätä tietosuojaselostetta muuttaa?](tietosuojaseloste/voidaanko-taetae-tietosuojaselostetta-muuttaa.md)
+* [Mihin voin ottaa yhteyttä?](tietosuojaseloste/mihin-voin-ottaa-yhteyttae.md)
+
+***
+
+* [Security Policy](security-policy.md)
