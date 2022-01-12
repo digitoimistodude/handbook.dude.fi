@@ -5,7 +5,7 @@ description: Tervetuloa seuraamaan Duden virallista yritys-dokumentaatiota.
 # 📘 Handbookin tarkoitus
 
 {% hint style="info" %}
-**Huom!** Tämä Handbook on työn alla. Siirrämme parhaillaan tänne kaikki ei-tekniset dokumentaatiot vanhasta versiosta.
+**Huom!** Tämä Handbook on työn alla. Siirrämme ja jäsentelemme sisältöä parhaillaan kuntoon. Palaa ihmeessä uudestaan katsomaan myöhemmin, niin näet operointimanuaalimme koko komeudessaan!
 {% endhint %}
 
 ## Mikä Handbook?

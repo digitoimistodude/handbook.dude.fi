@@ -1,7 +1,7 @@
 # Table of contents
 
 * [📘 Handbookin tarkoitus](README.md)
-  * [Avoimuus](handbookin-tarkoitus/avoimuus.md)
+  * [Avoimuus](esittely/avoimuus.md)
 * [Yleiset käytänteet](yleiset-kaeytaenteet/README.md)
   * [Uudet asiat](yleiset-kaeytaenteet/uudet-asiat.md)
   * [Lähtökohdat](yleiset-kaeytaenteet/laehtoekohdat.md)
