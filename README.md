@@ -1,8 +1,8 @@
 ---
-description: Tervetuloa seuraamaan Duden virallista yritys-dokumentaatiota.
+description: Tervetuloa seuraamaan yrityksemme virallista operointimanuaalia.
 ---
 
-# 📘 Handbookin tarkoitus
+# Dude Handbook
 
 {% hint style="info" %}
 **Huom!** Tämä Handbook on työn alla. Siirrämme ja jäsentelemme sisältöä parhaillaan kuntoon. Palaa ihmeessä uudestaan katsomaan myöhemmin, niin näet operointimanuaalimme koko komeudessaan!
