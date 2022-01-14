@@ -85,4 +85,4 @@ Macin ohjelmia voi asentaa ja tarvittaessa myös ostaa oman maun mukaan. Ohjelmi
 
 ### Koodarille
 
-Koodarin työkalut ovat sen verran isompi kokonaisuus, että ne löytyy Handbookin erilliseltä [koodareille varatulta sivulta](https://handbook.dude.fi/tyoskenteleminen-dudella/kehittajalle).
+Koodarin työkalut ja säädöt löytyvät [Duden sisäisestä kehittäjädokumentaatiosta](https://app.gitbook.com/s/VVikkYgIZ9miBzwYDCYh/getting-started/first-day-at-work).
