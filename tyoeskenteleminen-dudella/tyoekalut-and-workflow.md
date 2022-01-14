@@ -6,7 +6,7 @@ description: Keskeisimmät ydintyökalut.
 
 Duden käytössä on tietyt fundamentaalit työkalut, joita jokainen Dude käyttää. Osa näistä on päätetty jo yrityksen perustamishetkellä. Näitä voivat olla mm. yhteydenottotavat, pikaviestinsovellukset tai kollaboraatiotyökalut.
 
-### Slack: Firman sisäinen kommunikaatio
+### Sisäinen kommunikaatio
 
 {% embed url="https://slack.com" %}
 
@@ -16,13 +16,13 @@ Firman sisäisten sähköpostien lähettäminen on **kiellettyä**, ellei 
 
 Jokaiselle projektille luodaan oma Slack-kanava, jotta projektikohtaiset keskustelut pysyvät lapasessa.
 
-### Twist: Keskustelut isommista linjauksista, ideoista ja firman kehityksestä
+### Keskustelut isommista linjauksista, ideoista ja firman kehityksestä
 
 {% embed url="https://twist.com" %}
 
 Ne keskustelut, jotka lähtevät Slackissa lapasesta, kuuluvat Twistiin. Twistissä käydään keskustelua firman kehityksestä, uusista työkaluista ja käytänteistä, periaatteista ja kaikista muistakin mieleen tulevista asioista, joita jokainen pohtii kulissien takana.
 
-### Pipedrive: Myynti ja asiakasrekisteri
+### Myynti ja asiakasrekisteri
 
 {% embed url="https://www.pipedrive.com" %}
 
@@ -30,7 +30,7 @@ Pipedrive on kevyt CRM ja myyntisuppilo myynnin tukena. Pipedrive toimii myös a
 
 Myynnin vaiheita on tasan kolme, **1. Liidi sisään**, **2. Yhteydenotto tehty**, **3. Tarjous jätetty**, jonka jälkeen hävitty kauppa menee arkistoon ja voitettu kauppa siirtyy suoraan Trellon Projektit-boardiin, josta tiimi jatkaa määrittelyvaihetta tai työstöä.
 
-### Trello: Projektinhallinta ja edistyminen
+### Projektinhallinnan kokonaiskuvan ja edistymisen seuraaminen
 
 {% embed url="https://trello.com" %}
 
@@ -40,7 +40,7 @@ Joka maanantaisen viikkopalaverin yhteydessä lisätään tarvittaessa Trell
 
 Olisi hyvä, jos jokaisessa projektikortissa olisi myös kuvankaappaus etusivusta mukana; näin helpotetaan kaikkien nopeaa selaamista ja selkeytetään visuaalista näkymää. Kuvan puuttumisen ensimmäisenä huomannut lisää korttiin kansikuvan.
 
-### Favro: Yksittäisen projektin hallinta ja tehtävien pilkkominen
+### Projektin hallinta ja tehtävien pilkkominen
 
 {% embed url="https://favro.com" %}
 
@@ -52,31 +52,25 @@ Favrossa on myös projektien aikajanat näkyvillä. Aikajanoja päivitetään jo
 
 Favroon kutsutaan myös asiakas mukaan. Näin viestintä säilyy läpinäkyvänä asiakkaan suuntaan jopa tehtävätasolla. Asiakasta varten Favrossa on myös **Kysymykset ja vastaukset** -osio, johon asiakas voi jättää omia kommenttejaan.
 
-#### Clockify: Projekteihin käytetyt tunnit, budjetointi
+### Projekteihin käytetyt tunnit
 
 {% embed url="https://clockify.me" %}
 
 [Clockify](https://clockify.me) varmistaa, että projektiin käytetyt tunnit pysyvät aisoissa, eli myydyt tunnit tulee käytettyä oikein ja projektille jää katetta. Clockifyssa pystyy seuraamaan myös aikataulun, hinnan ja kustannusten suhdetta toisiinsa. Clockifyn kokonaistilanne vilkaistaan tarvittaessa maanantaisin Trellon yhteydessä. Katso myös [Työajan seuranta](https://handbook.dude.fi/tyoskenteleminen-dudella/tyoajat/tyoajan-seuranta).
 
-#### WakaTime: Koodin seuranta, koodiin käytetty aika
+### Koodaamiseen käytetty aika
 
 {% embed url="https://wakatime.com" %}
 
 [WakaTime](https://wakatime.com) on hyödyllinen työkalu koodiin käytetyn ajan seurantaan. WakaTime on valinnainen, koska työaikojen seurantaan on käytössä Harvest. WakaTimesta voikin luntata ajat, jos ne unohtuu merkata Harvestiin työstön aikana. Normaalin WakaTime-seurannan lisäksi ([sublime-wakatime](https://github.com/wakatime/sublime-wakatime)) käytössä mm. [bash-wakatime](https://github.com/irondoge/bash-wakatime) Terminalin seurantaan, [chrome-wakatime](https://github.com/wakatime/chrome-wakatime) selaindebuggaamisen seurantaan.
 
-#### Figma: Leiskat & taitto
+### Suunnittelu
 
 {% embed url="https://figma.com" %}
 
 Figmasta löytyy aina uusin versio leiskasta. Suunnittelija varmistaa, että valmiit pohjat ovat mahdollisimman varhaisessa vaiheessa näkyvillä ja että uusin versio on julkaistu, eikä killu työpöydällä.
 
-#### Visual Studio Code: Koodaaminen
-
-{% embed url="https://code.visualstudio.com" %}
-
-VSCodea käytetään ensisijaisesti ohjelmointityökaluna. Editori on hyvä, koska se on kokonainen IDE on helposti laajennettavissa plugineiden avulla. Esimerkkiasetukset löytyvät GitHubista: [vscode-settings](https://github.com/ronilaukkarinen/vscode-settings).
-
-#### Google Workspace: Menot, tiedostot, sähköposti
+### Sähköposti ja kalenterit
 
 {% embed url="https://workspace.google.com" %}
 
@@ -84,21 +78,21 @@ Googlen kalenteriin lisätään kaikki tapahtumat, jotka toisen duden tulisi 
 
 Driveen tallennetaan kaikki yrityksen sekä projektien kannalta tärkeä materiaali. Tänne lisätään kaikki dokumentit ja tiedostot, jotka koskevat koko firmaa tai tiimejä. Tärkeää on huolehtia oikeasta kansiorakenteesta, jotta tiedot ovat helposti löydettävissä.
 
-#### Crisp: Myynti verkkosivujen puolella
+### Chat verkkosivuilla
 
 {% embed url="https://crisp.chat/en" %}
 
 Crisp toimii verkkosivuston livechat-palveluna, johon vastaa ensimmäinen paikallaolija niin nopeasti kuin mahdollista, pääosin toimistoaikoina. Crisp toimii myyntikanavana verkkosivuilla.
 
-#### Help Scout: Tekninen tuki, asiakaspalvelu
+### Asiakaspalvelu ja tekninen tuki
 
-{% embed url="https://www.helpscout.net" %}
+{% embed url="https://www.helpscout.com" %}
 
 Help Scout toimii Duden tukikanavana, jonne tulee kaikki apuva@dude.fi -sähköpostiosoitteeseen lähetetyt viestit. Uudet viestit näkyvät automaattisesti hoidettavina tiketteinä, joita kuka tahansa Duden tiimistä voi ottaa hoitaakseen. Mahdolliset tukiviestit edelleenlähetetään (Forward) omasta sähköpostista Help Scoutiin, jotta asiakas oppii käyttämään tukiasioihin asiakaspalvelurajapintaa (eli apuva@dude.fi -sähköpostia yhden ukon meilin sijaan).
 
 Tiketteihin pyritään vastaamaan maksimissaan muutaman tunnin varoajalla, mielellään mahdollisimman pian. Asiakaspalvelusta lisää kohdassa 3.5.
 
-#### GitHub: Laajemmat koodaamiseen liittyvät tehtävät
+### Versionhallinta ja lähdekoodi
 
 {% embed url="https://github.com" %}
 
@@ -106,7 +100,7 @@ Duden tiimi käyttää [GitHubia](https://github.com/digitoimistodude) päivitt�
 
 GitHub issueita avataan silloin kun kyseessä on laajempia ongelmia tai asioita, joita on syytä käydä läpi. Muissa tapauksissa tehtävät delegoidaan Todoistiin (alla).
 
-#### 1Password: Salasanat, lisenssit, avaimet ja tunnukset
+### Salasanat, lisenssit, avaimet ja tunnukset
 
 {% embed url="https://1password.com" %}
 
