@@ -14,7 +14,7 @@
   * [Työajat](tyoeskenteleminen-dudella/tyoeajat/README.md)
     * [Työajan seuranta](tyoeskenteleminen-dudella/tyoeajat/tyoeajan-seuranta.md)
   * [Työhyvinvointi](tyoeskenteleminen-dudella/tyoehyvinvointi.md)
-  * [Työkalut & Workflow](tyoeskenteleminen-dudella/tyoekalut-and-workflow.md)
+  * [Työkalut](tyoeskenteleminen-dudella/tyoekalut.md)
   * [Ilmapiiri ja työrauha](tyoeskenteleminen-dudella/ilmapiiri-ja-tyoerauha.md)
   * [Sisäiset palaverit ja kehitys](tyoeskenteleminen-dudella/sisaeiset-palaverit-ja-kehitys.md)
   * [Asiakaspalaverit ja aloitustyöpaja](tyoeskenteleminen-dudella/asiakaspalaverit-ja-aloitustyoepaja.md)
