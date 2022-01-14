@@ -1,10 +1,10 @@
 # Sisäiset palaverit ja kehitys
 
-#### Sisäiset palaverit <a href="#sisaeiset-palaverit" id="sisaeiset-palaverit"></a>
+### Sisäiset palaverit <a href="#sisaeiset-palaverit" id="sisaeiset-palaverit"></a>
 
 _Yrityksen kesken_ **viikkopalaveri** pidetään joka maanantai hyvissä ajoin ennen isompien töiden aloittamista kello 9:00. Tästä periaatteesta pidetään kiinni, mutta kellonaikaa voidaan ruuvata tarpeen vaatiessa tai siirtää palaveri toiselle päivälle, jos kaikki eivät pääse paikalla. Loma-aikoihin viikkopalaveriin osallistuvat paikalla olijat.
 
-#### Maanantaipalaverien agenda
+### Maanantaipalaverien agenda
 
 Käydään läpi järjestyksessä:
 
@@ -25,10 +25,10 @@ Viikkopalaverin jälkeen jokainen luo omat viikkotavoitteensa henkilökohtaisell
 
 Maanantaipalaverin jälkeen pidetään brändiryhmän kokous (tarvittaessa) ja _devitsekki_, eli kehitystiimin palaveri (tarvittaessa).
 
-#### Omistajien kehityspalaverit
+### Omistajien kehityspalaverit
 
 Lakisääteiset hallitusten kokoukset ja muut palaverit pidetään omistajien kesken aina tarvittaessa. Duden omistajat pyrkivät pitämään tapaamisen ylipäätään vähintään kerran kahdessa kuukaudessa.
 
-#### Kehityskeskustelut
+### Kehityskeskustelut
 
 Toimitusjohtaja pitää pari kertaa vuodessa kehityskeskustelun jokaisen kanssa luottamuksellisesti.

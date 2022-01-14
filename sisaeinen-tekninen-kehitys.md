@@ -12,7 +12,7 @@ Keskisimpiä sisäisiä projekteja ja työkaluja voivat olla esimerkiksi:
 * [dude](https://github.com/digitoimistodude/dude)
 * [vscode-settings](https://github.com/ronilaukkarinen/vscode-settings)
 
-#### Kehityksen toimintamalli
+### Kehityksen toimintamalli
 
 Pohjateemaa ([air-light](https://github.com/digitoimistodude/air-light)) ja tukilisäosaa ([air-helper](https://github.com/digitoimistodude/air-helper)) on tarkoitus päivittää aina kun vastaan tulee perusteltavissa oleva asia, jota esimerkiksi käyttää jokaisessa projektissa. Kehityksen toimintamalli on hyvinkin nopeatempoinen ja joustava, jossa erityisesti [pohjateemaan](https://github.com/digitoimistodude/air-light) muutoksia lisätään sitä mukaa kun niitä tulee vastaan. Tarvittaessa muutoksia käydään läpi ja iteroidaan devitsekissä.
 

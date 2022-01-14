@@ -2,7 +2,7 @@
 
 Dudelle **asiakaslähtöisyys** on ykkösjuttu. Asiakkaalle vastataan ystävällisesti, ottaen asiakkaan toiveet ja tarpeet huomioon. 90% asiakaspalvelusta on teknistä tukea ja vaikka asiakas olettaa, että vastassa on tekninen henkilö, on puhuttava asiakkaan ymmärrettävää kieltä. Asiakaspalvelu/tuki hoidetaan pääasiassa sähköpostitse.
 
-#### Vasteajat
+### Vasteajat
 
 **Ylläpitoasiakkaat:** Sähköposteihin pyritään vastaamaan samana päivänä ja asia pyritään hoitamaan vuorokauden sisään. Mikäli asia on yli puolen tunnin operaatio ja kuukaudessa on tehty jo kohtuullinen määrä päivityksiä sivustolle, kommunikoidaan tarvittaessa lisätyöstä ja aikataulutetaan työ erikseen. Sovitusta aikataulusta ei tule poiketa, vaikka asiakas ei asiaa erityisemmin huomioisikaan. Ylläpitoasiakkailla on oman WordPress-sivuston Ohjausnäkymässä helppo tapa lähettää tukitiketti asiakaspalvelukanavaan.
 

@@ -4,7 +4,7 @@ Dudelle on tärkeää, ettei pienikään sivusto jää mätänemään
 
 Isompia päivityksiä varten otetaan aina tietokannasta varmuuskopio ennen päivittämistä. Automaattiset varmuuskopiot lähtevät kolmelle verkkolevylle joka yö, mutta silti otetaan paikallinen kopio omalle koneelle. Tarvittaessa tehdään rollback-toimenpiteet.
 
-#### Vanhan hostingin siirtäminen Duden ylläpitoon
+### Vanhan hostingin siirtäminen Duden ylläpitoon
 
 Asiakkaalta tarvitaan siirtoa varten .fi -domaineista _välittäjänvaihtoavain_, ulkomaisista .com-domainista lukituksen poisto sekä _EPP Code_, eli siirtokoodi.
 

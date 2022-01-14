@@ -1,6 +1,6 @@
 # Mitä tietoja minusta voidaan kerätä?
 
-#### Käyttäjän itsensä antamat tai henkilökohtaisesti tunnistettavat tiedot <a href="#kaeyttaejaen-itsensae-an" id="kaeyttaejaen-itsensae-an"></a>
+### Käyttäjän itsensä antamat tai henkilökohtaisesti tunnistettavat tiedot <a href="#kaeyttaejaen-itsensae-an" id="kaeyttaejaen-itsensae-an"></a>
 
 * Tunnistamistiedot, kuten asiakkaan nimi, asiakkaan yrityksen nimi
 * Yhteystiedot, kuten osoite, sähköpostiosoite ja puhelinnumero

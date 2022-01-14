@@ -6,4 +6,4 @@ Käsiteltävien henkilötietojen rekisterinpitäjänä toimii:
 Kauppakatu 14\
 40100 Jyväskylä
 
-Tietosuojasta ja henkilötietojen käsittelystä voit kysyä lisää myös asiakaspalvelustamme: [apuva@dude.fi](mailto:apuva@dude.fi)
+Tietosuojasta ja henkilötietojen käsittelystä voit kysyä lisää myös asiakaspalvelustamme: tuki@dude.fi.

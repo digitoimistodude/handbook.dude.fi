@@ -8,7 +8,7 @@ Asiakkaan on hyväksyttävä tämän tietosuojaselosteen ehdot käyttääkseen D
 
 Duden keräämät tiedot voidaan jakaa käyttäjän ostoprosessia ennen, sen aikana ja sen jälkeen annettuihin tietoihin, verkkopalveluiden kuten dude.fi:n tai muiden Duden tekemien nettisivujen käytöstä havannoituihin tietoihin sekä analytiikan avulla johdettuihin tietoihin.
 
-#### Käytämme tietoja
+### Käytämme tietoja
 
 * Helppokäyttöisen ja turvallisen palvelun toimittamiseen
 * Hyvän asiakaskokemuksen tarjoamiseen

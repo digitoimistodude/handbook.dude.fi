@@ -45,7 +45,6 @@
   * [Huoltotoimet ja ongelmat](palvelimet/huoltotoimet-ja-ongelmat.md)
   * [Redis](palvelimet/redis.md)
   * [fail2ban](palvelimet/fail2ban.md)
-* [Sanasto](sanasto.md)
 * [Tietosuojaseloste](tietosuojaseloste/README.md)
   * [Tiivistelmä](tietosuojaseloste/tiivistelmae.md)
   * [Rekisterinpitäjä ja sen yhteystiedot](tietosuojaseloste/rekisterinpitaejae-ja-sen-yhteystiedot.md)
