@@ -14,7 +14,7 @@ Suosimme Macbook Pro -tietokonetta, jonka saa helposti ”pöytäkoneeksi” sek
 
 ### Virvokkeet
 
-Jura X8 kahvikone pitää huolta siitä, että kahvi on aina pavuista jauhettua. Kahvit tulee Paahtimo Papulta.
+Jura X8 kahvikone pitää huolta siitä, että kahvi on aina pavuista jauhettua. Kahvit tulee [Paahtimo Papulta](https://www.paahtimopapu.fi).
 
 ### Siisteys
 
@@ -46,7 +46,10 @@ Sekoilusoittolistaa [DUDE OFFICE MINDFUCK – Mielipuolista – Yli 10h yhtä hu
 
 Tähän poikkeuksena tilanne, jolloin tarjous on mennyt läpi, jolloin on soitettava Daft Punkin _Get Lucky_:
 
-#### Aiheeseen liittyviä bloggauksia
+{% embed url="https://www.youtube.com/watch?v=5NV6Rdv1a3I" %}
 
-* [23.11.2018: Dude nosti tasoa kerroksella – esittelyssä uusi Kauppakadun toimisto](https://www.dude.fi/dude-nosti-tasoa-kerroksella-esittelyssa-uusi-kauppakadun-toimisto)
-* [18.8.2017: Tältä näyttää Duden kulma – muuttokuulumiset Jyväskylän ytimestä](https://www.dude.fi/talta-nayttaa-duden-kulma-muuttokuulumiset-jyvaskylan-ytimesta)
+### Aiheeseen liittyviä bloggauksia
+
+{% embed url="https://www.dude.fi/dude-nosti-tasoa-kerroksella-esittelyssa-uusi-kauppakadun-toimisto" %}
+
+{% embed url="https://www.dude.fi/talta-nayttaa-duden-kulma-muuttokuulumiset-jyvaskylan-ytimesta" %}
