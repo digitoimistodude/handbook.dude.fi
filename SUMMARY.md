@@ -9,7 +9,6 @@
   * [Alihankinta](yleiset-kaeytaenteet/alihankinta.md)
 * [Työskenteleminen Dudella](tyoeskenteleminen-dudella/README.md)
   * [Aloittaminen](tyoeskenteleminen-dudella/aloittaminen.md)
-  * [Kehittäjälle](tyoeskenteleminen-dudella/kehittaejaelle.md)
   * [Toimistotila](tyoeskenteleminen-dudella/toimistotila.md)
   * [Työajat](tyoeskenteleminen-dudella/tyoeajat/README.md)
     * [Työajan seuranta](tyoeskenteleminen-dudella/tyoeajat/tyoeajan-seuranta.md)
