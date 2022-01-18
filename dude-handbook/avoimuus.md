@@ -1,8 +1,16 @@
+---
+description: Tämä firman handbook on yksi esimerkki Duden avoimuudesta.
+---
+
 # Avoimuus
 
-Dude on halunnut perustamisvuodestaan 2013 lähtien ottaa asiakseen olla mahdollisimman läpinäkyvä ja avoin ulospäin ja sitä kautta rehellinen.
+Dude on halunnut perustamisvuodestaan 2013 lähtien ottaa asiakseen olla mahdollisimman läpinäkyvä ja avoin ulospäin ja sitä kautta rehellinen. Tämä ei näy pelkästään teknisen puolen [lähdekoodin avoimuudessa](https://github.com/digitoimistodude) vaan kaikessa muussakin tekemisessä ja yrityksen kulttuurissa.
 
-#### Etkö löytänyt kysymykseesi vastausta? <a href="#etkoe-loeytaenyt-kysymy" id="etkoe-loeytaenyt-kysymy"></a>
+Voit jopa muokata tätä sivua GitHubissa, jos haluat (toki käymme muutoksen ensin läpi):
+
+{% embed url="https://github.com/digitoimistodude/handbook.dude.fi/blob/master/dude-handbook/avoimuus.md" %}
+
+### Etkö löytänyt kysymykseesi vastausta? <a href="#etkoe-loeytaenyt-kysymy" id="etkoe-loeytaenyt-kysymy"></a>
 
 Järjestimme 15.1.2021 kaikkien aikojen ensimmäisen ”Kysy meiltä” -teemapäivän, joka on Redditistä AMAna tunnettu formaatti. Kysymyksiä tuli yhteensä 122 kappaletta. Näiden kysymysten joukosta saattaa löytyä asioita, joita olet aina miettinyt. Katso AMAn vastaukset osoitteesta [dude.fi/ama](https://www.dude.fi/ama).
 
