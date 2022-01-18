@@ -1,3 +1,7 @@
+---
+description: Viihtyvyys on tärkeintä.
+---
+
 # Toimistotila
 
 
@@ -32,17 +36,9 @@ Lounge on paikka, jossa voi jutella ja rentoutua. Sieltä löytyy Arcade-pelikon
 
 Toimiston kaiuttimista tulee soittaa asiakasystävällistä musiikkia (yleinen rock, 70-, 80-luku, radiohitit, jne.) taustamusiikkina. Musiikki on rock-painotteista, mutta sitä soitetaan laidasta laitaan.
 
-Tähän tarkoitukseen on luotu muutama Spotify-soittolista:
-
-* [DUDE OFFICE RADIO – Positiivista, asiakasystävällistä taustamusiikkia](https://open.spotify.com/user/rolle-/playlist/0J11ocZ0b2OlVqc1pNOSdF)
-* [DUDE INSTRUMENTALS – Palaverimusiikkia](https://open.spotify.com/user/rolle-/playlist/7pa8nmPlID8LbbRzkloG29)
-* [DUDE OFFICE SFW – Menevää & kaikille sopivaa](https://open.spotify.com/user/rolle-/playlist/5fA771O0dGZC6503dBlQXU)
-
-Näitä soittolistoja tai vastaavia yleispäteviä olisi hyvä pyörittää ”normipäivinä”, jolloin asiakkaita/ihmisiä ramppaa toimistolla – jos suinkin mahdollista.
-
 Musiikki ei saa missään nimessä häiritä asiakastapaamisia tai puheluita. Muissa tilanteissa musiikin kuuntelu on vapaata oman maun mukaan.
 
-Sekoilusoittolistaa [DUDE OFFICE MINDFUCK – Mielipuolista – Yli 10h yhtä hulluutta](https://open.spotify.com/user/rolle-/playlist/2Uqu1MqUhYHipkDGUX1HTh) ei saa soittaa muulloin kuin tilapäisen mielenhäiriön iskiessä. Listalle on lisättävä hullut biisit ja korvamadot, joista haluaa eroon.
+Sekoilusoittolistaa [Mielipuolista – Yli 10h yhtä hulluutta](https://open.spotify.com/user/rolle-/playlist/2Uqu1MqUhYHipkDGUX1HTh) ei saa soittaa muulloin kuin tilapäisen mielenhäiriön iskiessä. Listalle on lisättävä hullut biisit ja korvamadot, joista haluaa eroon.
 
 Tähän poikkeuksena tilanne, jolloin tarjous on mennyt läpi, jolloin on soitettava Daft Punkin _Get Lucky_:
 
