@@ -12,6 +12,7 @@
   * [Toimistotila](tyoeskenteleminen-dudella/toimistotila.md)
   * [Työajat](tyoeskenteleminen-dudella/tyoeajat/README.md)
     * [Työajan seuranta](tyoeskenteleminen-dudella/tyoeajat/tyoeajan-seuranta.md)
+    * [Etätyöskentely](tyoeskenteleminen-dudella/tyoeajat/etaetyoeskentely.md)
   * [Työhyvinvointi](tyoeskenteleminen-dudella/tyoehyvinvointi.md)
   * [Työkalut](tyoeskenteleminen-dudella/tyoekalut-and-workflow.md)
   * [Ilmapiiri ja työrauha](tyoeskenteleminen-dudella/ilmapiiri-ja-tyoerauha.md)

@@ -1,8 +1,14 @@
+---
+description: Tuntien merkitseminen.
+---
+
 # Työajan seuranta
 
-Dudella on joustavat työajat, mutta työhön käytetty aika merkitään joko ajastamalla tehdessä tai manuaalisesti [Clockifyhin](https://clockify.me). Clockify korvasi (2020 elo-2021 touko käytössä olleen) Harvestin kesällä 2021 pidemmän työkalujen kartoituksen tuloksena. Clockify voitti Harvestin sekä ominaisuuksissaan että hinnoittelussaan (ks. [Harvest alternative -ländäri](https://clockify.me/free-harvest-alternative))
+Dudella on joustavat työajat, mutta työhön käytetty aika merkitään joko ajastamalla tehdessä tai manuaalisesti [Clockifyhin](https://clockify.me).&#x20;
 
-
+{% hint style="info" %}
+**Clockify** korvasi (2020 elo-2021 touko käytössä olleen) Harvestin kesällä 2021 pidemmän työkalujen kartoituksen tuloksena. Clockify voitti Harvestin sekä ominaisuuksissaan että hinnoittelussaan (ks. [Harvest alternative -ländäri](https://clockify.me/free-harvest-alternative)).
+{% endhint %}
 
 Työajan seurannan tarkoituksena ei ole seurata ”old schoolisti” työaikojen noudattamista kellokorttimeiningillä vaan enemmänkin tarkkailla kuinka hyvin projektit pysyvät budjetin asettamissa raameissa. Tällä vältetään ylilaadun syntymistä ja varmistetaan että liiketoiminta säilyy kannattavana.
 
