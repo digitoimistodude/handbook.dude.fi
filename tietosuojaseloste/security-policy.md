@@ -8,7 +8,10 @@ Please submit security and privacy risk or issue disclosures via mail to [securi
 
 In order to protect our customers, we request that you do not post or share any information about disclosed issues publicly until we have researched, responded to, and addressed the reported issue and informed customers.
 
+### Not eglible security reports
+
 Following default WordPress functionalities **are not** eligible for security reports, as we’ve taken other precautions to mitigate the possible problems:
 
 * Open REST API /users/ endpoint
 * Open author archives (user enumeration)
+* Sites under subdomains that are not under our control or servers

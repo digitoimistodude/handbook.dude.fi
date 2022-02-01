@@ -6,4 +6,6 @@ Voit itse päättää sinulle kohdistetusta markkinoinnista, lisäarvopalveluist
 
 Asiakas voi myös koska tahansa sopimuksessa määriteltyjen asioiden ja irtisanomisaikojen puitteissa lopettaa asiakkuutensa ja pyytää Dudea poistamaan omat tietonsa ottamalla yhteyttä asiakaspalveluumme.
 
-_Huom! Joissain tapauksissa kaikkea tietoa ei voida poistaa ja lainsäädäntö voi vaatia säilyttämään osan asiakkaaseen liittyvästä tiedosta._
+{% hint style="info" %}
+Huom! Joissain tapauksissa kaikkea tietoa ei voida poistaa ja lainsäädäntö voi vaatia säilyttämään osan asiakkaaseen liittyvästä tiedosta.
+{% endhint %}

@@ -20,7 +20,7 @@ Nollaa cache ajamalla deploy/current-kansiossa:
 wp redis flush
 ```
 
-#### Monitorointi
+### Rediksen monitorointi
 
 Rediksen käyttöönoton jälkeen sen toimintaa kannattaa tarkkailla hetki komennolla
 
