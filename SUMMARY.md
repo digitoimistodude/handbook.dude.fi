@@ -22,8 +22,6 @@
   * [Etätyöskentely](tyoeskenteleminen-dudella/etaetyoeskentely.md)
 * [WordPress-kehitys](wordpress-kehitys/README.md)
   * [Työkalut & tekniikat](wordpress-kehitys/tyoekalut-and-tekniikat.md)
-  * [Projektin aloitus](wordpress-kehitys/projektin-aloitus/README.md)
-    * [Myöhemmin projektiin mukaan tulevat](wordpress-kehitys/projektin-aloitus/myoehemmin-projektiin-mukaan-tulevat.md)
   * [Handoff suunnittelijalta koodarille](wordpress-kehitys/handoff-suunnittelijalta-koodarille.md)
   * [Koodausstandardit](wordpress-kehitys/koodausstandardit/README.md)
     * [CSS Guidelines](wordpress-kehitys/koodausstandardit/css-guidelines.md)
