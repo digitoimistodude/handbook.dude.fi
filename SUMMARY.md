@@ -22,8 +22,6 @@
   * [Etätyöskentely](tyoeskenteleminen-dudella/etaetyoeskentely.md)
 * [Asiakasprojektit](wordpress-kehitys/README.md)
   * [Handoff suunnittelijalta koodarille](wordpress-kehitys/handoff-suunnittelijalta-koodarille.md)
-  * [Koodausstandardit](wordpress-kehitys/koodausstandardit/README.md)
-    * [CSS Guidelines](wordpress-kehitys/koodausstandardit/css-guidelines.md)
   * [Taustakehitys ja lisäosat](wordpress-kehitys/taustakehitys-ja-lisaeosat.md)
   * [Dokumentointi](wordpress-kehitys/dokumentointi.md)
   * [Stagingiin vieminen](wordpress-kehitys/stagingiin-vieminen.md)
