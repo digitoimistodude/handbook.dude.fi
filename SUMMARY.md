@@ -50,3 +50,4 @@
   * [Security Policy](tietosuojaseloste/security-policy.md)
 * [Saavutettavuus](saavutettavuus/README.md)
   * [Saavutettavuusauditoinnit](saavutettavuus/saavutettavuusauditoinnit.md)
+  * [Saavutettavuusseloste](saavutettavuus/saavutettavuusseloste.md)
