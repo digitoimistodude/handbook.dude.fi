@@ -48,3 +48,5 @@
   * [Voidaanko tätä tietosuojaselostetta muuttaa?](tietosuojaseloste/voidaanko-taetae-tietosuojaselostetta-muuttaa.md)
   * [Mihin voin ottaa yhteyttä?](tietosuojaseloste/mihin-voin-ottaa-yhteyttae.md)
   * [Security Policy](tietosuojaseloste/security-policy.md)
+* [Saavutettavuus](saavutettavuus/README.md)
+  * [Saavutettavuusauditoinnit](saavutettavuus/saavutettavuusauditoinnit.md)
