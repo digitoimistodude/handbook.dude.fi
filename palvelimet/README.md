@@ -1,6 +1,10 @@
+---
+description: Digitoimisto Dude + WordPress = Duden optimoitu palvelinympäristö.
+---
+
 # Palvelimet
 
-
+Me Dudella uskomme, että verkkosivut ja palvelin kulkevat käsi kädessä. Hyvää laatua ei synny ilman molempia puolia. Jokainen verkkosivusto ansaitsee alleen toimivan moottorin.
 
 ### Sijainti
 
@@ -48,7 +52,7 @@ Nimipalvelimet (DNS) Dudelle tarjoaa [Cloudflare](https://www.cloudflare.com).
 
 ### Sähköpostivälitys
 
-Sähköpostiliikenteessä välittäjänä käytämme [SendGridiä](https://sendgrid.com) ja [Mailgunia](https://www.mailgun.com).
+Sähköpostiliikenteessä välittäjänä käytämme [Mailgunia](https://www.mailgun.com).
 
 ### Aiheeseen liittyviä bloggauksia
 

@@ -26,7 +26,7 @@
   * [Dokumentointi](wordpress-kehitys/dokumentointi.md)
   * [Made by Dude -badge](wordpress-kehitys/made-by-dude-badge.md)
 * [Palvelimet](palvelimet/README.md)
-  * [Pävitykset ja ylläpito](palvelimet/paevitykset-ja-yllaepito.md)
+  * [Päivitykset ja ylläpito](palvelimet/paivitykset-ja-yllapito.md)
   * [Monitorointi](palvelimet/monitorointi.md)
   * [Huoltotoimet ja ongelmat](palvelimet/huoltotoimet-ja-ongelmat.md)
   * [Redis](palvelimet/redis.md)
