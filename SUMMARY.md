@@ -29,7 +29,6 @@
   * [Päivitykset ja ylläpito](palvelimet/paivitykset-ja-yllapito.md)
   * [Monitorointi](palvelimet/monitorointi.md)
   * [Huoltotoimet ja ongelmat](palvelimet/huoltotoimet-ja-ongelmat.md)
-  * [Redis](palvelimet/redis.md)
   * [fail2ban](palvelimet/fail2ban.md)
 * [Tietosuojaseloste](tietosuojaseloste/README.md)
   * [Tiivistelmä](tietosuojaseloste/tiivistelma.md)
