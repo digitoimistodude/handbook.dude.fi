@@ -26,7 +26,7 @@ Dude käyttää [vihreää hostingia](https://www.dude.fi/vihreaa-hostingia-100-
 
 Palvelimet on räätälöity perusteita myöten Multimin kanssa vuonna 2016 Duden tarpeisiin mahdollisimman sopivaksi, WordPress-optimoidusti ja suorituskyky edellä. Kehitys on jatkuvaa.
 
-Rautapalvelimen sisällä on neljän coren ja kahdeksan säikeen Intel(R) Xeon(R) CPU E3-1230 v3 @ 3.30GHz suoritinta ja 32 gigatavua RAM-muistia. Virtuaalipalvelimissamme on SSD-levyjärjestelmä, joka on tavallseen HDD:seen verrattuna huomattavasti nopeampi suorituskyvyltään.
+Rautapalvelimen sisällä on uusimmat suorittimet ja keskusmuistia niin paljon, että se ei lopu kesken. Virtuaalipalvelin hyödyntää SSD-levyjärjestelmää, joka on tavalliseen HDD:seen verrattuna huomattavasti nopeampi suorituskyvyltään.
 
 ### Palvelintekniikka
 
