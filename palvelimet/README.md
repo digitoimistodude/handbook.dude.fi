@@ -42,7 +42,11 @@ Palvelinten huoltoikkuna on joka kuukauden toinen tiistai. Lisää tietoa huollo
 
 ### Varmuuskopiot
 
-Varmuuskopiot otetaan aina ennen muutoksia dev-staging-production ympäristöjen välillä, yleisesti tuotannon tietokannoista (.sql) tunnin välein, koko sivuston snapshot eli tiedostot ja mediakirjastot (.zip) kerran päivässä. Varmuuskopiontisijainteja ovat ulkoinen verkkolevy, sisäinen verkkolevy sekä ulkoinen pilvipalvelu ([ManageWP](https://managewp.com)).
+Varmuuskopiot otetaan aina ennen muutoksia dev-staging-production ympäristöjen välillä, yleisesti tuotannon tietokannoista (.sql) tunnin välein, koko sivuston snapshot eli tiedostot ja mediakirjastot (.zip) kerran päivässä. Varmuuskopiontisijainteja ovat ulkoinen verkkolevy, sisäinen verkkolevy sekä ulkoinen pilvipalvelu.
+
+### Tietoturva
+
+Palvelimille on asennettu lukuisia sovelluksia ja komponentteja, jotka seuraavat, tunnistavat ja estävät murtautumisia ja haavoittuvuuksia. Tämän lisäksi Dudella on erilaisia protokollia tietoturvan korkean tason säilyttämiseksi.
 
 ### Nimipalvelut ja domainit
 
@@ -56,5 +60,4 @@ Sähköpostiliikenteessä välittäjänä käytämme [Mailgunia](https://www.mai
 
 ### Aiheeseen liittyviä bloggauksia
 
-* [15.3.2016: Palvelimen merkitys WordPress-sivustoille](https://www.dude.fi/wordpress-optimoitu-palvelin)
-* [10.1.2017: Duden harharetki palvelinmaailmassa](https://www.dude.fi/harharetki-palvelinmaailmassa)
+{% embed url="https://www.dude.fi/wordpress-optimoitu-palvelin" %}
