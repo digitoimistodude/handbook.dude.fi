@@ -46,5 +46,5 @@
   * [Mihin voin ottaa yhteyttä?](tietosuojaseloste/yhteys.md)
   * [Security Policy](tietosuojaseloste/security-policy.md)
 * [Saavutettavuus](saavutettavuus/README.md)
-  * [Saavutettavuusauditoinnit](saavutettavuus/saavutettavuusauditoinnit.md)
+  * [Auditoinnit](saavutettavuus/auditoinnit.md)
   * [Saavutettavuusseloste](saavutettavuus/saavutettavuusseloste.md)
