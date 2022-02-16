@@ -10,6 +10,14 @@ Voit jopa muokata tätä sivua GitHubissa, jos haluat (toki käymme muutoksen en
 
 {% embed url="https://github.com/digitoimistodude/handbook.dude.fi/blob/master/dude-handbook/avoimuus.md" %}
 
+> Kaikki minkä voi,
+>
+> tulee julkaista open sourcena,
+>
+> avoimena,
+>
+> täysin julkisena Duden GitHub-tilin alla.
+
 ### Etkö löytänyt kysymykseesi vastausta? <a href="#etkoe-loeytaenyt-kysymy" id="etkoe-loeytaenyt-kysymy"></a>
 
 Järjestimme 15.1.2021 kaikkien aikojen ensimmäisen ”Kysy meiltä” -teemapäivän, joka on Redditistä AMAna tunnettu formaatti. Kysymyksiä tuli yhteensä 122 kappaletta. Näiden kysymysten joukosta saattaa löytyä asioita, joita olet aina miettinyt. Katso AMAn vastaukset osoitteesta [dude.fi/ama](https://www.dude.fi/ama).
