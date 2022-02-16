@@ -1,4 +1,4 @@
-# Saavutettavuusauditoinnit
+# Auditoinnit
 
 Jotta (erityisesti vanhentunut) sivusto saataisiin täysin saavutettavaksi ja ajan tasalle saavutettavuuden WCAG-kriteeristön suhteen, täytyy suorittaa _saavutettavuusauditointi_. Saavutettavuusauditointi tarkoittaa käytännössä sitä että testaamme sivut läpi erilaisilla laitteilla niin normaaleilla kuin apuvälineilläkin, kuten ruudunlukulaitteilla.
 
