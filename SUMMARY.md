@@ -15,7 +15,7 @@
     * [Etätyöskentely](tyoskenteleminen-dudella/tyoajat/etatyoskentely.md)
   * [Työhyvinvointi](tyoskenteleminen-dudella/tyohyvinvointi.md)
   * [Työkalut](tyoskenteleminen-dudella/tyokalut.md)
-  * [Kehittäjälle](tyoskenteleminen-dudella/kehittaejaelle.md)
+  * [Kehittäjälle](tyoskenteleminen-dudella/kehittajalle.md)
   * [Ilmapiiri ja työrauha](tyoskenteleminen-dudella/ilmapiiri-ja-tyoerauha.md)
   * [Sisäiset palaverit ja kehitys](tyoskenteleminen-dudella/sisaiset-palaverit-ja-kehitys/README.md)
     * [Koodin katselmointi](tyoskenteleminen-dudella/sisaiset-palaverit-ja-kehitys/koodin-katselmointi.md)
