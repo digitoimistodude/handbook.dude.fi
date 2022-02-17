@@ -1,6 +1,6 @@
 # Aloittaminen
 
-Tälle sivulle on koottu alusta asti asiat, joita pitää tehdä työnteon alkaessa ensimmäistä kertaa. Aloita tästä. Kun olet saanut työkoneesi purettua paketista, tarvitset alla olevat tunnukset (myös [Työkalut & Workflow](https://handbook.dude.fi/tyoskenteleminen-dudella/tyokalut-workflow) -kohdassa listattu).
+Tälle sivulle on koottu alusta asti asiat, joita pitää tehdä työnteon alkaessa ensimmäistä kertaa. Aloita tästä. Kun olet saanut työkoneesi purettua paketista, tarvitset alla olevat asiat.
 
 ### Tunnukset, jotka vaativat kutsun
 

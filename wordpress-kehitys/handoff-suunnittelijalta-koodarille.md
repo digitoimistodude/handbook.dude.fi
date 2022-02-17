@@ -8,7 +8,7 @@ Palaverin aikana käydään läpi ulkoasut ja tehdään niistä tehtävät devaa
 
 ### Ulkoasut
 
-Suunnittelijan on varmistettava, että uusin hyväksytty versio löytyy aina Figmasta (työkalusta lisää kohdassa [Työkalut & Workflow](https://handbook.dude.fi/tyoskenteleminen-dudella/tyokalut-workflow)).
+Suunnittelijan on varmistettava, että uusin hyväksytty versio löytyy aina Figmasta.
 
 ### Valokuvat
 
