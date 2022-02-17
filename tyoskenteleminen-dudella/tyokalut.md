@@ -96,7 +96,7 @@ Tiketteihin pyritään vastaamaan maksimissaan muutaman tunnin varoajalla, mie
 
 {% embed url="https://github.com" %}
 
-Duden tiimi käyttää [GitHubia](https://github.com/digitoimistodude) päivittäin. Koodimuutokset dokumentoidaan README.md-tiedostoon ja jokainen muutos kommitoidaan asiaankuuluvasti. Git-workflowsta lisää kohdassa [Git & open source](https://handbook.dude.fi/wordpress-kehitys/git-open-source).
+Duden tiimi käyttää [GitHubia](https://github.com/digitoimistodude) päivittäin. Koodimuutokset dokumentoidaan README.md-tiedostoon ja jokainen muutos kommitoidaan asiaankuuluvasti.
 
 GitHub issueita avataan silloin kun kyseessä on laajempia ongelmia tai asioita, joita on syytä käydä läpi. Muissa tapauksissa tehtävät delegoidaan Todoistiin (alla).
 
