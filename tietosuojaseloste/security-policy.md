@@ -15,3 +15,5 @@ Following default WordPress functionalities **are not** eligible for security re
 * Open REST API /users/ endpoint
 * Open author archives (user enumeration)
 * Sites under subdomains that are not under our control or servers
+* Public archived Github repositories
+* Reveal.js based or any other repository for presentations
