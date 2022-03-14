@@ -11,15 +11,11 @@ Käydään läpi järjestyksessä:
 1. Yleinen jaksaminen ja viikonlopun kuulumiset
 2. Talousasiat (tarvittaessa)
 3. Liidien ja myynnin tilanne ([Pipedrive](https://digitoimistodudeoy-07a88c.pipedrive.com))
-4. Projektien tilanne ([Trello](https://trello.com/b/OkWcwoTl/projektit))
-5. _Tauko tarvittaessa_ ☕️
+4. _Tauko tarvittaessa_ ☕️
+5. Projektien tilanne ([Trello](https://trello.com/b/OkWcwoTl/projektit))
 6. Projektien eteneminen ja aikataulu ([Favro](https://favro.com/organization/3b45e73eaf083f68fefef368/a086367edce88ae320e2ae40))
-7. Projekteihin käytetyt tunnit ja budjetissa pysyminen tuntiseurantatyökalusta
-8. _Tauko tarvittaessa_ ☕️
-9. Handbookin läpikäynti
-10. Yhdessä läpikäytävät aiheet Twistissä
-11. **Kuukauden ensimmäisessä palaverissa:** mikä referenssi tehdään ja ketkä tekee?
-12. Muut tarvittaessa läpikäytävät asiat (tyhy, jne.)
+7. **Kuukauden ensimmäisessä palaverissa:** mikä referenssi tehdään ja ketkä tekee?
+8. Muut tarvittaessa läpikäytävät asiat (tyhy, jne.)
 
 Viikkopalaverin jälkeen jokainen luo omat viikkotavoitteensa henkilökohtaisella tasolla ja lisää ne Slackin _#munviikko_ -kanavalle tärkeysjärjestykset numeroemojein merkattuna.
 
