@@ -26,7 +26,7 @@ Yhteisiin tunnuksiin kuten [Envato Elementsiin](https://elements.envato.com) lö
 
 ### Asennettavat ohjelmat
 
-Tärkeimmistä ohjelmista on avattu lisää osiossa [Työkalut & Workflow](https://handbook.dude.fi/tyoskenteleminen-dudella/tyokalut-workflow). Asenna kuitenkin seuraavat (MacOS päivitysten jälkeen):
+Tärkeimmistä ohjelmista on avattu lisää osiossa [tyokalut.md](tyokalut.md "mention"). Asenna kuitenkin seuraavat (MacOS päivitysten jälkeen):
 
 * [Spark-sähköpostiohjelma](https://sparkmailapp.com)
 * [Google Drive File Stream](https://support.google.com/a/answer/7491144?hl=en)
