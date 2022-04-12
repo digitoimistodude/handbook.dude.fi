@@ -1,29 +1,43 @@
 # Made by Dude -badge
 
+Sivujen tekijästä ilmoittaa **Made by Dude** -badge, joka lisätään asiakkaan suostumuksesta sivuston Footer-osioon.
 
+### Ulkonäkö
 
-Sivujen tekijästä ilmoittaa **Made by Dude** -badge, joka lisätään asiakkaan suostumuksesta sivuston Footer-osioon. Tämä sivu sisältää badgen käyttöönottoon vaadittavat universaalit snippetit, joita ei ole sisällytetty [starter-teemaamme](https://github.com/digitoimistodude/air-light) mukaan.
+Badge räätälöidään sopimaan sivuston ilmeeseen niin, että se ei ole häiritsevästi etualalla. Alla joitakin voimassa olevia Made by Dude -badgeja.
+
+![eepos.fi](../.gitbook/assets/Screen-Shot-2022-04-12-14-07-19.15.png)
+
+![atena.fi](../.gitbook/assets/Screen-Shot-2022-04-12-14-07-51.62.png)
+
+### Lisäysohje
+
+Tämä sivu sisältää badgen käyttöönottoon vaadittavat universaalit snippetit, joita ei ole sisällytetty [starter-teemaamme](https://github.com/digitoimistodude/air-light) mukaan.
+
+{% hint style="info" %}
+Tämä sivu ja koodiesimerkit pyritään pitämään aina mahdollisimman ajan tasalla. Muista koodisnipeteistä poiketen tämä osa on suomeksi ja julkinen, koska pyrimme näin pitämään tiedon helposti saatavilla samassa paikassa ilman tarpeetonta hyppimistä.
+{% endhint %}
 
 **Huom!** Muista lisätä `'www.dude.fi',` tiedoston scripts-styles.php \`wp\_localize\_script\` sisään, jotta tooltip toimii oikein.
 
-**Lisää ennen footer.php-tiedoston containerin lopetustagia:**
+#### **Lisää ennen footer.php-tiedoston containerin lopetustagia:**
 
 ```html
 <p class="dude-badge"><a class="no-external-link-indicator" href="https://www.dude.fi" data-tooltip="Sivut toteuttanut" aria-label="Sivut toteuttanut Digitoimisto Dude Oy, siirry ulkoiselle sivustolle dude.fi"><svg aria-hidden="true" class="tip" xmlns="http://www.w3.org/2000/svg" width="36" height="12" viewBox="0 0 36 12"><path class="tip-color" transform="rotate(0)" d="M2.658, .000 C-13.615, .000 50.938, .000 34.662, .000 C28.662, .000 23.035, 12.002 18.660, 12.002 C14.285, 12.002 8.594, .000 2.658, .000 Z"></path></svg><svg width="85" height="17" xmlns="https://www.w3.org/2000/svg" viewBox="0 0 85 17"><g fill="transparent" class="heart" fill-rule="evenodd"><path d="M7.5 13.963L2.192 8.412a3.152 3.152 0 01-.59-3.634h0a3.166 3.166 0 012.312-1.7 3.133 3.133 0 012.72.882l.866.803.867-.803a3.133 3.133 0 012.718-.882 3.167 3.167 0 012.312 1.7h0a3.153 3.153 0 01-.589 3.634L7.5 13.962z" class="stroke" stroke="#03061b" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/><path class="fill" fill="#03061b" d="M50.696 8.166c0 .943-.338 2.782-2.601 2.782-2.278 0-2.618-1.84-2.618-2.782V3h-4.34v5.455c0 3.472 2.6 5.545 6.958 5.545 4.346 0 6.942-2.073 6.942-5.545V3h-4.34v5.166zM85 6.052V3H71.717v11H85v-3.052h-9.073v-1.22h7.543V7.271h-7.543V6.052zM33.14 10.948h-2.894V6.057h2.895c1.498 0 2.543 1.146 2.543 2.443 0 1.314-1.045 2.448-2.543 2.448zM34.179 3H26v11h8.178c2.832 0 5.723-2.196 5.723-5.5 0-3.324-2.891-5.5-5.723-5.5zM63.722 10.948h-2.895V6.057h2.895c1.499 0 2.543 1.146 2.543 2.443 0 1.314-1.044 2.448-2.543 2.448zM64.76 3h-8.178v11h8.178c2.832 0 5.723-2.196 5.723-5.5 0-3.324-2.891-5.5-5.723-5.5z"/></g></svg></a></p>
 ```
 
-**Uusi tiedosto: sass/layout/\_dude-badge.scss:**
+#### **Uusi tiedosto: sass/layout/\_dude-badge.scss:**
 
 ```scss
-/* stylelint-disable declaration-no-important, a11y/font-size-is-readable */
+// stylelint-disable declaration-no-important, a11y/font-size-is-readable
 // Badge variables
 :root {
   --color-badge-logo-dark: #03061b;
   --color-badge-logo-light: var(--color-white);
   --color-badge-tooltip-text-dark: var(--color-white);
   --color-badge-tooltip-text-light: #03061b;
-  --color-badge-tooltip-background-light: rgba(255, 255, 255, .8);
-  --color-badge-tooltip-background-dark: rgba(17, 17, 17, .9);
+  --color-badge-tooltip-background-light: rgb(255 255 255 / .8);
+  --color-badge-tooltip-background-dark: rgb(17 17 17 / .9);
 
   // Light or dark?
   --color-badge-logo: var(--color-badge-logo-dark);
