@@ -43,7 +43,7 @@
   * [Kuinka saan järjestelmiin itsestäni tallennetut tiedot?](tietosuojaseloste/kuinka-saan-jarjestelmiin-itsestani-tallennetut-tiedot.md)
   * [Miten voin vaikuttaa tietojeni käyttöön?](tietosuojaseloste/miten-voin-vaikuttaa-tietojeni-kayttoon.md)
   * [Luovutetaanko henkilötietojani kolmansille osapuolille?](tietosuojaseloste/luovutetaanko-henkilotietojani-kolmansille-osapuolille.md)
-  * [Käytetäänkö sivuillla evästeitä ja mitä ne ovat?](tietosuojaseloste/evasteet.md)
+  * [Käytetäänkö sivustoilla evästeitä ja mitä ne ovat?](tietosuojaseloste/evasteet.md)
   * [Voidaanko tätä tietosuojaselostetta muuttaa?](tietosuojaseloste/voidaanko-tata-tietosuojaselostetta-muuttaa.md)
   * [Mihin voin ottaa yhteyttä?](tietosuojaseloste/yhteys.md)
   * [Security Policy](tietosuojaseloste/security-policy.md)
