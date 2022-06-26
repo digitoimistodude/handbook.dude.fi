@@ -7,5 +7,5 @@ Sopimus/tarjousvaiheessa asiakas myöntää tai on myöntämättä refrenssioike
 Tietojen hallinnasta vastuussa oleva yritys:
 
 **Digitoimisto Dude Oy (Y-tunnus: 2548021-5)**\
-Gummeruksenkatu 5\
+Kauppakatu 14\
 40100 Jyväskylä
