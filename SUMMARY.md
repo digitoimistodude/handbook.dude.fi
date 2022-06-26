@@ -32,6 +32,7 @@
   * [Huoltotoimet ja ongelmat](palvelimet/huoltotoimet-ja-ongelmat.md)
 * [Tietosuojaseloste](tietosuojaseloste/README.md)
   * [Tiivistelmä](tietosuojaseloste/tiivistelma.md)
+  * [Sivuston Dude.fi evästeet](tietosuojaseloste/sivuston-dude.fi-evaesteet.md)
   * [Rekisterinpitäjä ja sen yhteystiedot](tietosuojaseloste/rekisterinpitaja-ja-sen-yhteystiedot.md)
   * [Mitä tietoja minusta voidaan kerätä?](tietosuojaseloste/mita-tietoja-minusta-voidaan-kerata.md)
   * [Mihin henkilötietojani käytetään?](tietosuojaseloste/mihin-henkilotietojani-kaytetaan.md)

@@ -9,7 +9,7 @@
 * Palvelujen käytöstä havainnoidut ja analytiikan avulla johdetut tiedot
 * Ostoshistoria, mm. tilatut tuotteet ja palvelut ja niiden hintatiedot
 * Asiakkaan antama asiakaspalaute
-* Sivuston keräämä analytiikka kävijöistä (Google Analytics -kävijätietopalvelu, Hotjar -ruudun käyttäytymisen nauhoittamispalvelu, Crisp live chat, asiakaspalvelukanava reaaliakaisen chatin muodossa) (poistuu kesällä 2022)
+* Sivuston keräämä analytiikka kävijöistä (Google Analytics -kävijätietopalvelu, Hotjar -ruudun käyttäytymisen nauhoittamispalvelu, Crisp live chat, asiakaspalvelukanava reaaliakaisen chatin muodossa)
 * Asiakkaan kertoma tieto siitä kuka ja milloin meitä on suositeltu eteenpäin
 
 Tietojen pääasiallinen lähde on käyttäjä itse, minkä lisäksi saatamme saada lisätietoja yhteistyökumppaneiltamme tai YTJ-yrityshausta. Jos haluat kieltää joidenkin tietojen käytön, sinulla on oikeus vaatia sitä meiltä.
