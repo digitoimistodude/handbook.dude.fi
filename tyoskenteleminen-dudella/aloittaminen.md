@@ -6,78 +6,77 @@ Tälle sivulle on koottu alusta asti asiat, joita pitää tehdä työnteon alkae
 
 Ylläpitäjä kutsuu näihin palveluihin:
 
-* [G Suite -sähköpostiosoite](https://admin.google.com)
-* [1Password](https://www.1password.com)
-* [Twist](https://twist.com)
-* [Trello](https://www.trello.com)
-* [Favro](https://favro.com)
-* [Clockify](https://clockify.me)
+* [G Suite -sähköpostiosoite](https://admin.google.com/)
+* [1Password](https://www.1password.com/)
+* [Trello](https://www.trello.com/)
+* [Height](https://height.app)
+* [Clockify](https://clockify.me/)
 
 ### Luo itse tunnukset
 
 Näihin paikkoihin voit luoda itse tunnukset:
 
-* [Slack](https://dudet.slack.com)
-* [Simplenote](https://simplenote.com)
+* [Slack](https://dudet.slack.com/)
+* [Simplenote](https://simplenote.com/)
 
 ### Muut tunnukset
 
-Yhteisiin tunnuksiin kuten [Envato Elementsiin](https://elements.envato.com) löytyy tunnukset 1Passwordin yhteisestä Dude-vaultista.
+Yhteisiin tunnuksiin kuten [Envato Elementsiin](https://elements.envato.com/) löytyy tunnukset 1Passwordin yhteisestä Dude-vaultista.
 
 ### Asennettavat ohjelmat
 
 Tärkeimmistä ohjelmista on avattu lisää osiossa [tyokalut.md](tyokalut.md "mention"). Asenna kuitenkin seuraavat (MacOS päivitysten jälkeen):
 
-* [Spark-sähköpostiohjelma](https://sparkmailapp.com)
+* [Spark-sähköpostiohjelma](https://sparkmailapp.com/)
 * [Google Drive File Stream](https://support.google.com/a/answer/7491144?hl=en)
-* [Favro](https://apps.apple.com/us/app/favro/id975245623) (toimii myös selaimella)
-* [Figma](https://www.figma.com) (toimii myös selaimella)
+* [Height](https://height.app) (toimii myös selaimella)
+* [Figma](https://www.figma.com/) (toimii myös selaimella)
 * [Trello](https://trello.com/fi/platforms) (toimii myös selaimella)
 
 ### Asiakaspalvelijalle / markkinoijalle
 
 Aspassa ja markkinoinnissa focus on chat- ja tikettityökalussa, blogissa, somessa ja sähköpostiliikenteessä.
 
-* [Crisp](https://crisp.chat)
-* [Help Scout](https://www.helpscout.com)
+* [Crisp](https://crisp.chat/)
+* [Help Scout](https://www.helpscout.com/)
 * [Dude.fi -blogi](https://www.dude.fi/blogi)
 * [Instagram](https://instagram.com/digitoimistodude/)
 * [Facebook](https://www.facebook.com/digitoimistodude/)
 * [Twitter](https://www.twitter.com/dudetoimisto/)
 * [LinkedIn-yrityssivu](https://www.linkedin.com/company/digitoimisto-dude-oy/)
-* [MailChimp](https://mailchimp.com)
-* [ahrefs](https://ahrefs.com)
+* [MailChimp](https://mailchimp.com/)
+* [ahrefs](https://ahrefs.com/)
 
 ### Ylläpitäjälle
 
 Ylläpitäjä elää WordPress-hallintapaneeleissa ja palvelinten komentoriveillä.
 
-* [FileZilla](https://filezilla-project.org) tai [Forklift](https://binarynights.com)
+* [FileZilla](https://filezilla-project.org/) tai [Forklift](https://binarynights.com/)
 * [ManageWP](https://orion.managewp.com/dashboard/)
 * [Palvelintunnukset](https://handbook.dude.fi/palvelimet)
-* [AdminLabs-tunnukset](https://dashboard.adminlabs.com)
+* [AdminLabs-tunnukset](https://dashboard.adminlabs.com/)
 * [Verkkotunnusvälittäjän tunnus](https://registry.domain.fi/s/)
-* [Namecheap](https://www.namecheap.com)
-* [iwantmyname](https://iwantmyname.com)
-* [Cloudflare](https://www.cloudflare.com)
+* [Namecheap](https://www.namecheap.com/)
+* [iwantmyname](https://iwantmyname.com/)
+* [Cloudflare](https://www.cloudflare.com/)
 
 ### Yleiset macOS ohjelmasuositukset
 
 Macin ohjelmia voi asentaa ja tarvittaessa myös ostaa oman maun mukaan. Ohjelmia löytyy esimerkiksi [awesome-macos](https://github.com/jaywcjlove/awesome-mac) -listauksen alta. Duden käytössä on mm. seuraavia:
 
 * [Moom](https://manytricks.com/moom/)
-* [PixelSnap](https://getpixelsnap.com)
+* [PixelSnap](https://getpixelsnap.com/)
 * [Clean](https://rinik.net/clean/)
-* [Pock](https://pock.dev)
+* [Pock](https://pock.dev/)
 * [Gestimer](http://maddin.io/gestimer/)
-* [Magnet](https://magnet.crowdcafe.com)
+* [Magnet](https://magnet.crowdcafe.com/)
 * [Hidden Bar](https://github.com/dwarvesf/hidden)
-* [Contrast](https://usecontrast.com)
-* [f.lux](https://justgetflux.com)
+* [Contrast](https://usecontrast.com/)
+* [f.lux](https://justgetflux.com/)
 * [mac2imgur](https://github.com/mileswd/mac2imgur)
-* [Dropshare](https://dropshare.app)
-* [DaisyDisk](https://daisydiskapp.com)
-* [HazeOver](https://hazeover.com)
+* [Dropshare](https://dropshare.app/)
+* [DaisyDisk](https://daisydiskapp.com/)
+* [HazeOver](https://hazeover.com/)
 * [itsycal](https://www.mowglii.com/itsycal/)
 * [iStat Menus](https://bjango.com/mac/istatmenus/)
 * [Keka](https://www.keka.io/en/)
