@@ -10,17 +10,11 @@ Duden käytössä on tietyt fundamentaalit työkalut, joita jokainen Dude ka
 
 {% embed url="https://slack.com" %}
 
-Perinteisten face-2-face työkalujen lisäksi kommunikaatiotapana toimii ensisijaisesti [Slack](https://www.slack.com) siitä syystä, että se on laiteriippumaton, moderni mutta _irkkimäinen_, helppokäyttöinen, reaaliaikainen ja monipuolinen tapa kommunikoida. Slackiin saa myös kätevästi ulkopuoliset tahot ilmaiseksi yhden kanavan Guest-käyttäjänä. Slack-botit helpottavat elämää huomattavasti.
+Perinteisten face-2-face työkalujen lisäksi kommunikaatiotapana toimii ensisijaisesti [Slack](https://www.slack.com/) siitä syystä, että se on laiteriippumaton, moderni mutta _irkkimäinen_, helppokäyttöinen, reaaliaikainen ja monipuolinen tapa kommunikoida. Slackiin saa myös kätevästi ulkopuoliset tahot ilmaiseksi yhden kanavan Guest-käyttäjänä. Slack-botit helpottavat elämää huomattavasti.
 
-Firman sisäisten sähköpostien lähettäminen on **kiellettyä**, ellei kyseessä ole asiakkaaseen tai projektiin viittaava isompi aineistopläjäys tai speksaus, jonka haluaa välittää toiselle. Tästä jatkokeskustelut pyritään kuitenkin käymään kasvotusten tai Slackissa ja kirjaamaan asiat [Help Scoutiin](https://www.helpscout.com) tai [Trelloon](https://trello.com) ylös. Slackissa laukalle lähtevät isommat linjaukset ja keskustelut käydään lähtökohtaisesti Twistissä.
+Firman sisäisten sähköpostien lähettäminen on **kiellettyä**, ellei kyseessä ole asiakkaaseen tai projektiin viittaava isompi aineistopläjäys tai speksaus, jonka haluaa välittää toiselle. Tästä jatkokeskustelut pyritään kuitenkin käymään kasvotusten tai Slackissa ja kirjaamaan asiat [Help Scoutiin](https://www.helpscout.com/) tai [Trelloon](https://trello.com/) ylös. Slackissa laukalle lähtevät isommat linjaukset ja keskustelut käydään lähtökohtaisesti Twistissä.
 
 Jokaiselle projektille luodaan oma Slack-kanava, jotta projektikohtaiset keskustelut pysyvät lapasessa.
-
-### Keskustelut isommista linjauksista, ideoista ja firman kehityksestä
-
-{% embed url="https://twist.com" %}
-
-Ne keskustelut, jotka lähtevät Slackissa lapasesta, kuuluvat Twistiin. Twistissä käydään keskustelua firman kehityksestä, uusista työkaluista ja käytänteistä, periaatteista ja kaikista muistakin mieleen tulevista asioista, joita jokainen pohtii kulissien takana.
 
 ### Myynti ja asiakasrekisteri
 
@@ -34,7 +28,7 @@ Myynnin vaiheita on tasan kolme, **1. Liidi sisään**, **2. Yhteydenotto tehty*
 
 {% embed url="https://trello.com" %}
 
-Trello on käytössä siksi, että se on laiteriippumaton, selkeä ja helppokäyttöinen ja siellä projektien kokonaistilanne ja kokonaiskuva on nähtävissä yhdellä vilkaisulla. Trello on ikäänkuin projektien ”emoalus”, jonne linkitetään materiaalit muista palveluista. [Trelloon](https://www.trello.com) lisätään jokainen projekti kortiksi liiditasolta lähtien ja jokainen dude on **velvollinen raportoimaan projektin edistymisestä** kommenttikenttään aina kun projektiin tulee oleellisia muutoksia. Käytännössä kokonaiset asiakkaan lähettämät oleelliset sähköpostit on hyvä copy-pastettaa Trello-kommenttiin.
+Trello on käytössä siksi, että se on laiteriippumaton, selkeä ja helppokäyttöinen ja siellä projektien kokonaistilanne ja kokonaiskuva on nähtävissä yhdellä vilkaisulla. Trello on ikäänkuin projektien ”emoalus”, jonne linkitetään materiaalit muista palveluista. [Trelloon](https://www.trello.com/) lisätään jokainen projekti kortiksi liiditasolta lähtien ja jokainen dude on **velvollinen raportoimaan projektin edistymisestä** kommenttikenttään aina kun projektiin tulee oleellisia muutoksia. Käytännössä kokonaiset asiakkaan lähettämät oleelliset sähköpostit on hyvä copy-pastettaa Trello-kommenttiin.
 
 Joka maanantaisen viikkopalaverin yhteydessä lisätään tarvittaessa Trello-projekteihin kommentit tilanteen ajan tasalla pitämiseksi. Trellossa on oltava tieto heillekin, jotka eivät ole olleet projektissa mukana tai eivät ole olleet läsnä yhteisissä tapaamisissa, tai joita tieto ei suoraan edes koske. Tärkeää on, että tieto on kaikille helposti saatavilla ilman että tarvitsee erikseen kysellä ympäriinsä.
 
@@ -42,27 +36,23 @@ Olisi hyvä, jos jokaisessa projektikortissa olisi myös kuvankaappaus etusivu
 
 ### Projektin hallinta ja tehtävien pilkkominen
 
-{% embed url="https://favro.com" %}
+Heightiä (ja osin edelleen) Favroa käytetään projektien yksittäisiin näkymiin, lohkoihin ja pieniin tehtäviin, jotka liittyvät kiinteästi projektin osa-alueeseen niin suunnittelussa kuin koodaamisessakin. Height on valikoitunut projektityökaluksi, koska se on selkeä ja sallii sekä Sheet- että Kanban-näkymän käyttäjäkohtaisesti, johon Trello ei taivu. Trellon ”Projektit” board onkin ”emoalus”, jonne linkataan/integroidaan niin liidit, visut, tarjoukset kuin Height-projektitkin.
 
-Favroa käytetään projektien yksittäisiin näkymiin, lohkoihin ja pieniin tehtäviin, jotka liittyvät kiinteästi projektin osa-alueeseen niin suunnittelussa kuin koodaamisessakin. Favro on valikoitunut projektityökaluksi, koska se on selkeä ja sallii sekä Sheet- että Kanban-näkymän käyttäjäkohtaisesti, johon Trello ei taivu. Trellon ”Projektit” board onkin ”emoalus”, jonne linkataan/integroidaan niin liidit, visut, tarjoukset kuin Favro-projektitkin.
+Heightissä on pohja, jota käytetään uudelle projektille. Tässä projektissa on esiasetetut mm. **Suunnittelu**, **Moduulit**, **Saavutettavuus**, **Ennen julkaisua huomioitavaa**, **Julkaisun jälkeen** ja **Layout** -tehtävät. Näiden statuksia ovat **Työstöjonossa**, **Frontti työn alla**, **Bäkki työn alla**, **Odottaa materaalia**, **Odottaa fronttia**, **Odottaa bäkkiä**, **Testauksessa** ja **Valmis**. Varsinaisten päätehtävien alle luodaan tarvittaessa alatehtävät kokonaiskuvan hahmottamiseksi ja työstön helpottamiseksi. Projektiin liittyvät tehtävät lisätään aina Heightiin, ei Todoistiin.
 
-Favrossa on ”Uusi projekti” -pohja, jota käytetään uudelle projektille. Tässä projektissa on esiasetetut mm. **Suunnittelu**, **Moduulit**, **Saavutettavuus**, **Ennen julkaisua huomioitavaa**, **Julkaisun jälkeen** ja **Layout** -tehtävät. Näiden statuksia ovat **Työstöjonossa**, **Frontti työn alla**, **Bäkki työn alla**, **Odottaa materaalia**, **Odottaa fronttia**, **Odottaa bäkkiä**, **Testauksessa** ja **Valmis**. Varsinaisten päätehtävien alle luodaan tarvittaessa alatehtävät kokonaiskuvan hahmottamiseksi ja työstön helpottamiseksi. Projektiin liittyvät tehtävät lisätään aina Favroon, ei Todoistiin.
-
-Favrossa on myös projektien aikajanat näkyvillä. Aikajanoja päivitetään jokamaanantaisessa viikkopalaverissa [omassa collectionissaan](https://favro.com/organization/3b45e73eaf083f68fefef368/a086367edce88ae320e2ae40).
-
-Favroon kutsutaan myös asiakas mukaan. Näin viestintä säilyy läpinäkyvänä asiakkaan suuntaan jopa tehtävätasolla. Asiakasta varten Favrossa on myös **Kysymykset ja vastaukset** -osio, johon asiakas voi jättää omia kommenttejaan.
+Heightiin kutsutaan myös asiakas mukaan, erilliseen projektiin johon jaetaan sisäisen projektin isoimmat kokonaisuudet. Näin viestintä säilyy läpinäkyvänä asiakkaan suuntaan jopa tehtävätasolla. Asiakasta varten Heightissä on myös **Kysymykset ja vastaukset** -osio, johon asiakas voi jättää omia kommenttejaan.
 
 ### Projekteihin käytetyt tunnit
 
 {% embed url="https://clockify.me" %}
 
-[Clockify](https://clockify.me) varmistaa, että projektiin käytetyt tunnit pysyvät aisoissa, eli myydyt tunnit tulee käytettyä oikein ja projektille jää katetta. Clockifyssa pystyy seuraamaan myös aikataulun, hinnan ja kustannusten suhdetta toisiinsa. Clockifyn kokonaistilanne vilkaistaan tarvittaessa maanantaisin Trellon yhteydessä. Katso myös [Työajan seuranta](https://handbook.dude.fi/tyoskenteleminen-dudella/tyoajat/tyoajan-seuranta).
+[Clockify](https://clockify.me/) varmistaa, että projektiin käytetyt tunnit pysyvät aisoissa, eli myydyt tunnit tulee käytettyä oikein ja projektille jää katetta. Clockifyssa pystyy seuraamaan myös aikataulun, hinnan ja kustannusten suhdetta toisiinsa. Clockifyn kokonaistilanne vilkaistaan tarvittaessa maanantaisin Trellon yhteydessä. Katso myös [Työajan seuranta](https://handbook.dude.fi/tyoskenteleminen-dudella/tyoajat/tyoajan-seuranta).
 
 ### Koodaamiseen käytetty aika
 
 {% embed url="https://wakatime.com" %}
 
-[WakaTime](https://wakatime.com) on hyödyllinen työkalu koodiin käytetyn ajan seurantaan. WakaTime on valinnainen, koska työaikojen seurantaan on käytössä Harvest. WakaTimesta voikin luntata ajat, jos ne unohtuu merkata Harvestiin työstön aikana. Normaalin WakaTime-seurannan lisäksi ([sublime-wakatime](https://github.com/wakatime/sublime-wakatime)) käytössä mm. [bash-wakatime](https://github.com/irondoge/bash-wakatime) Terminalin seurantaan, [chrome-wakatime](https://github.com/wakatime/chrome-wakatime) selaindebuggaamisen seurantaan.
+[WakaTime](https://wakatime.com/) on hyödyllinen työkalu koodiin käytetyn ajan seurantaan. WakaTime on valinnainen, koska työaikojen seurantaan on käytössä Harvest. WakaTimesta voikin luntata ajat, jos ne unohtuu merkata Harvestiin työstön aikana. Normaalin WakaTime-seurannan lisäksi ([sublime-wakatime](https://github.com/wakatime/sublime-wakatime)) käytössä mm. [bash-wakatime](https://github.com/irondoge/bash-wakatime) Terminalin seurantaan, [chrome-wakatime](https://github.com/wakatime/chrome-wakatime) selaindebuggaamisen seurantaan.
 
 ### Suunnittelu
 
@@ -104,4 +94,4 @@ GitHub issueita avataan silloin kun kyseessä on laajempia ongelmia tai asioita,
 
 {% embed url="https://1password.com" %}
 
-Kaikki salasanat, lisenssit, avaimet ja tunnukset tallennetaan yhteiselle [1Password](https://www.1password.com)-tilille. Näin kenenkään ei tarvitse olla jatkuvasti kyselemässä tunnuksia eri paikkoihin, eikä kukaan jää ilman tunnuksia jos toinen estyy. Tietoturva-asioista lisää kohdassa 3.6.
+Kaikki salasanat, lisenssit, avaimet ja tunnukset tallennetaan yhteiselle [1Password](https://www.1password.com/)-tilille. Näin kenenkään ei tarvitse olla jatkuvasti kyselemässä tunnuksia eri paikkoihin, eikä kukaan jää ilman tunnuksia jos toinen estyy. Tietoturva-asioista lisää kohdassa 3.6.
