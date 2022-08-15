@@ -54,7 +54,7 @@ Ylläpitäjä elää WordPress-hallintapaneeleissa ja palvelinten komentoriveill
 * [FileZilla](https://filezilla-project.org/) tai [Forklift](https://binarynights.com/)
 * [ManageWP](https://orion.managewp.com/dashboard/)
 * [Palvelintunnukset](https://handbook.dude.fi/palvelimet)
-* [AdminLabs-tunnukset](https://dashboard.adminlabs.com/)
+* [Better Uptime](https://status.dude.fi/)
 * [Verkkotunnusvälittäjän tunnus](https://registry.domain.fi/s/)
 * [Namecheap](https://www.namecheap.com/)
 * [iwantmyname](https://iwantmyname.com/)
@@ -64,6 +64,7 @@ Ylläpitäjä elää WordPress-hallintapaneeleissa ja palvelinten komentoriveill
 
 Macin ohjelmia voi asentaa ja tarvittaessa myös ostaa oman maun mukaan. Ohjelmia löytyy esimerkiksi [awesome-macos](https://github.com/jaywcjlove/awesome-mac) -listauksen alta. Duden käytössä on mm. seuraavia:
 
+* [TopNotch](https://topnotch.app/)
 * [Moom](https://manytricks.com/moom/)
 * [PixelSnap](https://getpixelsnap.com/)
 * [Clean](https://rinik.net/clean/)
