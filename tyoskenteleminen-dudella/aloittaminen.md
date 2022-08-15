@@ -28,10 +28,10 @@ Yhteisiin tunnuksiin kuten [Envato Elementsiin](https://elements.envato.com/) l�
 Tärkeimmistä ohjelmista on avattu lisää osiossa [tyokalut.md](tyokalut.md "mention"). Asenna kuitenkin seuraavat (MacOS päivitysten jälkeen):
 
 * [Spark-sähköpostiohjelma](https://sparkmailapp.com/)
-* [Google Drive File Stream](https://support.google.com/a/answer/7491144?hl=en)
-* [Height](https://height.app) (toimii myös selaimella)
-* [Figma](https://www.figma.com/) (toimii myös selaimella)
-* [Trello](https://trello.com/fi/platforms) (toimii myös selaimella)
+* [Google Drive for Desktop](https://support.google.com/a/answer/7491144?hl=en)
+* [Height](https://height.app)
+* [Figma](https://www.figma.com/)
+* [Trello](https://trello.com/fi/platforms)
 
 ### Asiakaspalvelijalle / markkinoijalle
 
