@@ -6,7 +6,7 @@ Tälle sivulle on koottu alusta asti asiat, joita pitää tehdä työnteon alkae
 
 Ylläpitäjä kutsuu näihin palveluihin:
 
-* [G Suite -sähköpostiosoite](https://admin.google.com/)
+* [Google WorkSpace -sähköpostiosoite](https://admin.google.com/)
 * [1Password](https://www.1password.com/)
 * [Trello](https://www.trello.com/)
 * [Height](https://height.app)
