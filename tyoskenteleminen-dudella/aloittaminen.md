@@ -33,6 +33,10 @@ Tärkeimmistä ohjelmista on avattu lisää osiossa [tyokalut.md](tyokalut.md "m
 * [Figma](https://www.figma.com/)
 * [Trello](https://trello.com/fi/platforms)
 
+### Koodarille
+
+Koodarin työkalut ja säädöt löytyvät [sisäisistä kehittäjän doceista (vaatii kutsun)](https://app.gitbook.com/s/VVikkYgIZ9miBzwYDCYh/getting-started/first-day-at-work).
+
 ### Asiakaspalvelijalle / markkinoijalle
 
 Aspassa ja markkinoinnissa focus on chat- ja tikettityökalussa, blogissa, somessa ja sähköpostiliikenteessä.
@@ -82,7 +86,3 @@ Macin ohjelmia voi asentaa ja tarvittaessa myös ostaa oman maun mukaan. Ohjelmi
 * [iStat Menus](https://bjango.com/mac/istatmenus/)
 * [Keka](https://www.keka.io/en/)
 * [QuickShade](https://apps.apple.com/us/app/quickshade/id931571202?mt=12)
-
-### Koodarille
-
-Koodarin työkalut ja säädöt löytyvät [Duden sisäisestä kehittäjädokumentaatiosta](https://app.gitbook.com/s/VVikkYgIZ9miBzwYDCYh/getting-started/first-day-at-work).
