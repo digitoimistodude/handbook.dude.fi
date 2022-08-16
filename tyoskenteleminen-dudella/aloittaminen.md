@@ -11,6 +11,7 @@ Ylläpitäjä kutsuu näihin palveluihin:
 * [Trello](https://www.trello.com/)
 * [Height](https://height.app)
 * [Clockify](https://clockify.me/)
+* [GitBook](https://app.gitbook.com/)
 
 ### Luo itse tunnukset
 
