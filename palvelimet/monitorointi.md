@@ -1,6 +1,6 @@
 # Monitorointi
 
-Monitorointiin käytetään [Monitia](https://mmonit.com/monit/), [Muninia](https://munin-monitoring.org) ja [Better Uptimea](http://betteruptime.com). Sähköpostin välittäjänä toimii [Mailgun](https://www.mailgun.com).
+Monitorointiin käytetään [Monitia](https://mmonit.com/monit/), [Muninia](https://munin-monitoring.org/) ja [Better Uptimea](http://betteruptime.com/). Sähköpostin välittäjänä toimii [Mailgun](https://www.mailgun.com/).
 
 ### Monitorointiin liittyviä bloggauksia
 

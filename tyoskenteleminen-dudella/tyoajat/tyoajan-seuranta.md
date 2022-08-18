@@ -4,7 +4,7 @@ description: Tuntien merkitseminen.
 
 # Työajan seuranta
 
-Dudella on joustavat työajat, mutta työhön käytetty aika merkitään joko ajastamalla tehdessä tai manuaalisesti [Clockifyhin](https://clockify.me).&#x20;
+Dudella on joustavat työajat, mutta työhön käytetty aika merkitään joko ajastamalla tehdessä tai manuaalisesti [Clockifyhin](https://clockify.me/).&#x20;
 
 {% hint style="info" %}
 **Clockify** korvasi (2020 elo-2021 touko käytössä olleen) Harvestin kesällä 2021 pidemmän työkalujen kartoituksen tuloksena. Clockify voitti Harvestin sekä ominaisuuksissaan että hinnoittelussaan (ks. [Harvest alternative -ländäri](https://clockify.me/free-harvest-alternative)).

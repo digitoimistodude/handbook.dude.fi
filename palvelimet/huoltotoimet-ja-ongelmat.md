@@ -4,4 +4,4 @@ Hälytyksen tullessa dudelainen on velvollinen lähtemään välittömäs
 
 ### Reaaliaikainen tilanne
 
-Duden palvelinten reaaliaikaisen tilanteen, huoltokatkot ja muut ilmoitusluontoiset asiat näet osoitteesta [status.dude.fi](https://status.dude.fi). Sivulta voit myös tilata ilmoitukset sähköpostiisi.
+Duden palvelinten reaaliaikaisen tilanteen, huoltokatkot ja muut ilmoitusluontoiset asiat näet osoitteesta [status.dude.fi](https://status.dude.fi/). Sivulta voit myös tilata ilmoitukset sähköpostiisi.

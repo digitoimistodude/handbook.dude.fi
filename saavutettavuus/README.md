@@ -16,7 +16,7 @@ Duden omat sivut täyttävät WCAG 2.0 standardin saavutettavuuskriteerit. Täst
 
 Saavutettavuustestaukseen käytetään seuraavia työkaluja:
 
-* [Assistiv Labs](https://assistivlabs.com)
+* [Assistiv Labs](https://assistivlabs.com/)
 * [axe for Google Chrome](https://chrome.google.com/webstore/detail/axe/lhdoppojpmngadmnindnejefpokejbdd)
 * [pa11y](https://github.com/pa11y/pa11y)
 * TalkBack, NVDA ja VoiceOver -ruudunlukijat

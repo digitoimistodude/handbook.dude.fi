@@ -39,8 +39,8 @@ Dude.fi alla olevien sivustojen saavutettavuudesta vastaa [teknologiajohtaja Ron
 
 ### Täytäntöönpanomenettely
 
-Jos huomaat sivustolla saavutettavuusongelmia, anna ensin palautetta sivuston ylläpitäjälle. Vastauksessa voi kulua useampi vuorokausi. Jos et ole tyytyväinen saamaasi vastaukseen tai et saa vastausta lainkaan kahden viikon aikana, voit antaa palautteen Keski-Suomen aluehallintovirastoon. Keski-Suomen aluehallintoviraston [saavutettavuusvaatimukset.fi](https://www.saavutettavuusvaatimukset.fi)-sivustolla kerrotaan, miten valituksen voi tehdä ja miten asia käsitellään.
+Jos huomaat sivustolla saavutettavuusongelmia, anna ensin palautetta sivuston ylläpitäjälle. Vastauksessa voi kulua useampi vuorokausi. Jos et ole tyytyväinen saamaasi vastaukseen tai et saa vastausta lainkaan kahden viikon aikana, voit antaa palautteen Keski-Suomen aluehallintovirastoon. Keski-Suomen aluehallintoviraston [saavutettavuusvaatimukset.fi](https://www.saavutettavuusvaatimukset.fi/)-sivustolla kerrotaan, miten valituksen voi tehdä ja miten asia käsitellään.
 
-* [saavutettavuusvaatimukset.fi-verkkosivut](https://www.saavutettavuusvaatimukset.fi)
+* [saavutettavuusvaatimukset.fi-verkkosivut](https://www.saavutettavuusvaatimukset.fi/)
 * Sähköposti: [saavutettavuus@avi.fi](mailto:saavutettavuus@avi.fi)
 * Vaihde: [0295 016 000](tel:0295016000)

@@ -17,10 +17,6 @@ Dude pyrkii järjestämään kuukausittain yhteistä aktiviteettia. Tällaisia o
 
 Virkistyspäiviä pidetään aina suunnitelman mukaan.
 
-### Hierontaetu
-
-Työntekijän etuihin kuuluu hieronta neljä kertaa vuodessa.
-
 ### Koronahommat
 
 Maailmanlaajuisen pandemian yllättäessä (COVID-19) jätetään tarvittaessa kokoontumisia pitämättä ja/tai käytetään maskia.

@@ -8,7 +8,7 @@ Me Dudella uskomme, että verkkosivut ja palvelin kulkevat käsi kädessä. Hyv�
 
 ### Sijainti
 
-Duden **WordPress-optimoidut** dedikoidut rautapalvelimet sijaitsevat fyysisesti [Multim Oy:n](https://www.multim.fi) datacenterissä Ulvilassa, Ficolo Oy:n Suomen armeijan vanhaan peruskallioluolastoon rakennetussa korkean turvaluokituksen konesalissa.
+Duden **WordPress-optimoidut** dedikoidut rautapalvelimet sijaitsevat fyysisesti [Multim Oy:n](https://www.multim.fi/) datacenterissä Ulvilassa, Ficolo Oy:n Suomen armeijan vanhaan peruskallioluolastoon rakennetussa korkean turvaluokituksen konesalissa.
 
 Duden palvelimet ovat fyysisesti Multimin hoidossa, mutta palvelintekniikan ylläpito kuuluu Duden tekniselle tiimille.
 
@@ -32,13 +32,13 @@ Rautapalvelimen sisällä on uusimmat suorittimet ja keskusmuistia niin paljon, 
 
 Käyttöjärjestelmänä käytetään uusinta tuettua Ubuntu-serverijakelua, jossa ns. pitkän ajan tuki (LTS). Web-palvelintekniikkana toimii LEMP (Linux, Nginx + ngx-pagespeed, MariaDB, php-fpm), lähtökohtaisesti uusimmat versiot Nginxistä, MariaDB:stä sekä PHP:sta.
 
-Välimuistituksessa on käytössä uusin [ngx-pagespeed](https://developers.google.com/speed/pagespeed/module), joka tekee lukuisia toimenpiteitä suoraan RAM-muistiin, kuten lazylaodaa, pakkaa ja muuntaa sivustojen kuvat uuden sukupolven webp-muotoon fallbackeineen, minifoi HTML:n, CSS:n, JS:n, kuvakkeet ja näin ollen nopeuttaa kaikkia sivustoja. Kannan välimuistituksessa WP:n sisäänrakennettujen transientien ja cache-pluginien lisäksi käytössä on palvelintasolla [Redis](https://redis.io).
+Välimuistituksessa on käytössä uusin [ngx-pagespeed](https://developers.google.com/speed/pagespeed/module), joka tekee lukuisia toimenpiteitä suoraan RAM-muistiin, kuten lazylaodaa, pakkaa ja muuntaa sivustojen kuvat uuden sukupolven webp-muotoon fallbackeineen, minifoi HTML:n, CSS:n, JS:n, kuvakkeet ja näin ollen nopeuttaa kaikkia sivustoja. Kannan välimuistituksessa WP:n sisäänrakennettujen transientien ja cache-pluginien lisäksi käytössä on palvelintasolla [Redis](https://redis.io/).
 
 ### Päivitykset
 
-WordPress-päivitykset hoidetaan joka **maanantai** ja **torstai** ja [WPSCAN](https://wpscan.org)-tarkistukset ajetaan päivittäin WordPress-lisäosien haavoittuvuuksien varalta.
+WordPress-päivitykset hoidetaan joka **maanantai** ja **torstai** ja [WPSCAN](https://wpscan.org/)-tarkistukset ajetaan päivittäin WordPress-lisäosien haavoittuvuuksien varalta.
 
-Palvelinten huoltoikkuna on joka kuukauden toinen tiistai. Lisää tietoa huolloista ja palvelinten tilasta löytyy osoitteesta [status.dude.fi](https://status.dude.fi).
+Palvelinten huoltoikkuna on joka kuukauden toinen tiistai. Lisää tietoa huolloista ja palvelinten tilasta löytyy osoitteesta [status.dude.fi](https://status.dude.fi/).
 
 ### Varmuuskopiot
 
@@ -50,13 +50,13 @@ Palvelimille on asennettu lukuisia sovelluksia ja komponentteja, jotka seuraavat
 
 ### Nimipalvelut ja domainit
 
-Dude on virallinen Traficomin verkkotunnusvälittäjä. Domaineissa Dude luottaa [Suomen viestintävirastoon](https://registry.domain.fi) (.fi-domainit), [Namecheapiin](https://www.namecheap.com) (.com, .net, .info ja muut ulkomaiset päätteet) sekä [iwantmynameen](https://iwantmyname.com) (ulkomaiset ja erikoisemmat päätteet, esim. .business tai .coffee).
+Dude on virallinen Traficomin verkkotunnusvälittäjä. Domaineissa Dude luottaa [Suomen viestintävirastoon](https://registry.domain.fi/) (.fi-domainit), [Namecheapiin](https://www.namecheap.com/) (.com, .net, .info ja muut ulkomaiset päätteet) sekä [iwantmynameen](https://iwantmyname.com/) (ulkomaiset ja erikoisemmat päätteet, esim. .business tai .coffee).
 
-Nimipalvelimet (DNS) Dudelle tarjoaa [Cloudflare](https://www.cloudflare.com).
+Nimipalvelimet (DNS) Dudelle tarjoaa [Cloudflare](https://www.cloudflare.com/).
 
 ### Sähköpostivälitys
 
-Sähköpostiliikenteessä välittäjänä käytämme [Mailgunia](https://www.mailgun.com).
+Sähköpostiliikenteessä välittäjänä käytämme [Mailgunia](https://www.mailgun.com/).
 
 ### Aiheeseen liittyviä bloggauksia
 

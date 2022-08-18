@@ -24,4 +24,4 @@ Järjestimme 15.1.2021 kaikkien aikojen ensimmäisen ”Kysy meiltä” -teemap�
 
 Olemme avanneet myös montaa arkeemme liittyvää aihetta [blogimme](https://www.dude.fi/blogi) puolella.
 
-Jos jokin asia jäi näistäkin huolimatta vielä mietityttämään, ota yhteyttä [Twitterissä](https://twitter.com/dudetoimisto), [Facebookissa](https://www.facebook.com/digitoimistodude/), [sähköpostitse](mailto:moro@dude.fi) tai vaikkapa [verkkosivujemme](https://www.dude.fi) chatin kautta
+Jos jokin asia jäi näistäkin huolimatta vielä mietityttämään, ota yhteyttä [Twitterissä](https://twitter.com/dudetoimisto), [Facebookissa](https://www.facebook.com/digitoimistodude/), [sähköpostitse](mailto:moro@dude.fi) tai vaikkapa [verkkosivujemme](https://www.dude.fi/) chatin kautta
