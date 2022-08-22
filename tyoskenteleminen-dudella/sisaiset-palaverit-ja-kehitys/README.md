@@ -9,16 +9,15 @@ _Yrityksen kesken_ **viikkopalaveri** pidetään joka maanantai hyvissä ajoi
 Käydään läpi järjestyksessä:
 
 1. Yleinen jaksaminen ja viikonlopun kuulumiset
-2. Talousasiat (tarvittaessa)
-3. Liidien ja myynnin tilanne ([Pipedrive](https://digitoimistodudeoy-07a88c.pipedrive.com/))
-4. _Tauko tarvittaessa_ ☕️
-5. Projektien tilanne, eteneminen ja aikataulu ([Trello](https://trello.com/b/OkWcwoTl/projektit))
-6. **Kuukauden ensimmäisessä palaverissa:** mikä referenssi tehdään ja ketkä tekee?
-7. Muut tarvittaessa läpikäytävät asiat (tyhy, jne.)
+2. Myynnin tilanne ([Pipedrive](https://digitoimistodudeoy-07a88c.pipedrive.com/))
+3. _Tauko - Kahvikupit täyteen jne. (tarvittaessa)_ ☕️
+4. Projektien tilanne, eteneminen ja aikataulu ([Trello](https://trello.com/b/OkWcwoTl/projektit))
+5. **Kuukauden ensimmäisessä palaverissa:** Mikä referenssi tehdään ja ketkä tekee?
+6. Muut tarvittaessa läpikäytävät asiat (tyhy, jne.)
 
 Viikkopalaverin jälkeen jokainen luo omat viikkotavoitteensa henkilökohtaisella tasolla ja lisää ne Slackin _#munviikko_ -kanavalle tärkeysjärjestykset numeroemojein merkattuna.
 
-Maanantaipalaverin jälkeen pidetään brändiryhmän kokous (tarvittaessa) ja _devitsekki_, eli kehitystiimin palaveri (tarvittaessa).
+Maanantaipalaverin jälkeen pidetään _Devitsekki_, eli kehitystiimin palaveri, jossa käydään läpi mitä kukin tekee tällä viikolla.
 
 ### Omistajien kehityspalaverit
 
