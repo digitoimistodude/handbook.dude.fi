@@ -2,7 +2,7 @@
 
 ### Sisäiset palaverit <a href="#sisaeiset-palaverit" id="sisaeiset-palaverit"></a>
 
-_Yrityksen kesken_ **viikkopalaveri** pidetään joka maanantai hyvissä ajoin ennen isompien töiden aloittamista kello 9:00. Tästä periaatteesta pidetään kiinni, mutta kellonaikaa voidaan ruuvata tarpeen vaatiessa tai siirtää palaveri toiselle päivälle, jos kaikki eivät pääse paikalla. Loma-aikoihin viikkopalaveriin osallistuvat paikalla olijat.
+_Yrityksen kesken_ **viikkopalaveri** pidetään joka maanantai hyvissä ajoin ennen isompien töiden aloittamista kello 9:00. Tästä periaatteesta pidetään kiinni, mutta kellonaikaa voidaan ruuvata tarpeen vaatiessa tai siirtää palaveri toiselle päivälle, jos kaikki eivät pääse paikalle. Loma-aikoihin viikkopalaveriin osallistuvat paikalla olijat.
 
 ### Maanantaipalaverien agenda
 
