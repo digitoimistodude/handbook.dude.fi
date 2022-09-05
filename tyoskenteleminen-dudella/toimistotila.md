@@ -12,7 +12,7 @@ Käytössä on melkein tonnin työtuolit, joissa ei mene selkä rikki. Työpöyd
 
 ### Välineet
 
-Suosimme Macbook Pro -tietokonetta, jonka saa helposti ”pöytäkoneeksi” sekä mukaan. Kuulokkeet ovat sulkevat, jotta voi keskittyä.
+Suosimme Macbook Pro-tietokonetta, jonka saa helposti ”pöytäkoneeksi” sekä mukaan. Kuulokkeet ovat sulkevat ja tarvittaessa vastamelutoiminnolla varustetut, jotta voi keskittyä.
 
 ### Virvokkeet
 
@@ -36,9 +36,7 @@ Toimiston kaiuttimista tulee soittaa asiakasystävällistä musiikkia (yleine
 
 Musiikki ei saa missään nimessä häiritä asiakastapaamisia tai puheluita. Muissa tilanteissa musiikin kuuntelu on vapaata oman maun mukaan.
 
-Sekoilusoittolistaa [Mielipuolista – Yli 10h yhtä hulluutta](https://open.spotify.com/user/rolle-/playlist/2Uqu1MqUhYHipkDGUX1HTh) ei saa soittaa muulloin kuin tilapäisen mielenhäiriön iskiessä. Listalle on lisättävä hullut biisit ja korvamadot, joista haluaa eroon.
-
-Tähän poikkeuksena tilanne, jolloin tarjous on mennyt läpi, jolloin on soitettava Daft Punkin _Get Lucky_:
+Kun tarjous on mennyt läpi, jolloin on soitettava Daft Punkin _Get Lucky_:
 
 {% embed url="https://www.youtube.com/watch?v=5NV6Rdv1a3I" %}
 
