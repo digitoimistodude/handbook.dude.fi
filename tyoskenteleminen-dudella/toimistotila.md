@@ -4,7 +4,13 @@ description: Viihtyvyys on tärkeintä.
 
 # Toimistotila
 
-Duden toimisto sijaitsee Kauppakatu 14 sijaitsevassa rakennuksessa sisäänkäynnistä oikealla, käytössä on kokonaan rakennuksen toisen kerros. Paikka on valittu sillä perusteella, että se on sellainen, jossa kukin dude viihtyy parhaimmillaan valtaosan päivästä ja vuodesta. Toimistoa saa kehittää mielensä mukaan, kunhan asioista keskustellaan porukalla ennen näkyviä muutoksia.
+Duden toimisto sijaitsee **Kauppakatu 14** sijaitsevassa rakennuksessa sisäänkäynnistä oikealla, käytössä on kokonaan rakennuksen toisen kerros. Paikka on valittu sillä perusteella, että se on sellainen, jossa kukin dude viihtyy parhaimmillaan valtaosan päivästä ja vuodesta.
+
+Toimistoa saa kehittää mielensä mukaan, kunhan asioista keskustellaan porukalla ennen näkyviä muutoksia.
+
+### Toimistoaika
+
+Toimistolla vietetään aikaa toimistoajalla, silloin kun siellä on muita paikalla. Tämä koskee koko taloa. Toimistoaika on 8-17. Kun toimiston ovet ovat lukossa ja hälyt päällä, toimistolla **ei** vierailla ilman erityistä ja perusteltua syytä. Tämä sääntö ei koske yrityksen omistajia.
 
 ### Ergonomia
 
@@ -16,7 +22,7 @@ Suosimme Macbook Pro-tietokonetta, jonka saa helposti ”pöytäkoneeksi” sek�
 
 ### Virvokkeet
 
-Jura X8 kahvikone pitää huolta siitä, että kahvi on aina pavuista jauhettua. Kahvit tulee [Paahtimo Papulta](https://www.paahtimopapu.fi/).
+Jura X8 kahvikone pitää huolta siitä, että kahvi on aina pavuista jauhettua. Kahvit toimittaa [Paahtimo Papu](https://www.paahtimopapu.fi/).
 
 ### Siisteys
 
