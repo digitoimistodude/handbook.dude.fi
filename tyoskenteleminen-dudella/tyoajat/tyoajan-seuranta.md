@@ -50,13 +50,13 @@ Uuden viikon pyörähtäessä käyntiin sinulla on aikaa tiistaiaamuun asti merk
 
 Suositeltavin tapa on [ladata Mac app](https://clockify.me/mac-time-tracking), kirjoittaa kuvaustekstiin asia mitä on tekemässä ja painaa play-nappia. Valitse aina seurattavalle ajalle **Project** ja **Task**, kuvaus on myös suotavaa.
 
-![](https://handbook.dude.fi/media/xScreen-Shot-2021-06-01-12-54-34.70.png.pagespeed.ic.5WKyn3VW10.png)
+<figure><img src="../../.gitbook/assets/Screen-Shot-2021-06-01-12-54-34.70.png" alt=""><figcaption></figcaption></figure>
 
 Jos aikaa tulee käytettyä muuhun, pysäytä seuranta, ruuvaa timestampit kohdilleen, aloita toinen seuranta.
 
 Jos unohdit seurata aikaa, voit Auto Tracker -toiminnallisuuden kautta merkitä ”tehtyjä asioita” seurantajärjestelmään (valitse ajat, oikea click -> _Merge Add_);
 
-![](https://handbook.dude.fi/media/xScreen-Shot-2021-06-01-12-57-40.93.png.pagespeed.ic.rPehO0tZPE.png)
+<figure><img src="../../.gitbook/assets/Screen-Shot-2021-06-01-12-57-40.93.png" alt=""><figcaption></figcaption></figure>
 
 ### Ylläpitoprojektit
 
