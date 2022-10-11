@@ -6,9 +6,11 @@
 
 Dude noudattaa kaikkialla missä mahdollista [Do Not Track](https://en.wikipedia.org/wiki/Do\_Not\_Track) -periaatteita, joka ei yksilöi evästedataa. Näin ollen esimerkiksi Vimeo-videoupotteet eivät vaadi evästesuostumusbanneria.
 
-Käytämme Google Analyticsin sijaan avoimen lähdekoodin Plausiblea, jota hostaamme itse osoitteessa [analytics.dude.fi](https://analytics.dude.fi/). [Plausible ei käytä evästeitä](https://plausible.io/data-policy):
+Käytämme Google Analyticsin sijaan avoimen lähdekoodin Plausiblea, jota hostaamme itse osoitteessa [analytics.dude.fi](https://analytics.dude.fi/). Plausible ei käytä evästeitä:
 
 {% embed url="https://plausible.io/data-policy" %}
+
+> We don’t use cookies, we don’t generate any persistent identifiers and we don’t collect or store any personal or identifiable data.
 
 ### Hotjar
 
