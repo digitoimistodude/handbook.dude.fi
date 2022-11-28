@@ -8,12 +8,12 @@ _Yrityksen henkilökunnan kesken_ **viikkopalaveri** pidetään joka maanantai
 
 Käydään läpi järjestyksessä:
 
-1. Yleinen jaksaminen ja viikonlopun kuulumiset
+1. Viikonlopun kuulumiset _lyhyesti_
 2. Myynnin tilanne ([Pipedrive](https://digitoimistodudeoy-07a88c.pipedrive.com/))
-3. _Tauko - Kahvikupit täyteen jne. (tarvittaessa)_ ☕️
-4. Projektien tilanne, eteneminen ja aikataulu ([Trello](https://trello.com/b/OkWcwoTl/projektit))
+3. Projektien tilanne, eteneminen ja aikataulu ([Trello](https://trello.com/b/OkWcwoTl/projektit))
+4. _Tauko - Kahvikupit täyteen jne. (tarvittaessa)_ ☕️
 5. **Kuukauden ensimmäisessä palaverissa:** Mikä referenssi tehdään ja ketkä tekee?
-6. Muut tarvittaessa läpikäytävät asiat (tyhy, jne.)
+6. Muut tarvittaessa läpikäytävät asiat (tyhyaktiviteetit, jne.)
 
 Viikkopalaverin jälkeen jokainen luo omat viikkotavoitteensa henkilökohtaisella tasolla ja lisää ne Slackin _#munviikko_ -kanavalle tärkeysjärjestykset numeroemojein merkattuna.
 
@@ -21,10 +21,10 @@ Maanantaipalaverin jälkeen pidetään _Devitsekki_, eli kehitystiimin palaveri,
 
 ### Omistajien kehityspalaverit
 
-Viikoittainen tapaaminen maanantaisin klo 8:00.
+Viikoittainen tapaaminen perjantaisin klo 8:00.
 
 Lakisääteiset hallitusten kokoukset ja muut palaverit pidetään omistajien kesken aina tarvittaessa. Duden omistajat pyrkivät pitämään tapaamisen ylipäätään vähintään kerran kahdessa kuukaudessa.
 
 ### Kehityskeskustelut
 
-Toimitusjohtaja pitää pari kertaa vuodessa kehityskeskustelun jokaisen kanssa luottamuksellisesti.
+Pari kertaa vuodessa luottamuksellisesti.
