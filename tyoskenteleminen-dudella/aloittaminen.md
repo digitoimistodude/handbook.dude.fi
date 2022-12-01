@@ -12,17 +12,17 @@ Ylläpitäjä kutsuu näihin palveluihin:
 * [Height](https://height.app)
 * [Clockify](https://clockify.me/)
 * [GitBook](https://app.gitbook.com/)
+* [Slack](https://dudet.slack.com/)
 
 ### Luo itse tunnukset
 
 Näihin paikkoihin voit luoda itse tunnukset:
 
-* [Slack](https://dudet.slack.com/)
 * [Simplenote](https://simplenote.com/)
 
 ### Muut tunnukset
 
-Yhteisiin tunnuksiin kuten [Envato Elementsiin](https://elements.envato.com/) löytyy tunnukset 1Passwordin yhteisestä Dude-vaultista.
+Yhteisiin tunnuksiin kuten [Envato Elementsiin](https://elements.envato.com/) löytyy tunnukset 1Passwordin yhteisestä Dude-vaultista. Näihin ei tarvitse kiinnittää alussa huomiota.
 
 ### Asennettavat ohjelmat
 
