@@ -28,7 +28,6 @@ Yhteisiin tunnuksiin kuten [Envato Elementsiin](https://elements.envato.com/) l�
 
 Tärkeimmistä ohjelmista on avattu lisää osiossa [tyokalut.md](tyokalut.md "mention"). Asenna kuitenkin seuraavat (MacOS päivitysten jälkeen):
 
-* [Spark-sähköpostiohjelma](https://sparkmailapp.com/)
 * [Google Drive for Desktop](https://support.google.com/a/answer/7491144?hl=en)
 * [Height](https://height.app)
 * [Figma](https://www.figma.com/)
