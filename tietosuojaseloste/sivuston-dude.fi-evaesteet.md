@@ -14,10 +14,25 @@ Käytämme Google Analyticsin sijaan avoimen lähdekoodin Plausiblea, jota hosta
 
 ### Hotjar
 
+{% hint style="info" %}
+Käytössä kausittain. Poistettu käytöstä 25.1.2023.
+{% endhint %}
+
 Hotjar on analytiikkapalvelu, joka nauhoittaa kävijän kliksuttelua sivustolla. Kyseisen palvelun avulla saamme arvokasta tietoa sivustomme käytöstä, esimerkiksi siitä toimivatko suunnittelemamme käyttöliittymäelementit kuten on tarkoitettu. Hotjar yksilöi jonkin verran kävijästä dataa, kuten kävijän kulkeman kävijäpolun valikkorakenteissa, sijainnin, selaimen, ikkunan koon, jne.
 
 Hotjarin yksilöllisistä evästeistä voit lukea lisää Hotjarin sivuilta:
 
 {% embed url="https://help.hotjar.com/hc/en-us/articles/6952777582999-Cookies-Set-by-the-Hotjar-Tracking-Code" %}
 
-Hotjar on toistaiseksi ainoa seurantakoodi, jota sivustomme käyttää. Hotjar ei lähde automaattisesti käyttöön, vaan sinun on hyväksyttävä evästeet evästepopupista. Mainoksenestoblokkerit kuten AdGuard ja I Don't Care About Cookies estävät popupilmoituksen automaattisesti, jolloin sinua ei myöskään seurata.
+Hotjar ei lähde automaattisesti käyttöön, vaan sinun on hyväksyttävä evästeet evästepopupista. Mainoksenestoblokkerit kuten AdGuard ja I Don't Care About Cookies estävät popupilmoituksen automaattisesti, jolloin sinua ei myöskään seurata.
+
+### Leadfeeder
+
+{% hint style="info" %}
+Käytössä kausittain. Poistettu käytöstä 25.1.2023.
+{% endhint %}
+
+Leadfeeder haistelee sivustolla käyvät yritykset selkeään näkymään, josta näkee yrityksen nimen ja sen perustiedot, vieraillut sivut ja yrityksen yhteyshenkilöt. Leadfeeder jaottelee liidit eri laatuisiksi ja sen avulla voi suodattaa tietoja sekä luoda erilaisia listoja liideistä. Jos esimerkiksi tarjoat useita eri palveluita eri asiakassegmenteille, voit luoda sivutosi sisällön mukaan eri feedejä ja jaotella liidit sen mukaan. Lidiit myös linkkaavat käytössä olevaan CRM:ään.
+
+{% embed url="https://www.leadfeeder.com/cookies-and-tracking/" %}
+
