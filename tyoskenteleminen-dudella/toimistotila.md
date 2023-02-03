@@ -32,6 +32,16 @@ Toimistoa ei tarvitse siivota, ellei erikseen innostu, sillä toimiston siivoaa
 
 Lounge on paikka, jossa voi jutella ja rentoutua. Sieltä löytyy Arcade-pelikone, pari kitaraa, sohva, televisio ja Darts-tikkataulu.
 
+### Musiikki
+
+Toimiston kaiuttimista tulee soittaa asiakasystävällistä musiikkia (yleinen rock, 70-, 80-luku, radiohitit, jne.) taustamusiikkina. Musiikki on rock-painotteista, mutta sitä soitetaan laidasta laitaan.
+
+Musiikki ei saa missään nimessä häiritä asiakastapaamisia tai puheluita. Muissa tilanteissa musiikin kuuntelu on vapaata oman maun mukaan.
+
+Kun tarjous on mennyt läpi, jolloin on soitettava Daft Punkin _Get Lucky_:
+
+{% embed url="https://www.youtube.com/watch?v=5NV6Rdv1a3I" %}
+
 ### Aiheeseen liittyviä bloggauksia
 
 {% embed url="https://www.dude.fi/dude-nosti-tasoa-kerroksella-esittelyssa-uusi-kauppakadun-toimisto" %}
