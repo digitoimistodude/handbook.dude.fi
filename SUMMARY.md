@@ -12,6 +12,7 @@
   * [Toimistotila](tyoskenteleminen-dudella/toimistotila.md)
     * [Toimistoajat](tyoskenteleminen-dudella/toimistotila/toimistoajat.md)
     * [Viimeinen lähtijä](tyoskenteleminen-dudella/toimistotila/viimeinen-lahtija.md)
+    * [Musiikki](tyoskenteleminen-dudella/toimistotila/musiikki.md)
   * [Työajat](tyoskenteleminen-dudella/tyoajat/README.md)
     * [Työajan seuranta](tyoskenteleminen-dudella/tyoajat/tyoajan-seuranta.md)
     * [Etätyöskentely](tyoskenteleminen-dudella/tyoajat/etatyoskentely.md)
