@@ -12,8 +12,7 @@ Käydään läpi järjestyksessä:
 2. Myynnin tilanne ([Pipedrive](https://digitoimistodudeoy-07a88c.pipedrive.com/))
 3. Projektien tilanne, eteneminen ja aikataulu ([Trello](https://trello.com/b/OkWcwoTl/projektit))
 4. _Tauko - Kahvikupit täyteen jne._ ☕️
-5. **Kuukauden ensimmäisessä palaverissa:** Mikä referenssi tehdään ja ketkä tekee?
-6. Muut tarvittaessa läpikäytävät asiat (ilmoitusluontoiset, tyhyaktiviteetit, jne.)
+5. Muut tarvittaessa läpikäytävät asiat (ilmoitusluontoiset, tyhyaktiviteetit, jne.)
 
 Viikkopalaverin jälkeen jokainen luo omat viikkotavoitteensa henkilökohtaisella tasolla ja lisää ne Slackin _#munviikko_ -kanavalle tärkeysjärjestykset numeroemojein merkattuna.
 
