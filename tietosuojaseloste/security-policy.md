@@ -17,3 +17,4 @@ Following default WordPress functionalities **are not** eligible for security re
 * Sites under subdomains that are not under our control or servers
 * Public archived Github repositories
 * Reveal.js based or any other repository for presentations
+* The lack of visible rate limits on forms
