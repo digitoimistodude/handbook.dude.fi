@@ -12,6 +12,7 @@ To protect our customers, we request that you do not publicly post or share any 
 
 The following things **are not** eligible for security reports, as we’ve taken other precautions to mitigate the possible problems:
 
+* Plausible (analytics.dude.fi), please report these to [security@plausible.io](mailto:security@plausible.io)
 * Open REST API /users/ endpoint
 * Open author archives (user enumeration)
 * Sites under subdomains that are not under our control or servers

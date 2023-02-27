@@ -1,11 +1,7 @@
----
-description: Miten Duden verkkosivut hyödyntävät evästeitä (engl. cookies).
----
-
 # Sivuston Dude.fi evästeet
 
 {% hint style="info" %}
-1.1.2021-10.10.2023 Dude ei kerännyt minkäänlaista yksilöitävää dataa sivuillaan. Tästä syystä meillä ei myöskään ollut minkäänlaista evästepopuppia, koska sitä ei tarvittu. Tämän jälkeen evästeilmoitusta on käytetty kausittain.
+1.1.2021-10.10.2023 Dude ei kerännyt minkäänlaista yksilöitävää dataa sivuillaan. Tästä syystä meillä ei myöskään ollut minkäänlaista evästepopuppia, koska sitä ei tarvittu.
 {% endhint %}
 
 Dude noudattaa kaikkialla missä mahdollista [Do Not Track](https://en.wikipedia.org/wiki/Do\_Not\_Track) -periaatteita, joka ei yksilöi evästedataa. Näin ollen esimerkiksi Vimeo-videoupotteet eivät vaadi evästesuostumusbanneria.
@@ -40,12 +36,3 @@ Leadfeeder haistelee sivustolla käyvät yritykset selkeään näkymään, josta
 
 {% embed url="https://www.leadfeeder.com/cookies-and-tracking/" %}
 
-### Google Tag Manager ja Meta Pixel
-
-Google Tag Manager on Googlen tarjoama sivuston tagien ja seurantapikseleiden hallintatyökalu. GTM on Javascript-koodilla rakennettu monikäyttöinen työkalu, jonka avulla voit helposti asentaa lisäseurantatageja sivustollesi. Dude pyörittää omaa GTM-palvelinta Google Cloudissa, jonka kautta kaikki seurantapikselit tulevat sivustolle käyttöön.
-
-Käytännössä GTM:n avulla teemme maksettua mainontaa ja profiilia Internetissä. GTM:n kautta sivustolle ladataan evästeiden hyväksyessä mm. Meta Pixel markkinointia varten.
-
-{% embed url="https://developers.google.com/tag-platform/devguides/cookies" %}
-
-{% embed url="https://developers.facebook.com/docs/meta-pixel/" %}
