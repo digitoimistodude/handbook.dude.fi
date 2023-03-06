@@ -5,3 +5,7 @@ Tämä dokumentti käsittelee sitä, miten tietosuoja-asioita noudatetaan Digito
 Tietosuoja-asioihin liittyviin kysymyksiin vastaa Roni Laukkarinen. Sähköpostia voi lähettää osoitteeseen [roni@dude.fi](mailto:roni@dude.fi).
 
 Navigoi vasemmasta laidasta tai alla olevan sisällysluettelon avulla. Nide löytyy myös PDF- ja Office-muodossa.
+
+#### Katso myös:
+
+{% embed url="https://handbook.dude.fi/tietosuojaseloste/sivuston-dude.fi-evaesteet" %}

@@ -50,7 +50,7 @@
   * [Käytetäänkö sivustoilla evästeitä ja mitä ne ovat?](tietosuojaseloste/evasteet.md)
   * [Voidaanko tätä tietosuojaselostetta muuttaa?](tietosuojaseloste/voidaanko-tata-tietosuojaselostetta-muuttaa.md)
   * [Mihin voin ottaa yhteyttä?](tietosuojaseloste/yhteys.md)
-  * [Security Policy](tietosuojaseloste/security-policy.md)
 * [Saavutettavuus](saavutettavuus/README.md)
   * [Auditoinnit](saavutettavuus/saavutettavuusauditoinnit.md)
   * [Saavutettavuusseloste](saavutettavuus/saavutettavuusseloste.md)
+* [Security Policy](security-policy.md)
