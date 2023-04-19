@@ -6,6 +6,8 @@ Sivujen tekijästä ilmoittaa **Made by Dude** -badge, joka lisätään asiakkaa
 
 Badge räätälöidään sopimaan sivuston ilmeeseen niin, että se ei ole häiritsevästi etualalla. Alla joitakin voimassa olevia Made by Dude -badgeja.
 
+<figure><img src="../.gitbook/assets/2023-04-19 at 11.14.31 - Sapphire Hyena.gif" alt=""><figcaption><p><a href="https://www.turunakk.fi">turunakk.fi</a></p></figcaption></figure>
+
 ![faktia.fi](../.gitbook/assets/Screen-Shot-2022-04-12-14-11-51.72.png)
 
 ![eepos.fi](../.gitbook/assets/Screen-Shot-2022-04-12-14-07-19.15.png)
