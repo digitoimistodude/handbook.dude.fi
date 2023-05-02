@@ -28,7 +28,7 @@ Yhteisiin tunnuksiin kuten [Envato Elementsiin](https://elements.envato.com/) l�
 
 T채rkeimmist채 ohjelmista on avattu lis채채 osiossa [tyokalut.md](tyokalut.md "mention"). Asenna kuitenkin seuraavat (MacOS p채ivitysten j채lkeen):
 
-* [Google Drive for Desktop](https://support.google.com/a/answer/7491144?hl=en)
+* [Google Drive](https://support.google.com/drive/answer/7329379?sjid=6647561413202587078-EU\&hl=fi)
 * [Height](https://height.app)
 * [Figma](https://www.figma.com/)
 * [Trello](https://trello.com/fi/platforms)
