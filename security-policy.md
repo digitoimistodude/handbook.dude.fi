@@ -18,4 +18,6 @@ The following things **are not** eligible for security reports, as we’ve taken
 * Sites under subdomains that are not under our control or servers
 * Public archived GitHub repositories
 * Reveal.js based or any other repository for presentations
+* Autoindex for [slides.dude.fi](https://slides.dude.fi)
 * The lack of visible rate limits on forms
+* HSTS/HTTPS preloading, see [this](https://www.techtarget.com/searchsecurity/answer/Why-is-preloading-HTTP-Strict-Transport-Security-risky)
