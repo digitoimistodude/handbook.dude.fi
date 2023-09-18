@@ -22,7 +22,7 @@
   * [Kehittäjälle](tyoskenteleminen-dudella/kehittajalle.md)
   * [Ilmapiiri ja työrauha](tyoskenteleminen-dudella/ilmapiiri-ja-tyoerauha.md)
   * [Sisäiset palaverit ja kehitys](tyoskenteleminen-dudella/sisaiset-palaverit-ja-kehitys/README.md)
-    * [Koodin katselmointi](tyoskenteleminen-dudella/sisaiset-palaverit-ja-kehitys/koodin-katselmointi.md)
+    * [Perjantain kehityspalaveri](tyoskenteleminen-dudella/sisaiset-palaverit-ja-kehitys/perjantain-kehityspalaveri.md)
   * [Asiakaspalaverit ja aloitustyöpaja](tyoskenteleminen-dudella/asiakaspalaverit-ja-aloitustyopaja.md)
   * [Asiakaspalvelu ja tuki](tyoskenteleminen-dudella/asiakaspalvelu-ja-tuki.md)
 * [Tekninen dokumentaatio](tekninen-dokumentaatio.md)

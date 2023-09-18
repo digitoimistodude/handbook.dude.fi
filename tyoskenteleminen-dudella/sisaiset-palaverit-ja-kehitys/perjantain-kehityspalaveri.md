@@ -1,4 +1,16 @@
-# Koodin katselmointi
+---
+description: 'Aiemmin: ”Devitsekki II: Viikottainen koodin katselmointi™”.'
+---
+
+# Perjantain kehityspalaveri
+
+### Perjantaisin kehitytään <a href="#viikottainen-koodin" id="viikottainen-koodin"></a>
+
+Perjantaina pidämme kevyempää työpäivää ja kokoonnumme 14-15:45 jollakin workflowta, työkaluja tai koodia kehittävällä ajatuksella. Jokainen voi miettiä myös etukäteen, jos haluaa pitää jostakin aiheesta vapaaehtoisen esitelmän kaikille perjantaina. Perjantain keskustelunaiheita voi myös ehdottaa etukäteen Slackissa viikolla.
+
+{% hint style="info" %}
+Alla oleva on "legacya", eli vuodesta 2021 syyskuuhun 2023 järjestetty koodikatselmointi, rippistä. Jätetään tähän dokumentti arkistointia varten.
+{% endhint %}
 
 ### Viikottainen koodin katselmointi <a href="#viikottainen-koodin" id="viikottainen-koodin"></a>
 
