@@ -17,6 +17,7 @@
     * [Työajan seuranta](tyoskenteleminen-dudella/tyoajat/tyoajan-seuranta.md)
     * [Etätyöskentely](tyoskenteleminen-dudella/tyoajat/etatyoskentely.md)
   * [Työhyvinvointi](tyoskenteleminen-dudella/tyohyvinvointi/README.md)
+    * [Kun tulet kipeäksi](tyoskenteleminen-dudella/tyohyvinvointi/kun-tulet-kipeaeksi.md)
     * [Henkilökuntaedut](tyoskenteleminen-dudella/tyohyvinvointi/henkiloekuntaedut.md)
   * [Työkalut](tyoskenteleminen-dudella/tyokalut.md)
   * [Kehittäjälle](tyoskenteleminen-dudella/kehittajalle.md)
