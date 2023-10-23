@@ -9,6 +9,7 @@
   * [Alihankinta](yleiset-kaytanteet/alihankinta.md)
 * [Työskenteleminen Dudella](tyoskenteleminen-dudella/README.md)
   * [Aloittaminen](tyoskenteleminen-dudella/aloittaminen.md)
+  * [Oleelliset Slack-kanavat](tyoskenteleminen-dudella/oleelliset-slack-kanavat.md)
   * [Toimistotila](tyoskenteleminen-dudella/toimistotila.md)
     * [Toimistoajat](tyoskenteleminen-dudella/toimistotila/toimistoajat.md)
     * [Viimeinen lähtijä](tyoskenteleminen-dudella/toimistotila/viimeinen-lahtija.md)
