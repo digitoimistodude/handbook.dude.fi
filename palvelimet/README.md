@@ -4,11 +4,11 @@ description: Digitoimisto Dude + WordPress = Duden optimoitu palvelinympäristö
 
 # Palvelimet
 
-Me Dudella uskomme, että verkkosivut ja palvelin kulkevat käsi kädessä. Hyvää laatua ei synny ilman molempia puolia. Jokainen verkkosivusto ansaitsee alleen toimivan moottorin.
+Me [Dudella](https://www.dude.fi/) uskomme, että verkkosivut ja palvelin kulkevat käsi kädessä. Hyvää laatua ei synny ilman molempia puolia. Jokainen verkkosivusto ansaitsee alleen toimivan moottorin.
 
 ### Sijainti
 
-Duden **WordPress-optimoidut** dedikoidut rautapalvelimet sijaitsevat fyysisesti [Multim Oy:n](https://www.multim.fi/) datacenterissä Ulvilassa, Ficolo Oy:n Suomen armeijan vanhaan peruskallioluolastoon rakennetussa korkean turvaluokituksen konesalissa.
+Duden **WordPress-optimoidut** dedikoidut rautapalvelimet sijaitsevat fyysisesti [Multim Oy:n](https://www.multim.fi/) datacenterissä Ulvilassa, [Ficolo Oy:n/Vernen Suomen armeijan vanhaan peruskallioluolastoon rakennetussa korkean turvaluokituksen konesalissa](https://finland.verneglobal.com/fi/konesalit/the-rock/).
 
 Duden palvelimet ovat fyysisesti Multimin hoidossa, mutta palvelintekniikan ylläpito kuuluu Duden tekniselle tiimille.
 
