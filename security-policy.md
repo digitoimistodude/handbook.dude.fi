@@ -21,3 +21,4 @@ The following things **are not** eligible for security reports, as we’ve taken
 * Autoindex for [slides.dude.fi](https://slides.dude.fi)
 * The lack of visible rate limits on forms
 * HSTS/HTTPS preloading, see [this](https://www.techtarget.com/searchsecurity/answer/Why-is-preloading-HTTP-Strict-Transport-Security-risky)
+* Tabnabbing / target="\_blank" (see [this](https://www.dude.fi/uuteen-valilehteen-aukeavat-linkit), in Finnish)
