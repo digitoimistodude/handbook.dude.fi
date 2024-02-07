@@ -1,6 +1,10 @@
+---
+description: In English for disclosure.
+---
+
 # Security Policy
 
-At Digitoimisto Dude, we offer hosting and upkeep for our clients. Most of them lack comprehensive knowledge of security or privacy issues. That’s why we ask you to report the security issues directly to us.
+At Digitoimisto Dude, we offer top quality hosting and upkeep for our clients. Most of them lack comprehensive knowledge of security or privacy issues. That’s why we ask you to report the security issues directly to us.
 
 After receiving a disclosure, we will let all affected customers know about that with all the necessary details included. If the disclosed issue is severe or the reporter asks us, we’ll ensure that the client acknowledges receipt of the information directly to the reporter.
 
