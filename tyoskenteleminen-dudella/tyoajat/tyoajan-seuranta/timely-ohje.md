@@ -6,6 +6,15 @@ description: Näin kellotat työaikasi.
 
 Timelyn virallinen käyttöohje löytyy osoitteesta [support.timelyapp.com](https://support.timelyapp.com/). Tämän ohjeen avulla pääset kuitenkin alkuun.
 
+### Aloittaminen
+
+* Lataa [Mac-sovellus](https://timelyapp.com/downloads)
+* Halutessasi voit ladata myös mobiilisovelluksen, jonka avulla GPS-paikannuksella tiedät esim. milloin olet missäkin tai voit hyväksyä tunteja ilman tietokonetta (valinnainen)
+
+{% hint style="info" %}
+Timely on tarkka yksityisyydestä, eikä käytä valvontakapitalismitaktiikoita. Mikään sovelluksen seuraama ei siis näy kenelläkään muulle kuin sinulle. Lue myös Timelyn yksityiskohtainen [Privacy](https://timelyapp.com/privacy)-seloste.
+{% endhint %}
+
 ### Työajan kellottaminen työpäivän päätteeksi
 
 Timely on puoliautomaattinen työkalu, joten voit rauhassa unohtaa Timelyn Memory appin taustalle ja merkitä työtuntisi päivän päätteeksi, esimerkiksi työaikasi loppuessa klo 17 tai 16. Timely arvailee mitä olet tehnyt ja oppii ajan kanssa, jolloin työajan merkkailu nopeutuu.
