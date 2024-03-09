@@ -12,6 +12,14 @@ Timely on puoliautomaattinen työkalu, joten voit rauhassa unohtaa Timelyn Memor
 
 #### Nyrkkisäännöt
 
+* **Lisää kellotettavaan kohtaan aina minimissään tehtävän Height ID, mielellään myös tehtävän selkokielinen nimi.** Eli muotoa "Tehtävän selkokielinen nimi T-99999". Jos Height-tunnistetta ei ole, lisää kuvaus siitä mitä teit.
+
+<div align="left">
+
+<figure><img src="../../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+
+</div>
+
 * **Aloittamisajankohdalla ja lopettamisajankohdalla ei ole suurta merkitystä, kunhan 7h 30min tulee päivässä täyteen.**
 * **Merkitse työaikaa vähintään 7,5 tuntia**, ellei sinulla ole tasattavia tunteja esim. edellisistä venymisistä olemassa (varmista nämä esihenkilöltäsi).
 * **Pyöristä lyhyemmät ajat esim. lähimpään 15-30 minuuttiin**, jotta saat tasatunnit aikaan eikä tarvitse kikkailla minuuttien kanssa.
