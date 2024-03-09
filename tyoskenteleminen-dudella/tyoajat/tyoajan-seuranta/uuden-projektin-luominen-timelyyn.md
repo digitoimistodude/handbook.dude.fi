@@ -6,9 +6,13 @@ Height-integraatio luo uuden tehtävän Timelyyn aina kun Hinta -kentästä löy
 
 <div align="left">
 
-<figure><img src="../../../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
 
 </div>
+
+{% hint style="info" %}
+Huom! Projektin luominen pitäisi tapahtua heti kun Hinta-kentässä on hinta euromerkillä € varustettuna, mutta joskus Hinta -kenttä pitää päivittää toiseen kertaan, jotta integraatio haistaa muutoksen.
+{% endhint %}
 
 Tällöin projektit menevät "Needs update" clientin alle Timelyssä seuraavasti:
 
