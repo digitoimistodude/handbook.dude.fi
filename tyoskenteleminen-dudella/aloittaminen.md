@@ -10,7 +10,7 @@ Ylläpitäjä kutsuu näihin palveluihin:
 * [1Password](https://www.1password.com/)
 * [Trello](https://www.trello.com/)
 * [Height](https://height.app)
-* [Clockify](https://clockify.me/)
+* [Timely](https://timelyapp.com)
 * [GitBook](https://app.gitbook.com/)
 * [Slack](https://dudet.slack.com/)
 
@@ -41,21 +41,17 @@ Koodarin työkalut ja säädöt löytyvät [sisäisistä kehittäjän doceista (
 
 Aspassa ja markkinoinnissa focus on chat- ja tikettityökalussa, blogissa, somessa ja sähköpostiliikenteessä.
 
-* [Crisp](https://crisp.chat/)
 * [Help Scout](https://www.helpscout.com/)
 * [Dude.fi -blogi](https://www.dude.fi/blogi)
-* [Instagram](https://instagram.com/digitoimistodude/)
-* [Facebook](https://www.facebook.com/digitoimistodude/)
-* [Twitter](https://www.twitter.com/dudetoimisto/)
-* [LinkedIn-yrityssivu](https://www.linkedin.com/company/digitoimisto-dude-oy/)
-* [MailChimp](https://mailchimp.com/)
 * [ahrefs](https://ahrefs.com/)
+* Uutiskirjetyökalu
+* Somepalvelut
 
 ### Ylläpitäjälle
 
 Ylläpitäjä elää WordPress-hallintapaneeleissa ja palvelinten komentoriveillä.
 
-* [FileZilla](https://filezilla-project.org/) tai [Forklift](https://binarynights.com/)
+* [FileZilla](https://filezilla-project.org/)
 * [ManageWP](https://orion.managewp.com/dashboard/)
 * [Palvelintunnukset](https://handbook.dude.fi/palvelimet)
 * [Better Uptime](https://status.dude.fi/)
@@ -68,21 +64,16 @@ Ylläpitäjä elää WordPress-hallintapaneeleissa ja palvelinten komentoriveill
 
 Macin ohjelmia voi asentaa ja tarvittaessa myös ostaa oman maun mukaan. Ohjelmia löytyy esimerkiksi [awesome-macos](https://github.com/jaywcjlove/awesome-mac) -listauksen alta. Duden käytössä on mm. seuraavia:
 
-* [TopNotch](https://topnotch.app/)
 * [Moom](https://manytricks.com/moom/)
 * [PixelSnap](https://getpixelsnap.com/)
 * [Clean](https://rinik.net/clean/)
-* [Pock](https://pock.dev/)
-* [Gestimer](http://maddin.io/gestimer/)
 * [Magnet](https://magnet.crowdcafe.com/)
-* [Hidden Bar](https://github.com/dwarvesf/hidden)
+* [Hidden Bar](https://github.com/dwarvesf/hidden) / [Bartender](https://www.macbartender.com/)
 * [Contrast](https://usecontrast.com/)
 * [f.lux](https://justgetflux.com/)
-* [mac2imgur](https://github.com/mileswd/mac2imgur)
-* [Dropshare](https://dropshare.app/)
+* [Dropshare](https://dropshare.app/) / [Shottr](https://shottr.cc/)
 * [DaisyDisk](https://daisydiskapp.com/)
 * [HazeOver](https://hazeover.com/)
 * [itsycal](https://www.mowglii.com/itsycal/)
 * [iStat Menus](https://bjango.com/mac/istatmenus/)
 * [Keka](https://www.keka.io/en/)
-* [QuickShade](https://apps.apple.com/us/app/quickshade/id931571202?mt=12)
