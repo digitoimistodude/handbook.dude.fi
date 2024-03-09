@@ -6,21 +6,13 @@ description: Kellokortti vai ei?
 
 ### Sano ei kellokorteille
 
-Dude noudattaa **noin 8 tunnin työaikoja**, mutta tästä ajasta jokainen on itse vastuussa käyttämästään ajasta sen mukaan miten parhaaksi näkee tavoitteet ja aikataulut huomioiden.
+Duden päivittäinen työaika on **7 tuntia, 30 minuuttia**. Jokainen on vastuussa omasta työajan käyttämisestään ja tunnit on merkattava ylös (katso myös [Työajan seuranta](tyoajan-seuranta/)).
 
-Työmaalla on oltava _vähintään työsopimuksessa merkityn ajan_ verran. Dudella ei ole ”kiinteitä” kellotauluun hakattuja saapumis- ja poistumisaikoja, mutta lähtökohtana on että jos ei saavu viimeistään yhdeksän (9:00) aikaan töissä, on hyvä ilmoittaa siitä muille. Erikoisemmat työajat sovitaan aina erikseen.
-
-Työajat ovat Dudella joustavia, eli työt voi esimerkiksi aloittaa kahdeksalta ja lopettaa neljältä tai aloittaa vaikkapa kymmeneltä ja lopettaa kuudelta. Koska asiakkaat ovat valveilla keskimäärin aamusta iltapäivään, myös palveluun liittyvät työt ajoitetaan aamu, aamupäivä ja iltapäivä-ajoille.
+Työmaalla on oltava vähintään _työopimuksessa merkityn ajan_ verran. Työajat ovat Dudella joustavia, eli työt voi esimerkiksi aloittaa kahdeksalta ja lopettaa neljältä tai aloittaa vaikkapa kymmeneltä ja lopettaa kuudelta. Koska asiakkaat ovat valveilla keskimäärin aamusta iltapäivään, myös palveluun liittyvät työt ajoitetaan aamu, aamupäivä ja iltapäivä-ajoille.
 
 {% hint style="warning" %}
-**Huom!** Vaikka suosimme yrityksessämme itseohjautuvuutta, edellytämme kahdeksan tunnin työpäiviä, johon sisältyy puolen tunnin lounastauko. Muita taukoja saa pitää niin monta kuin huvittaa, esim. Lounge-tilassa. Ilta- ja viikonlopputöitä tulisi välttää.
+**Huom!** Vaikka suosimme yrityksessämme itseohjautuvuutta, edellytämmep pääsääntöisesti kahdeksan tunnin työpäiviä, johon sisältyy puolen tunnin lounastauko. Tauot yms. kuuluu asiaan, esim. Lounge-tilassa. Ilta- ja viikonlopputöitä ei lähtökohtaisesti tehdä.
 {% endhint %}
-
-Lisää työajan seurannasta kohdassa [Työajan seuranta](https://handbook.dude.fi/tyoskenteleminen-dudella/tyoajat/tyoajan-seuranta).
-
-> ”Ei ole väliä missä ja milloin töitä tekee, kunhan ne tulee tehtyä.”
-
-Projekteihin käytetyt tunnit merkataan kuitenkin [ajanaseurantajärjestelmään](https://handbook.dude.fi/tyoskenteleminen-dudella/tyoajat/tyoajan-seuranta) päivittäin.
 
 
 
