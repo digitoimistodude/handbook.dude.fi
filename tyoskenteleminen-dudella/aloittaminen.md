@@ -35,7 +35,7 @@ Tärkeimmistä ohjelmista on avattu lisää osiossa [tyokalut.md](tyokalut.md "m
 
 ### Koodarille
 
-Koodarin työkalut ja säädöt löytyvät [sisäisistä kehittäjän doceista (vaatii kutsun)](http://127.0.0.1:5000/s/VVikkYgIZ9miBzwYDCYh/getting-started/first-day-at-work).
+Koodarin työkalut ja säädöt löytyvät [sisäisistä kehittäjän doceista (vaatii kutsun)](https://app.gitbook.com/s/VVikkYgIZ9miBzwYDCYh/getting-started/first-day-at-work).
 
 ### Asiakaspalvelijalle / markkinoijalle
 

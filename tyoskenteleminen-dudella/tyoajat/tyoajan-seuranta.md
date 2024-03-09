@@ -4,62 +4,18 @@ description: Tuntien merkitseminen.
 
 # Työajan seuranta
 
-Dudella on joustavat työajat, mutta työhön käytetty aika merkitään joko ajastamalla tehdessä tai manuaalisesti [Clockifyhin](https://clockify.me/).&#x20;
+Dudella työajan seurannassa käytetään [Timelyä](https://timelyapp.com/). Teknologiajohtaja Roni Laukkarinen esitteli Timelyn Clockifyn seuraajana 8.3.2024.
 
-{% hint style="info" %}
-**Clockify** korvasi (2020 elo-2021 touko käytössä olleen) Harvestin kesällä 2021 pidemmän työkalujen kartoituksen tuloksena. Clockify voitti Harvestin sekä ominaisuuksissaan että hinnoittelussaan (ks. [Harvest alternative -ländäri](https://clockify.me/free-harvest-alternative)).
-{% endhint %}
-
-Työajan seurannan tarkoituksena ei ole seurata ”old schoolisti” työaikojen noudattamista kellokorttimeiningillä vaan enemmänkin tarkkailla kuinka hyvin projektit pysyvät budjetin asettamissa raameissa. Tällä vältetään ylilaadun syntymistä ja varmistetaan että liiketoiminta säilyy kannattavana.
+<figure><img src="../../.gitbook/assets/Työajan seuraaminen Dudella.001.jpeg" alt="Miksi Dude ylipäätään seuraa työaikaa? - Työaikalaki velvoittaa työnantajan seuraamaan työaikaa (Työaikalaki 872/2019 §) - Ajanseuranta on työntekijän turvaksi kehitetty, ajanseurannan ei ole tarkoitus “kytätä” - Nähdään miten kannattavaa eri tekeminen on - Tuntilaskutusta varten tarvitaan ajanseurantajärjestelmä, jotta tiedetään paljonko voidaan laskuttaa - Voidaan seurata kunkin työkuormaa eli kapasiteettia ja ehkäistä ylikuormittumista - On ihan normaalia, että päivässä on taukoja tai ei-tuottavaa aikaa"><figcaption><p><a href="https://drive.google.com/file/d/14KSRM4snZnP4rj51w-1TjgmGmNdC-nan/view?usp=drive_link">Työajan seuraaminen Dudella</a> -slidet.</p></figcaption></figure>
 
 > Toteutuneiden työaikojen seuranta on Suomessa nykyään pakollista myös kuukausipalkkaisille työntekijöille sekä toimihenkilö- ja asiantuntijatyössä.
 
 [_1.1.2020 uudistettu työaikalaki_](https://www.finlex.fi/fi/laki/alkup/2019/20190872)
 
-Clockifyn projektihierarkia (esimerkki):
+### Joustavan työajan seuranta
 
-* &#x20;**Asiakas Oy**
-  * &#x20;Asiakasprojekti
-    * &#x20;Koodaus
-    * &#x20;Suunnittelu
-    * &#x20;Palaverit
-  * &#x20;Ylläpito
-    * &#x20;Asiakaspalvelu/selvittely
-    * &#x20;Pienkehitys
-* &#x20;**Digitoimisto Dude Oy**
-  * &#x20;Firman tekninen kehitys
-    * &#x20;Sisäinen kehitys
-    * &#x20;Palvelimet
-  * &#x20;Juoksevat asiat ja yleinen muu työskentely
-    * &#x20;Yleinen säätö
-    * &#x20;Selvittely
-    * &#x20;Palaverit
-    * &#x20;Asiakaspalvelu
-  * &#x20;Liiketoiminnan kehitys
-    * &#x20;Talous
-    * &#x20;Markkinointi
-    * &#x20;Dokumentointi
+Dudella on joustavat työajat. Lain mukaan _joustotyöajassa_ **työntekijän tehtävä** on toimittaa työnantajalle säännöllisen työajan tunnit.
 
-Voit siis seurata myös ei-laskutettavia/projektien ulkopuolisia tunteja merkitsemällä aikasi Digitoimisto Dude Oy asiakkaan alle johonkin projektiin ja alatehtävään. Esimerkiksi tämän kirjoittaminen träkkäytyy _Digitoimisto Dude Oy: Liiketoiminnan kehitys: Dokumentointi_ alle.
+Työaikatiedoista tule ilmetä viikoittaisen työajan määrä, lounaat yli 30min, tauot, sairaspoissaolot ja lomat. Työnantajan velvollisuus on huolehtia, että työntekijä toimittaa kyseiset tiedot, koska näiden tietojen pohjalta työnantajan velvollisuus on pitää työaikakirjanpitoa. (Lisää: [Työsuojelu.fi](https://tyosuojelu.fi/tyosuhde/tyoaika/joustotyoaika))
 
-Ei-laskutettavien tai projektin ulkopuolisten tuntien seuraamista (esim. sisäinen kehitys tai markkinointitoimenpiteet) **ei velvoiteta** työntekijöiltä, mutta projektiin tai laskutettavaan työhön liittyvät tunnit **on merkittävä** Clockifyyn mahdollisimman reaaliajassa. Suosittelemme kuitenkin myös muidenkin kuin laskutettavien tuntien seurantaa yhdenmukaisuuden ja multitaskaamisen ehkäisemisen vuoksi. Rolle kirjoitti aiheesta blogiinsa rolle.design huhtikuussa 2021: [The importance of tracking time in your personal productive workflow](https://rolle.design/the-importance-of-tracking-time-in-your-personal-productive-workflow).
-
-Uuden viikon pyörähtäessä käyntiin sinulla on aikaa tiistaiaamuun asti merkitä unohtuneet tunnit, tämän jälkeen historiassa olevat tunnit lukitaan automaattisesti.
-
-### Ohje käyttöön
-
-Suositeltavin tapa on [ladata Mac app](https://clockify.me/mac-time-tracking), kirjoittaa kuvaustekstiin asia mitä on tekemässä ja painaa play-nappia. Valitse aina seurattavalle ajalle **Project** ja **Task**, kuvaus on myös suotavaa.
-
-<figure><img src="../../.gitbook/assets/Screen-Shot-2021-06-01-12-54-34.70.png" alt=""><figcaption></figcaption></figure>
-
-Jos aikaa tulee käytettyä muuhun, pysäytä seuranta, ruuvaa timestampit kohdilleen, aloita toinen seuranta.
-
-Jos unohdit seurata aikaa, voit Auto Tracker -toiminnallisuuden kautta merkitä ”tehtyjä asioita” seurantajärjestelmään (valitse ajat, oikea click -> _Merge Add_);
-
-<figure><img src="../../.gitbook/assets/Screen-Shot-2021-06-01-12-57-40.93.png" alt=""><figcaption></figcaption></figure>
-
-### Ylläpitoprojektit
-
-Jokaiseen ylläpitoprojektiin kuuluu yleensä vähintään yksi tunti pienkehitystä/palvelua. Seuraamalla ylläpitoa omana projektinaan saadaan reaaliaikainen seuranta siitä kuinka paljon asiakkaalle on tehty ylläpitoa/asiakaspalvelua/pienkehitystä kuukauden aikana ja ylimenevä osuus voidaan tarvittaessa laskuttaa pienkehityksenä.
-
-Ylläpitoprojektiin valitaan ”Budget resets every month”. Projektiin on aina olemassa ajantasainen pohja (template).
+###
