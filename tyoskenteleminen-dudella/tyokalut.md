@@ -18,7 +18,7 @@ Jokaiselle projektille luodaan oma Slack-kanava, jotta projektikohtaiset keskust
 
 ### Myynti ja asiakasrekisteri
 
-{% embed url="https://www.pipedrive.com" %}
+{% embed url="https://www.pipedrive.com/?reset" %}
 
 Pipedrive on kevyt CRM ja myyntisuppilo myynnin tukena. Pipedrive toimii myös asiakasrekisterinä, johon listataan kaikki asiakastiedot, ylläpitosopimusten tiedot ja muut asiakkuuteen liittyvät asiat. Pipedriveen menee suoraan yhteydenotot esimerkiksi [verkkosivuston lomakkeen](https://www.dude.fi/yhteystiedot) kautta.
 
@@ -36,23 +36,19 @@ Olisi hyvä, jos jokaisessa projektikortissa olisi myös kuvankaappaus etusivu
 
 ### Projektin hallinta ja tehtävien pilkkominen
 
-Heightiä (ja osin edelleen) Favroa käytetään projektien yksittäisiin näkymiin, lohkoihin ja pieniin tehtäviin, jotka liittyvät kiinteästi projektin osa-alueeseen niin suunnittelussa kuin koodaamisessakin. Height on valikoitunut projektityökaluksi, koska se on selkeä ja sallii sekä Sheet- että Kanban-näkymän käyttäjäkohtaisesti, johon Trello ei taivu. Trellon ”Projektit” board onkin ”emoalus”, jonne linkataan/integroidaan niin liidit, visut, tarjoukset kuin Height-projektitkin.
+{% embed url="https://height.app/product" %}
 
-Heightissä on pohja, jota käytetään uudelle projektille. Tässä projektissa on esiasetetut mm. **Suunnittelu**, **Moduulit**, **Saavutettavuus**, **Ennen julkaisua huomioitavaa**, **Julkaisun jälkeen** ja **Layout** -tehtävät. Näiden statuksia ovat **Työstöjonossa**, **Frontti työn alla**, **Bäkki työn alla**, **Odottaa materaalia**, **Odottaa fronttia**, **Odottaa bäkkiä**, **Testauksessa** ja **Valmis**. Varsinaisten päätehtävien alle luodaan tarvittaessa alatehtävät kokonaiskuvan hahmottamiseksi ja työstön helpottamiseksi. Projektiin liittyvät tehtävät lisätään aina Heightiin, ei Todoistiin.
+Height on valikoitunut projektityökaluksi, koska se on selkeä ja sallii sekä Sheet- että Kanban-näkymän, johon Trello ei taivu. Trellon ”Projektit” board onkin ”emoalus”, jonne linkataan/integroidaan niin liidit, visut, tarjoukset kuin Height-projektitkin.
 
-Heightiin kutsutaan myös asiakas mukaan, erilliseen projektiin johon jaetaan sisäisen projektin isoimmat kokonaisuudet. Näin viestintä säilyy läpinäkyvänä asiakkaan suuntaan jopa tehtävätasolla. Asiakasta varten Heightissä on myös **Kysymykset ja vastaukset** -osio, johon asiakas voi jättää omia kommenttejaan.
+Heightissä on pohja, jota käytetään uudelle projektille. Varsinaisten päätehtävien alle luodaan tarvittaessa alatehtävät kokonaiskuvan hahmottamiseksi ja työstön helpottamiseksi. Projektiin liittyvät tehtävät lisätään aina Heightiinn.
 
-### Projekteihin käytetyt tunnit
+Heightiin kutsutaan myös asiakas mukaan, erilliseen projektiin johon jaetaan sisäisen projektin isoimmat kokonaisuudet. Näin viestintä säilyy läpinäkyvänä asiakkaan suuntaan jopa tehtävätasolla.
 
-{% embed url="https://clockify.me" %}
+### Työajan seuranta
 
-[Clockify](https://clockify.me/) varmistaa, että projektiin käytetyt tunnit pysyvät aisoissa, eli myydyt tunnit tulee käytettyä oikein ja projektille jää katetta. Clockifyssa pystyy seuraamaan myös aikataulun, hinnan ja kustannusten suhdetta toisiinsa. Clockifyn kokonaistilanne vilkaistaan tarvittaessa maanantaisin Trellon yhteydessä. Katso myös [Työajan seuranta](https://handbook.dude.fi/tyoskenteleminen-dudella/tyoajat/tyoajan-seuranta).
+{% embed url="https://timelyapp.com/" %}
 
-### Koodaamiseen käytetty aika
-
-{% embed url="https://wakatime.com" %}
-
-[WakaTime](https://wakatime.com/) on hyödyllinen työkalu koodiin käytetyn ajan seurantaan. WakaTime on valinnainen, koska työaikojen seurantaan on käytössä Harvest. WakaTimesta voikin luntata ajat, jos ne unohtuu merkata Harvestiin työstön aikana. Normaalin WakaTime-seurannan lisäksi ([sublime-wakatime](https://github.com/wakatime/sublime-wakatime)) käytössä mm. [bash-wakatime](https://github.com/irondoge/bash-wakatime) Terminalin seurantaan, [chrome-wakatime](https://github.com/wakatime/chrome-wakatime) selaindebuggaamisen seurantaan.
+Timely varmistaa, että projektiin käytetyt tunnit pysyvät aisoissa, eli myydyt tunnit tulee käytettyä oikein ja projektille jää katetta. Timely täyttää Dudella myös lain vaatiman työajan seurannan pykälät. Timelyssä pystyy seuraamaan myös aikataulun, hinnan ja kustannusten suhdetta toisiinsa. Katso myös [Työajan seuranta](https://handbook.dude.fi/tyoskenteleminen-dudella/tyoajat/tyoajan-seuranta).
 
 ### Suunnittelu
 
@@ -68,27 +64,19 @@ Googlen kalenteriin lisätään kaikki tapahtumat, jotka toisen duden tulisi 
 
 Driveen tallennetaan kaikki yrityksen sekä projektien kannalta tärkeä materiaali. Tänne lisätään kaikki dokumentit ja tiedostot, jotka koskevat koko firmaa tai tiimejä. Tärkeää on huolehtia oikeasta kansiorakenteesta, jotta tiedot ovat helposti löydettävissä.
 
-### Chat verkkosivuilla
-
-{% embed url="https://crisp.chat/en" %}
-
-Crisp toimii verkkosivuston livechat-palveluna, johon vastaa ensimmäinen paikallaolija niin nopeasti kuin mahdollista, pääosin toimistoaikoina. Crisp toimii myyntikanavana verkkosivuilla.
-
 ### Asiakaspalvelu ja tekninen tuki
 
 {% embed url="https://www.helpscout.com" %}
 
-Help Scout toimii Duden tukikanavana, jonne tulee kaikki apuva@dude.fi -sähköpostiosoitteeseen lähetetyt viestit. Uudet viestit näkyvät automaattisesti hoidettavina tiketteinä, joita kuka tahansa Duden tiimistä voi ottaa hoitaakseen. Mahdolliset tukiviestit edelleenlähetetään (Forward) omasta sähköpostista Help Scoutiin, jotta asiakas oppii käyttämään tukiasioihin asiakaspalvelurajapintaa (eli apuva@dude.fi -sähköpostia yhden ukon meilin sijaan).
-
-Tiketteihin pyritään vastaamaan maksimissaan muutaman tunnin varoajalla, mielellään mahdollisimman pian. Asiakaspalvelusta lisää kohdassa 3.5.
+Help Scout toimii Duden tukikanavana, jonne tulee kaikki tuki@dude.fi -sähköpostiosoitteeseen lähetetyt viestit. Uudet viestit näkyvät automaattisesti hoidettavina tiketteinä, joita kuka tahansa Duden tiimistä voi ottaa hoitaakseen. Mahdolliset tukiviestit edelleenlähetetään (Forward) omasta sähköpostista Help Scoutin osoitteeseen tuki@dude.fi, jotta asiakas oppii käyttämään tukiasioihin asiakaspalvelurajapintaa.
 
 ### Versionhallinta ja lähdekoodi
 
 {% embed url="https://github.com" %}
 
-Duden tiimi käyttää [GitHubia](https://github.com/digitoimistodude) päivittäin. Koodimuutokset dokumentoidaan README.md-tiedostoon ja jokainen muutos kommitoidaan asiaankuuluvasti.
+Duden kehitystiimi käyttää [GitHubia](https://github.com/digitoimistodude) päivittäin. Koodimuutokset dokumentoidaan README.md-tiedostoon, GitBookiin ja jokainen muutos kommitoidaan asiaankuuluvasti.
 
-GitHub issueita avataan silloin kun kyseessä on laajempia ongelmia tai asioita, joita on syytä käydä läpi. Muissa tapauksissa tehtävät delegoidaan Todoistiin (alla).
+GitHub-issueita avataan silloin kun kyseessä on laajempia ongelmia tai asioita, joita on syytä käydä läpi.
 
 ### Salasanat, lisenssit, avaimet ja tunnukset
 
