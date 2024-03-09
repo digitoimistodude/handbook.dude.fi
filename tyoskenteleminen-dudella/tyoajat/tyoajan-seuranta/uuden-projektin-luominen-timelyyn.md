@@ -42,7 +42,7 @@ Jos "Needs update" alta löytyy kuitenkin projekteja, näihin on projektipääll
 
 ### Ylläpitoprojektit
 
-* Projektin nimi muotoa "Sivusto.fi ylläpito" tai esim. "Sivusto Multisite ylläpito", ylläpito kirjoitetaan pienellä
+* Projektin nimi muotoa "Verkkotunnus ylläpito" eli esim. "Sivusto.fi ylläpito" tai esim. "Sivusto.fi Multisite ylläpito", **ylläpito** kirjoitetaan pienellä
 * Asiakasyrityksen koko nimi (mukaan Oy, ry, sr, jne., esimerkiksi Gofore Oyj)
 * Vaaditaan aina kuvaus seurattavalle asialle: **Require note when logging to project**
 
