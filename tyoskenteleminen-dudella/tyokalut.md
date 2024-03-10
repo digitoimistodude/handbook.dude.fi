@@ -12,15 +12,15 @@ Duden käytössä on tietyt fundamentaalit työkalut, joita jokainen Dude ka
 
 Perinteisten face-2-face työkalujen lisäksi kommunikaatiotapana toimii ensisijaisesti [Slack](https://www.slack.com/) siitä syystä, että se on laiteriippumaton, moderni mutta _irkkimäinen_, helppokäyttöinen, reaaliaikainen ja monipuolinen tapa kommunikoida. Slackiin saa myös kätevästi ulkopuoliset tahot ilmaiseksi yhden kanavan Guest-käyttäjänä. Slack-botit helpottavat elämää huomattavasti.
 
-Firman sisäisten sähköpostien lähettäminen on **kiellettyä**, ellei kyseessä ole asiakkaaseen tai projektiin viittaava isompi aineistopläjäys tai speksaus, jonka haluaa välittää toiselle. Tästä jatkokeskustelut pyritään kuitenkin käymään kasvotusten tai Slackissa ja kirjaamaan asiat [Help Scoutiin](https://www.helpscout.com/) tai [Trelloon](https://trello.com/) ylös. Slackissa laukalle lähtevät isommat linjaukset ja keskustelut käydään lähtökohtaisesti Twistissä.
+Firman sisäisten sähköpostien lähettäminen on **kiellettyä**, ellei kyseessä ole asiakkaaseen tai projektiin viittaava isompi aineistopläjäys tai speksaus, jonka haluaa välittää toiselle. Tästä jatkokeskustelut pyritään kuitenkin käymään kasvotusten tai Slackissa ja kirjaamaan asiat [Help Scoutiin](https://www.helpscout.com/) tai [Trelloon](https://trello.com/) ylös.
 
-Jokaiselle projektille luodaan oma Slack-kanava, jotta projektikohtaiset keskustelut pysyvät lapasessa.
+Jokaiselle projektille luodaan oma Slack-kanava _keikat-<projekti>_, jotta projektikohtaiset keskustelut pysyvät lapasessa.
 
 ### Myynti ja asiakasrekisteri
 
 {% embed url="https://www.pipedrive.com/?reset" %}
 
-Pipedrive on kevyt CRM ja myyntisuppilo myynnin tukena. Pipedrive toimii myös asiakasrekisterinä, johon listataan kaikki asiakastiedot, ylläpitosopimusten tiedot ja muut asiakkuuteen liittyvät asiat. Pipedriveen menee suoraan yhteydenotot esimerkiksi [verkkosivuston lomakkeen](https://www.dude.fi/yhteystiedot) kautta.
+Pipedrive on kevyt CRM ja myyntisuppilo myynnin tukena. Pipedriveen menee suoraan yhteydenotot esimerkiksi [verkkosivuston lomakkeen](https://www.dude.fi/yhteystiedot) kautta.
 
 Myynnin vaiheita on tasan kolme, **1. Liidi sisään**, **2. Yhteydenotto tehty**, **3. Tarjous jätetty**, jonka jälkeen hävitty kauppa menee arkistoon ja voitettu kauppa siirtyy suoraan Trellon Projektit-boardiin, josta tiimi jatkaa määrittelyvaihetta tai työstöä.
 
