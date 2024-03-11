@@ -29,6 +29,7 @@ Jos "Needs update" alta löytyy kuitenkin projekteja, näihin on projektipääll
 * Asiakasyrityksen koko nimi (mukaan Oy, ry, sr, jne., esimerkiksi Gofore Oyj)
 * Asiakkaan brändiväri (tämän voi poimia esim. asiakkaan verkkosivuilta [ColorSnapper](https://colorsnapper.com/) tai ilmaisella [Pika](https://github.com/superhighfives/pika)-työkalulla)
 * Vaaditaan aina kuvaus seurattavalle asialle: **Require note when logging to project**
+* Kuvaukseen tehtävän selkokielinen nimi (jottei luoda duplikaattia)
 
 <figure><img src="../../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
 
