@@ -2,7 +2,11 @@
 
 ### Yksittäiset tehtävät
 
-Height-integraatio luo uuden tehtävän Timelyyn aina kun Hinta -kentästä löytyy €-merkki. Projektin luomisesta tulee Height-tehtävään kommentti "Timely-projekti luotu".
+Height-integraatio luo uuden tehtävän Timelyyn aina kun **Projekti Timelyyn** -attribuuttiin on valittu **Kyllä**:
+
+<figure><img src="../../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+
+Projektin luomisesta tulee Height-tehtävään kommentti "Timely-projekti luotu".
 
 <div align="left">
 
@@ -10,11 +14,7 @@ Height-integraatio luo uuden tehtävän Timelyyn aina kun Hinta -kentästä löy
 
 </div>
 
-{% hint style="info" %}
-Huom! Projektin luominen pitäisi tapahtua heti kun Hinta-kentässä on hinta euromerkillä € varustettuna, mutta joskus Hinta -kenttä pitää päivittää toiseen kertaan, jotta integraatio haistaa muutoksen.
-{% endhint %}
-
-Tällöin projektit menevät "Needs update" clientin alle Timelyssä.
+Tästä tulee myös ilmoitus Slackin #timely-kanavalle. Tällöin projektit menevät "Needs update" clientin alle Timelyssä.
 
 <div align="left">
 
@@ -30,15 +30,15 @@ Jos "Needs update" alta löytyy kuitenkin projekteja, näihin on projektipääll
 * Asiakkaan brändiväri (tämän voi poimia esim. asiakkaan verkkosivuilta [ColorSnapper](https://colorsnapper.com/) tai ilmaisella [Pika](https://github.com/superhighfives/pika)-työkalulla)
 * Vaaditaan aina kuvaus seurattavalle asialle: **Require note when logging to project**
 
-<figure><img src="../../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 * Default billable rate: Individual rates
 
-<figure><img src="../../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 * Height-taskissa oleva budjetti, joka sovittu asiakkaan kanssa.
 
-<figure><img src="../../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### Ylläpitoprojektit
 
@@ -46,7 +46,7 @@ Jos "Needs update" alta löytyy kuitenkin projekteja, näihin on projektipääll
 * Asiakasyrityksen koko nimi (mukaan Oy, ry, sr, jne., esimerkiksi Gofore Oyj)
 * Vaaditaan aina kuvaus seurattavalle asialle: **Require note when logging to project**
 
-<figure><img src="../../../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 * Ylläpitoprojektin budjetti on kuukausittainen ja valinnat tehdään seuraavasti. Katso kuukausilaskutussumma [Ylläpitoasiakkaat -excelistä](https://docs.google.com/spreadsheets/d/1Z0V7aShadlQDsQ3TtHKSKmD7jlvkJ3v4cWHUEEsobDA/edit#gid=0).
 
@@ -58,7 +58,7 @@ Huom! Kuukausilaskutusprojektien budjettia ei voi enää muuttaa luomisen jälke
 
 * Valitaan tagiryhmät, ylläpitoprojekteihin Projektit ja tehtävät sekä Duden sisäiset. Vaaditaan valitsemaan vähintään yksi tägi: **Require at least one tag to be added to an hour**
 
-<figure><img src="../../../.gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (3) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### Pääprojektit
 

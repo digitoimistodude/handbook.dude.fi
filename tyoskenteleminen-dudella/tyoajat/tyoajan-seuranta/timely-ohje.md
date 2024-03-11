@@ -25,7 +25,7 @@ Timely on puoliautomaattinen työkalu, joten voit rauhassa unohtaa Timelyn Memor
 
 <div align="left">
 
-<figure><img src="../../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
 
 </div>
 
