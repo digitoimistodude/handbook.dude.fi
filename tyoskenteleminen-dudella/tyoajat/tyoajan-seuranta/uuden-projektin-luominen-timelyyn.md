@@ -14,7 +14,7 @@ Height-integraatio luo uuden tehtävän Timelyyn aina kun Hinta -kentästä löy
 Huom! Projektin luominen pitäisi tapahtua heti kun Hinta-kentässä on hinta euromerkillä € varustettuna, mutta joskus Hinta -kenttä pitää päivittää toiseen kertaan, jotta integraatio haistaa muutoksen.
 {% endhint %}
 
-Tällöin projektit menevät "Needs update" clientin alle Timelyssä seuraavasti:
+Tällöin projektit menevät "Needs update" clientin alle Timelyssä.
 
 <div align="left">
 
@@ -29,7 +29,6 @@ Jos "Needs update" alta löytyy kuitenkin projekteja, näihin on projektipääll
 * Asiakasyrityksen koko nimi (mukaan Oy, ry, sr, jne., esimerkiksi Gofore Oyj)
 * Asiakkaan brändiväri (tämän voi poimia esim. asiakkaan verkkosivuilta [ColorSnapper](https://colorsnapper.com/) tai ilmaisella [Pika](https://github.com/superhighfives/pika)-työkalulla)
 * Vaaditaan aina kuvaus seurattavalle asialle: **Require note when logging to project**
-* Kuvaukseen tehtävän selkokielinen nimi (jottei luoda duplikaattia)
 
 <figure><img src="../../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
 
