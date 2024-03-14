@@ -5,16 +5,8 @@
 Height-integraatio luo uuden tehtävän Timelyyn aina kun **Projekti Timelyyn** -attribuuttiin on valittu **Kyllä**:
 
 {% hint style="info" %}
-**Huom!** Joskus rajapinta ei aina havaitse muutosta, joten tee jokin pieni muutos tai vaihda takaisin None ja sitten takaisin Kyllä.
+**Huom!** Kannattaa lisätä ensin Projekti Timelyyn -attribuutti ja sitten vasta Kyllä. Joskus rajapinta ei nimittäin havaitse muutosta. Toinen vaihtoehto on tehdä uudestaan jokin pieni muutos tehtävään. Rajapinta ei lisää projektia uudelleen, jos Timely-projektin nimestä löytyy Height Task ID (T-jotain).
 {% endhint %}
-
-<div align="left">
-
-<figure><img src="../../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
-
-</div>
-
-Projektin luomisesta tulee Height-tehtävään kommentti "Timely-projekti luotu".
 
 <div align="left">
 
@@ -22,11 +14,19 @@ Projektin luomisesta tulee Height-tehtävään kommentti "Timely-projekti luotu"
 
 </div>
 
+Projektin luomisesta tulee Height-tehtävään kommentti "Timely-projekti luotu".
+
+<div align="left">
+
+<figure><img src="../../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
+
+</div>
+
 Tästä tulee myös ilmoitus Slackin #timely-kanavalle. Tällöin projektit menevät "Needs update" clientin alle Timelyssä.
 
 <div align="left">
 
-<figure><img src="../../../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
 </div>
 
@@ -42,7 +42,7 @@ Jos "Needs update" alta löytyy kuitenkin projekteja, näihin on projektipääll
 
 * Default billable rate: Individual rates
 
-<figure><img src="../../../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 * Height-taskissa oleva budjetti, joka sovittu asiakkaan kanssa.
 
@@ -54,7 +54,7 @@ Jos "Needs update" alta löytyy kuitenkin projekteja, näihin on projektipääll
 * Asiakasyrityksen koko nimi (mukaan Oy, ry, sr, jne., esimerkiksi Gofore Oyj)
 * Vaaditaan aina kuvaus seurattavalle asialle: **Require note when logging to project**
 
-<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 * Ylläpitoprojektin budjetti on kuukausittainen ja valinnat tehdään seuraavasti. Katso kuukausilaskutussumma [Ylläpitoasiakkaat -excelistä](https://docs.google.com/spreadsheets/d/1Z0V7aShadlQDsQ3TtHKSKmD7jlvkJ3v4cWHUEEsobDA/edit#gid=0).
 
