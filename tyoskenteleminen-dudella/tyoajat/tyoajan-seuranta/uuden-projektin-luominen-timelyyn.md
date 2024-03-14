@@ -4,13 +4,21 @@
 
 Height-integraatio luo uuden tehtävän Timelyyn aina kun **Projekti Timelyyn** -attribuuttiin on valittu **Kyllä**:
 
-<figure><img src="../../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+{% hint style="info" %}
+**Huom!** Joskus rajapinta ei aina havaitse muutosta, joten tee jokin pieni muutos tai vaihda takaisin None ja sitten takaisin Kyllä.
+{% endhint %}
+
+<div align="left">
+
+<figure><img src="../../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+
+</div>
 
 Projektin luomisesta tulee Height-tehtävään kommentti "Timely-projekti luotu".
 
 <div align="left">
 
-<figure><img src="../../../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
 </div>
 
@@ -30,11 +38,11 @@ Jos "Needs update" alta löytyy kuitenkin projekteja, näihin on projektipääll
 * Asiakkaan brändiväri (tämän voi poimia esim. asiakkaan verkkosivuilta [ColorSnapper](https://colorsnapper.com/) tai ilmaisella [Pika](https://github.com/superhighfives/pika)-työkalulla)
 * Vaaditaan aina kuvaus seurattavalle asialle: **Require note when logging to project**
 
-<figure><img src="../../../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (2) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 * Default billable rate: Individual rates
 
-<figure><img src="../../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 * Height-taskissa oleva budjetti, joka sovittu asiakkaan kanssa.
 
@@ -46,7 +54,7 @@ Jos "Needs update" alta löytyy kuitenkin projekteja, näihin on projektipääll
 * Asiakasyrityksen koko nimi (mukaan Oy, ry, sr, jne., esimerkiksi Gofore Oyj)
 * Vaaditaan aina kuvaus seurattavalle asialle: **Require note when logging to project**
 
-<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 * Ylläpitoprojektin budjetti on kuukausittainen ja valinnat tehdään seuraavasti. Katso kuukausilaskutussumma [Ylläpitoasiakkaat -excelistä](https://docs.google.com/spreadsheets/d/1Z0V7aShadlQDsQ3TtHKSKmD7jlvkJ3v4cWHUEEsobDA/edit#gid=0).
 
