@@ -1,5 +1,7 @@
 # Mihin henkilötietojani käytetään?
 
+Verkkosivujen hallintapaneeliin tallennettuja tietoja ja asiakkaan tietoja käytetään
+
 * Asiakkuuden ylläpitämiseen, yhteydenpitoon
 * Palveluiden tilausten toimitukseen, käsittelyyn ja arkistointiin
 * Asiakaskokemuksen parantamiseen

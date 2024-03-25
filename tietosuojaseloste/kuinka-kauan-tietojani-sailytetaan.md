@@ -2,7 +2,7 @@
 
 
 
-Säilytämme henkilökohtaisia tietojasi vain tarvittavan ajan, jotta voimme täyttää tässä selosteessa kuvatut käyttötarkoitukset. Lisäksi joitakin tietoja voidaan säilyttää kauemmin niiltä osin kuin se on tarpeen laissa asetettujen velvollisuuksien, kuten kirjanpitoa ja myyntiä koskevien vastuiden, toteuttamiseksi ja niiden asianmukaisen toteuttamisen näyttämiseksi.
+Säilytämme henkilökohtaisia tietojasi vain tarvittavan ajan (minimissään 6kk), jotta voimme täyttää tässä selosteessa kuvatut käyttötarkoitukset. Lisäksi joitakin tietoja voidaan säilyttää kauemmin niiltä osin kuin se on tarpeen laissa asetettujen velvollisuuksien, kuten kirjanpitoa ja myyntiä koskevien vastuiden, toteuttamiseksi ja niiden asianmukaisen toteuttamisen näyttämiseksi.
 
 Asiakkaan pyynnöstä häntä koskeva henkilötieto voidaan poistaa tai anonymisoida. Pyynnön jälkeen tietoa ei enää käytetä selosteessa lueteltuihin tarkoituksiin.
 
