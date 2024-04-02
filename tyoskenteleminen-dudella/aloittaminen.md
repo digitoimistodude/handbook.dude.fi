@@ -30,7 +30,6 @@ Tärkeimmistä ohjelmista on avattu lisää osiossa [tyokalut.md](tyokalut.md "m
 * [Google Drive](https://support.google.com/drive/answer/7329379?sjid=6647561413202587078-EU\&hl=fi)
 * [Height](https://height.app)
 * [Figma](https://www.figma.com/)
-* [Trello](https://trello.com/fi/platforms)
 
 ### Koodarille
 
