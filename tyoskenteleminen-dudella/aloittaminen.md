@@ -6,9 +6,8 @@ Tälle sivulle on koottu alusta asti asiat, joita pitää tehdä työnteon alkae
 
 Ylläpitäjä kutsuu näihin palveluihin:
 
-* [Google WorkSpace -sähköpostiosoite](https://admin.google.com/)
+* [Google Workspace -sähköpostiosoite](https://admin.google.com/)
 * [1Password](https://www.1password.com/)
-* [Trello](https://www.trello.com/)
 * [Height](https://height.app)
 * [Timely](https://timelyapp.com)
 * [GitBook](https://app.gitbook.com/)
