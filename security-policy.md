@@ -18,7 +18,7 @@ We fully reserve the right to decide the amount of the bounty (usually from 10 t
 
 ### Not eligible security reports - no bounty
 
-The following things **are not** eligible for security reports, as we’ve taken other precautions to mitigate the possible problems:
+The following things **are not** eligible for security reports, as we’ve taken **other precautions** to mitigate the possible problems:
 
 * The lack of Certificate Authority Authorization (CAA)
 * Plausible (analytics.dude.fi) upstream, please report these to [security@plausible.io](mailto:security@plausible.io)
@@ -29,6 +29,7 @@ The following things **are not** eligible for security reports, as we’ve taken
 * Reveal.js based or any other repository for presentations
 * Autoindex for [slides.dude.fi](https://slides.dude.fi)
 * The lack of visible rate limits on forms
+* The lack of certain max character limit in forms
 * HSTS/HTTPS preloading, see [this](https://www.techtarget.com/searchsecurity/answer/Why-is-preloading-HTTP-Strict-Transport-Security-risky)
 * Tabnabbing / target="\_blank" (see [this](https://www.dude.fi/uuteen-valilehteen-aukeavat-linkit), in Finnish)
 * Vulnerabilities that have severity of very low, best practice or info, like clickjacking
