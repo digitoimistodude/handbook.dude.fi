@@ -1,6 +1,6 @@
 # Huoltotoimet ja ongelmat
 
-Hälytyksen tullessa dudelainen on velvollinen lähtemään välittömästi selvittämään mikä palvelimella on vikana. Asiakkaisiin vaikuttavista katkoista ja häiriöistä ilmoitellaan aina asiakkaalle suoraan käyttämällä ylläpitoasiakasrekisteriä (Trello). Ongelmissa konsultoidaan tarvittaessa Multim Oy:ta.
+Hälytyksen tullessa Duden sysop-tiimi lähtee selvittämään SLA-sopimuksen puitteissa mikä palvelimella on vikana. Asiakkaisiin vaikuttavista katkoista ja häiriöistä ilmoitellaan aina asiakkaalle suoraan.
 
 ### Reaaliaikainen tilanne
 
