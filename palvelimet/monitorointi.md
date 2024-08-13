@@ -1,7 +1,11 @@
 # Monitorointi
 
-Monitorointiin käytetään [Monitia](https://mmonit.com/monit/), [Muninia](https://munin-monitoring.org/) ja [Better Uptimea](http://betteruptime.com/). Sähköpostin välittäjänä toimii [Mailgun](https://www.mailgun.com/).
+### Duden monitorointistack:
 
-### Monitorointiin liittyviä bloggauksia
-
-{% embed url="https://www.dude.fi/miten-tiedat-milloin-wordpress-sivusi-kaatuvat-esittelyssa-adminlabs" %}
+* [Netdata](https://www.netdata.cloud/)
+* [Better Stack](https://betterstack.com/)
+* [Zabbix](https://www.zabbix.com/) (datasali)
+* [Monit](https://mmonit.com/monit/)
+* [Munin](https://munin-monitoring.org/)
+* [fail2ban](https://github.com/fail2ban/fail2ban)
+* [bash](https://fi.wikipedia.org/wiki/Bash)
