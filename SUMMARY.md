@@ -13,6 +13,7 @@
   * [Toimistotila](tyoskenteleminen-dudella/toimistotila.md)
     * [Toimistoajat](tyoskenteleminen-dudella/toimistotila/toimistoajat.md)
     * [Viimeinen lähtijä](tyoskenteleminen-dudella/toimistotila/viimeinen-lahtija.md)
+    * [Kahvikoneen puhdistusohjelma](tyoskenteleminen-dudella/toimistotila/kahvikoneen-puhdistusohjelma.md)
     * [Musiikki](tyoskenteleminen-dudella/toimistotila/musiikki.md)
     * [Sähköpöydän nollaus (alakerta)](tyoskenteleminen-dudella/toimistotila/sahkopoydan-nollaus-alakerta.md)
   * [Työajat](tyoskenteleminen-dudella/tyoajat/README.md)
