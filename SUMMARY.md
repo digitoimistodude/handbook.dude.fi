@@ -14,6 +14,7 @@
     * [Toimistoajat](tyoskenteleminen-dudella/toimistotila/toimistoajat.md)
     * [Viimeinen lähtijä](tyoskenteleminen-dudella/toimistotila/viimeinen-lahtija.md)
     * [Musiikki](tyoskenteleminen-dudella/toimistotila/musiikki.md)
+    * [Sähköpöydän nollaus (alakerta)](tyoskenteleminen-dudella/toimistotila/sahkopoydan-nollaus-alakerta.md)
   * [Työajat](tyoskenteleminen-dudella/tyoajat/README.md)
     * [Työajan seuranta](tyoskenteleminen-dudella/tyoajat/tyoajan-seuranta/README.md)
       * [Timely-ohje](tyoskenteleminen-dudella/tyoajat/tyoajan-seuranta/timely-ohje.md)
