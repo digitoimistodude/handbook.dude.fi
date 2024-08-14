@@ -1,4 +1,4 @@
-# Kahvikoneen puhdistusohjelma
+# Kahvikoneen (maitosysteemin) puhdistusohjelma
 
 1. Laita maitotörppö jääkaappiin, puhdista letku.
 2. Jos kahvikone ei ole päällä, laita se päälle.
@@ -6,11 +6,13 @@
 
 <figure><img src="../../.gitbook/assets/E570FAB5-5279-4BEB-9EEB-408779C20B8B_1_102_o.jpeg" alt=""><figcaption></figcaption></figure>
 
-3. Laita kahvikone kiinni takaa napista:
+3. Puhdistusvalikon saa esiin vasemmanpuoleisesta mustasta napista. Jos kone näyttää punaisella, että täytyy tehdä kokopuhdistus tai kalkinpoisto, valikon saa esiin painamalla nappia pitkään.
 
-<figure><img src="../../.gitbook/assets/B5BCF55A-8DEF-4021-BE5A-EDCD8E087E11_1_102_o.jpeg" alt=""><figcaption></figcaption></figure>
 
-4. Valitse Start:
+
+<figure><img src="../../.gitbook/assets/SCR-20240814-kjvi.jpeg" alt=""><figcaption></figcaption></figure>
+
+4. Valitse "Clean the milk system" ja Start:
 
 <figure><img src="../../.gitbook/assets/D55AF0FE-D4BA-478F-ADC8-CE453DB75DA1_1_102_o.jpeg" alt=""><figcaption></figcaption></figure>
 
