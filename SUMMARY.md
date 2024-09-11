@@ -20,6 +20,7 @@
     * [Työajan seuranta](tyoskenteleminen-dudella/tyoajat/tyoajan-seuranta/README.md)
       * [Timely-ohje](tyoskenteleminen-dudella/tyoajat/tyoajan-seuranta/timely-ohje.md)
       * [Uuden projektin luominen Timelyyn](tyoskenteleminen-dudella/tyoajat/tyoajan-seuranta/uuden-projektin-luominen-timelyyn.md)
+      * [Estimaattien lisääminen Timelyyn (projektipäällikkö)](tyoskenteleminen-dudella/tyoajat/tyoajan-seuranta/estimaattien-lisaaminen-timelyyn-projektipaallikko.md)
     * [Etätyöskentely](tyoskenteleminen-dudella/tyoajat/etatyoskentely.md)
   * [Työhyvinvointi](tyoskenteleminen-dudella/tyohyvinvointi/README.md)
     * [Henkilökuntaedut](tyoskenteleminen-dudella/tyohyvinvointi/henkiloekuntaedut.md)
