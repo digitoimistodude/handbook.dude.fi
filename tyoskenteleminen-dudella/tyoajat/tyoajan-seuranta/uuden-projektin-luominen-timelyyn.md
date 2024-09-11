@@ -26,7 +26,7 @@ Tästä tulee myös ilmoitus Slackin #timely-kanavalle. Tällöin projektit mene
 
 <div align="left">
 
-<figure><img src="../../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
 
 </div>
 
@@ -64,12 +64,12 @@ Huom! Kuukausilaskutusprojektien budjettia ei voi enää muuttaa luomisen jälke
 
 <figure><img src="../../../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
 
-* Valitaan tagiryhmät, ylläpitoprojekteihin Projektit ja tehtävät sekä Duden sisäiset. Vaaditaan valitsemaan vähintään yksi tägi: **Require at least one tag to be added to an hour**
+* Valitaan tagiryhmät, asiakasprojekteihin ja ylläpitoprojekteihin **Projektit ja tehtävät**, Duden omiin: Duden sisäiset. Vaaditaan valitsemaan vähintään yksi tägi: **Require at least one tag to be added to an hour**
 
-<figure><img src="../../../.gitbook/assets/image (3) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
 ### Pääprojektit
 
-Kokonaan uusissa projekteissa kaikki menee muuten tutulla kaavalla, mutta budjettiin merkitään kokonaissumma seuraavasti:
+Kokonaan uusissa projekteissa kaikki menee muuten tutulla kaavalla, mutta budjettiin merkitään **myydyt tunnit** seuraavasti:
 
-<figure><img src="../../../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (8).png" alt=""><figcaption></figcaption></figure>
