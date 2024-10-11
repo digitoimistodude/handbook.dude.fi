@@ -1,3 +1,7 @@
+---
+description: Pallomeri? Erikoisolutta? Mitäs laitetaan?
+---
+
 # Henkilökuntaedut
 
 ### Hierontaetu
@@ -11,3 +15,7 @@ Työntekijä saa puhelimen ja puhelinliittymän firman piikkiin.
 ### Nettietu
 
 Työntekijä saa nettiyhteyden kotiin firman piikkiin.
+
+### Smartum
+
+Käy vaikka elokuvissa firman piikkiin! **Lue lisää eduista**.
