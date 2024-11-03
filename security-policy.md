@@ -34,3 +34,4 @@ The following things **are not** eligible for security reports, as we’ve taken
 * Tabnabbing / target="\_blank" (see [this](https://www.dude.fi/uuteen-valilehteen-aukeavat-linkit), in Finnish)
 * Vulnerabilities that have severity of very low, best practice or info, like clickjacking
 * Info leakage like nginx version or leftover phpinfo
+* [maamerkit.dude.fi](https://maamerkit.dude.fi/) or other temporary sites with embeds on them
