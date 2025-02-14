@@ -20,6 +20,7 @@ We fully reserve the right to decide the amount of the bounty (usually from 10 t
 
 The following things **are not** eligible for security reports, as we’ve taken **other precautions** to mitigate the possible problems:
 
+* Systems that are not under our control, like [status.dude.fi](https://status.dude.fi/)
 * Internal tools like Syncthing that have authentication page and are otherwise open to the public and secured in other ways
 * Endpoints like gtag.dude.fi or APIs that do not require strong ciphers
 * The lack of Certificate Authority Authorization (CAA)
