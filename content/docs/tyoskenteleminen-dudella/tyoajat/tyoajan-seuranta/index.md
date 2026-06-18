@@ -1,6 +1,7 @@
 ---
 title: "Työajan seuranta"
 description: "Tuntien merkitseminen."
+lastModified: "2026-06-18T20:51:59.529Z"
 ---
 
 Dudella työajan seurannassa käytetään [Timelyä](https://timelyapp.com/). Teknologiajohtaja Roni Laukkarinen esitteli Timelyn Clockifyn seuraajana 8.3.2024.

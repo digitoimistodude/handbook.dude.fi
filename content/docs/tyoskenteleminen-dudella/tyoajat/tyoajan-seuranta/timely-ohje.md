@@ -1,6 +1,7 @@
 ---
 title: "Timely-ohje"
 description: "Näin kellotat työaikasi."
+lastModified: "2026-06-18T20:51:59.494Z"
 ---
 
 Timelyn virallinen käyttöohje löytyy osoitteesta [support.timelyapp.com](https://support.timelyapp.com/). Tämän ohjeen avulla pääset kuitenkin alkuun.

@@ -1,5 +1,6 @@
 ---
 title: "Huoltotoimet ja ongelmat"
+lastModified: "2026-06-18T20:51:58.788Z"
 ---
 
 Hälytyksen tullessa Duden sysop-tiimi lähtee selvittämään SLA-sopimuksen puitteissa mikä palvelimella on vikana. Asiakkaisiin vaikuttavista katkoista ja häiriöistä ilmoitellaan aina asiakkaalle suoraan.

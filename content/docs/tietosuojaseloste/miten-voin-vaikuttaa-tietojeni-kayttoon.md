@@ -1,5 +1,6 @@
 ---
 title: "Miten voin vaikuttaa tietojeni käyttöön?"
+lastModified: "2026-06-18T20:51:58.940Z"
 ---
 
 Digitoimisto Dude Oy on sitoutunut tarjoamaan asiakkailleen mahdollisuuksia vaikuttaa tietojensa keräämiseen ja käyttöön.

@@ -1,5 +1,6 @@
 ---
 title: "Käytetäänkö sivustoilla evästeitä ja mitä ne ovat?"
+lastModified: "2026-06-18T20:51:59.163Z"
 ---
 
 Dude käyttää evästeitä ("cookies") ja muita vastaavia tekniikoita, kuten selaimen paikallista varastoa ("local storage"). Evästeet ovat päätelaitteen selaimen ja palvelimen välisiä pieniä tekstitiedostoja.

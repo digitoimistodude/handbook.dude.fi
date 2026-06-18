@@ -1,5 +1,6 @@
 ---
 title: "Kehittäjälle"
+lastModified: "2026-06-18T20:51:58.606Z"
 ---
 
 Duden kehittäjädokumentaatio on siirretty omaan sisäiseen Internal Development Docsiin. Tähän on monta syytä. Suurin osa dokumentaatiostamme löytyy silti avoimena [GitHubista](https://github.com/digitoimistodude/).

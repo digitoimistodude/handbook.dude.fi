@@ -1,5 +1,6 @@
 ---
 title: "Estimaattien lisääminen Timelyyn (projektipäällikkö)"
+lastModified: "2026-06-18T20:51:59.512Z"
 ---
 
 1. Päivitä Height-taskin tiedot tarkkaan ajan tasalle

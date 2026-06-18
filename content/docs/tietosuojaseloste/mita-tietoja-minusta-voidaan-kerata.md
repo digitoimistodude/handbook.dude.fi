@@ -1,5 +1,6 @@
 ---
 title: "Mitä tietoja minusta voidaan kerätä?"
+lastModified: "2026-06-18T20:51:59.061Z"
 ---
 
 ### Käyttäjän itsensä antamat tai henkilökohtaisesti tunnistettavat tiedot 

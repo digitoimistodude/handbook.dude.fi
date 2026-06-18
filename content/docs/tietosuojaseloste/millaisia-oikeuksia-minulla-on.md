@@ -1,5 +1,6 @@
 ---
 title: "Millaisia oikeuksia minulla on?"
+lastModified: "2026-06-18T20:51:58.994Z"
 ---
 
 Asiakkaana sinulla on oikeus:

@@ -1,6 +1,7 @@
 ---
 title: "Dev Friday: Perjantain kehityspalaveri"
 description: "Aiemmin: \"Devitsekki II: Viikottainen koodin katselmointi™\"."
+lastModified: "2026-06-18T20:51:59.420Z"
 ---
 
 ### Perjantaisin kehitytään 

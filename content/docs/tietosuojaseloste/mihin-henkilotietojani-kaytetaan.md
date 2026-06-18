@@ -1,5 +1,6 @@
 ---
 title: "Mihin henkilötietojani käytetään?"
+lastModified: "2026-06-18T20:51:59.048Z"
 ---
 
 Verkkosivujen hallintapaneeliin tallennettuja tietoja ja asiakkaan tietoja käytetään

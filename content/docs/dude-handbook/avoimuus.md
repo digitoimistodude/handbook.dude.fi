@@ -1,6 +1,7 @@
 ---
 title: "Avoimuus"
 description: "Tämä firman handbook on yksi esimerkki Duden avoimuudesta."
+lastModified: "2026-06-18T20:51:58.848Z"
 ---
 
 Dude on halunnut perustamisvuodestaan 2013 lähtien ottaa asiakseen olla mahdollisimman läpinäkyvä ja avoin ulospäin ja sitä kautta rehellinen. Tämä ei näy pelkästään teknisen puolen [lähdekoodin avoimuudessa](https://github.com/digitoimistodude) vaan kaikessa muussakin tekemisessä ja yrityksen kulttuurissa.

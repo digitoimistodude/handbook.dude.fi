@@ -1,5 +1,6 @@
 ---
 title: "Rekisterinpitäjä ja sen yhteystiedot"
+lastModified: "2026-06-18T20:51:59.121Z"
 ---
 
 Käsiteltävien henkilötietojen rekisterinpitäjänä toimii:

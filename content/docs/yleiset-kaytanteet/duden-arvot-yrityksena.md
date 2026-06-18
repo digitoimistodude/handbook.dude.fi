@@ -1,6 +1,7 @@
 ---
 title: "Duden arvot yrityksenä"
 description: "Jos pitäisi valita joko paljon asiakkaita/keskinkertainen laatu tai vähän asiakkaita/loistava laatu, valitsisimme ilman muuta jälkimmäisen."
+lastModified: "2026-06-18T20:51:59.223Z"
 ---
 
 Duden viralliset arvot, jotka löytyvät myös [nettisivujen puolelta](https://www.dude.fi/dude).

@@ -1,5 +1,6 @@
 ---
 title: "Päivitykset ja ylläpito"
+lastModified: "2026-06-18T20:51:58.752Z"
 ---
 
 Dudelle on tärkeää, ettei pienikään sivusto jää mätänemään. Päivitykset suoritetaan jokaisen viikon maanantai ja torstai ([ManageWP](https://managewp.com/)). Ennen päivityksen suorittamista on katsottava Changelogista mitä päivitys pitää sisällään. Jos kyseessä on korjauspäivitys, voi päivityksen suorittaa ilman ennakkotarkistuksia.

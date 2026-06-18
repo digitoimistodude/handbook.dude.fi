@@ -1,6 +1,7 @@
 ---
 title: "Asiakaspalaverit ja aloitustyöpaja"
 description: "Mites ne palikset?"
+lastModified: "2026-06-18T20:51:58.643Z"
 ---
 
 Duden tapa pitää asiakaspalavereita on epäformaalin rento, mutta puhtaan ammattimainen. Asiakaspalavereissa muistetaan antaa suunvuoro toiselle ja pyritään kuuntelemaan niin asiakasta kuin kanssatyöskentelijääkin.

@@ -1,5 +1,6 @@
 ---
 title: "Viimeinen lähtijä"
+lastModified: "2026-06-18T20:51:59.304Z"
 ---
 
 Jos olet viimeinen toimistotilasta lähtijä, varmista seuraavat asiat. Nämä on jatkossa tulostettuna myös alakerran seinälle.

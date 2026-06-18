@@ -1,6 +1,7 @@
 ---
 title: "Etätyöskentely"
 description: "Dude on aina tykännyt etätyöstä. Etäpäivä jokaiselle sallittakoon."
+lastModified: "2026-06-18T20:51:59.456Z"
 ---
 
 Etätyöskentely on Dudella hyväksyttävää, välillä jopa suotavaakin toimintaa. Halutessaan töitä voi meillä tehdä etänä osan viikosta tai koko viikon, mutta silloin nyrkkisääntönä on, että täytyy olla helposti tavoitettavissa. Etäpäivät on hyvä ilmoitella etukäteen, vaikkapa Slackissa.

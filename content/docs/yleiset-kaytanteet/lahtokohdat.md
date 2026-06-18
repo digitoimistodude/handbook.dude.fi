@@ -1,5 +1,6 @@
 ---
 title: "Lähtökohdat"
+lastModified: "2026-06-18T20:51:59.271Z"
 ---
 
 Erityisesti *teknisessä* työssä, mutta myös kaikessa muussakin Duden lähtökohdat ovat tärkeysjärjestyksessään:

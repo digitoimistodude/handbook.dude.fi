@@ -1,6 +1,7 @@
 ---
 title: "Oleelliset Slack-kanavat"
 description: "This is where the magic happens."
+lastModified: "2026-06-18T20:51:58.622Z"
 ---
 
 Näihin kannattaa liityä:

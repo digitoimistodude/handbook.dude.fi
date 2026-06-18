@@ -1,5 +1,6 @@
 ---
 title: "Miten tietojani säilytetään ja suojataan?"
+lastModified: "2026-06-18T20:51:59.179Z"
 ---
 
 ### Henkilötiedot 

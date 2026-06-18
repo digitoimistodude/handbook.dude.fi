@@ -1,6 +1,7 @@
 ---
 title: "Palvelimet"
 description: "Digitoimisto Dude + WordPress = Duden optimoitu palvelinympäristö."
+lastModified: "2026-06-18T20:51:58.769Z"
 ---
 
 Me [Dudella](https://www.dude.fi/) uskomme, että verkkosivut ja palvelin kulkevat käsi kädessä. Hyvää laatua ei synny ilman molempia puolia. Jokainen verkkosivusto ansaitsee alleen toimivan moottorin. Alasta poiketen Dude hostaa ja ylläpitää palvelimiaan itse ilman varsinaista kumppania. Taka-alalla palvelee sysop-tiimin kyljessä Multim Oy:n datasalin vahdit.

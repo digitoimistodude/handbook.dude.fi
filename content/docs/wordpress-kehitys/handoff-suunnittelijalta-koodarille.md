@@ -1,5 +1,6 @@
 ---
 title: "Handoff suunnittelijalta koodarille"
+lastModified: "2026-06-18T20:51:58.967Z"
 ---
 
 Kun suunnittelija on saanut visuaalisen suunnittelun päätökseen, tulee hänen toimittaa koodareille tarvittavat materiaalit.

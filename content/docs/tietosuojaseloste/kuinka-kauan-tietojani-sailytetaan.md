@@ -1,5 +1,6 @@
 ---
 title: "Kuinka kauan tietojani säilytetään?"
+lastModified: "2026-06-18T20:51:59.075Z"
 ---
 
 Säilytämme henkilökohtaisia tietojasi vain tarvittavan ajan (minimissään 6kk), jotta voimme täyttää tässä selosteessa kuvatut käyttötarkoitukset. Lisäksi joitakin tietoja voidaan säilyttää kauemmin niiltä osin kuin se on tarpeen laissa asetettujen velvollisuuksien, kuten kirjanpitoa ja myyntiä koskevien vastuiden, toteuttamiseksi ja niiden asianmukaisen toteuttamisen näyttämiseksi.

@@ -1,6 +1,7 @@
 ---
 title: "Toimistotila"
 description: "Viihtyvyys on tärkeintä."
+lastModified: "2026-06-18T20:51:58.661Z"
 ---
 
 Duden toimisto sijaitsee **Kauppakatu 14** sijaitsevassa rakennuksessa sisäänkäynnistä oikealla, käytössä on kokonaan rakennuksen toisen kerros. Paikka on valittu sillä perusteella, että se on sellainen, jossa kukin dude viihtyy parhaimmillaan valtaosan päivästä ja vuodesta.

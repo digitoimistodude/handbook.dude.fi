@@ -1,5 +1,6 @@
 ---
 title: "Aloittaminen"
+lastModified: "2026-06-18T20:51:58.694Z"
 ---
 
 Tälle sivulle on koottu alusta asti asiat, joita pitää tehdä työnteon alkaessa ensimmäistä kertaa. Aloita tästä. Kun olet saanut työkoneesi purettua paketista, tarvitset alla olevat asiat.

@@ -1,6 +1,7 @@
 ---
 title: "Asiakaspalvelu ja tuki"
 description: "Se on se tuki@dude.fi."
+lastModified: "2026-06-18T20:51:58.590Z"
 ---
 
 Dudelle **asiakaslähtöisyys** on ykkösjuttu. Asiakkaalle vastataan ystävällisesti, ottaen asiakkaan toiveet ja tarpeet huomioon. 90% asiakaspalvelusta on teknistä tukea ja vaikka asiakas olettaa, että vastassa on tekninen henkilö, on puhuttava asiakkaan ymmärrettävää kieltä.

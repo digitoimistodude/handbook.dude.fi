@@ -1,5 +1,6 @@
 ---
 title: "Kun tulet kipeäksi"
+lastModified: "2026-06-18T20:51:58.808Z"
 ---
 
 * Ilmoitathan lähimmälle esihenkilölle vähintään Slackissa, pikaviestimellä tai tekstiviestillä viimeistään samana aamuna kun olet tullut kipeäksi, ennen työaikaa.

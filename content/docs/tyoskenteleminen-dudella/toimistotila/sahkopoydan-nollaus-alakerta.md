@@ -1,5 +1,6 @@
 ---
 title: "Sähköpöydän nollaus (alakerta)"
+lastModified: "2026-06-18T20:51:59.289Z"
 ---
 
 ### Linak-pöydän nollaus tai alustaminen 

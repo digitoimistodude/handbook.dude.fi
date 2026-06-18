@@ -1,6 +1,7 @@
 ---
 title: "Työkalut"
 description: "Keskeisimmät ydintyökalut."
+lastModified: "2026-06-18T20:51:58.716Z"
 ---
 
 Duden käytössä on tietyt fundamentaalit työkalut, joita jokainen Dude käyttää. Osa näistä on päätetty jo yrityksen perustamishetkellä. Näitä voivat olla mm. yhteydenottotavat, pikaviestinsovellukset tai kollaboraatiotyökalut.

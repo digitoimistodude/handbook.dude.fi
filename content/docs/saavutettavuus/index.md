@@ -1,5 +1,6 @@
 ---
 title: "Saavutettavuus"
+lastModified: "2026-06-18T20:51:58.899Z"
 ---
 
 Dudelle saavutettavuus on perustamisvuodesta 2013 lähtien ollut erittäin tärkeä osa projektien workflowta. Toteutamme kaikki projektimme saavutettavuus mielessä pitäen. Sivujen tärkeimpien käyttötoimintojen täytyy toimia pääpiirteittäin näppäimistöllä ja sokeain lukulaitteilla, tämän perustoimivuuden varmistamme jo toteutusvaiheessa ilman erillistä mainintaa.

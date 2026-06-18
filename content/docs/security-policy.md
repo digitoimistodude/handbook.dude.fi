@@ -1,6 +1,7 @@
 ---
 title: "Security Policy"
 description: "In English for disclosure."
+lastModified: "2026-06-18T21:25:46.122Z"
 ---
 
 At Digitoimisto Dude Oy (Finnish limited company), we offer top quality hosting and upkeep for our clients. Most of them lack comprehensive knowledge of security or privacy issues. That's why we ask you to report the security issues directly to us.

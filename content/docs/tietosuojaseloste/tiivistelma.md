@@ -1,5 +1,6 @@
 ---
 title: "Tiivistelmä"
+lastModified: "2026-06-18T20:51:59.194Z"
 ---
 
 Digitoimisto Dude Oy on sitoutunut suojaamaan asiakkaidensa yksityisyyttä ja tarjoamaan asiakkaalle mahdollisuuden vaikuttaa tietojen käsittelyyn tarvittaessa.

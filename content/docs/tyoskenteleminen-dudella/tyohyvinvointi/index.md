@@ -1,6 +1,7 @@
 ---
 title: "Työhyvinvointi"
 description: "Asiat, joita tehdään töissä viihtyäksemme. Muutakin kun töitä siis, suom. huom."
+lastModified: "2026-06-18T20:51:59.373Z"
 ---
 
 Dude pyrkii järjestämään kuukausittain yhteistä aktiviteettia. Tällaisia ovat olleet mm.

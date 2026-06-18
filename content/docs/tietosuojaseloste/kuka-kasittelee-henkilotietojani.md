@@ -1,5 +1,6 @@
 ---
 title: "Kuka käsittelee henkilötietojani?"
+lastModified: "2026-06-18T20:51:58.925Z"
 ---
 
 Asiakastietoihin on pääsy vain Digitoimisto Dude Oy:n omistajilla, omilla työntekijöillä ja koko henkilökuntamme on koulutettu käyttämään tietoja turvallisesti ja eettisesti.

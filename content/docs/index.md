@@ -1,6 +1,7 @@
 ---
 title: "Dude Handbook"
 description: "Tervetuloa seuraamaan yrityksemme virallista operointimanuaalia."
+lastModified: "2026-06-18T20:51:58.449Z"
 ---
 
 ### Mikä Handbook?

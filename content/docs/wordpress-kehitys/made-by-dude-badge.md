@@ -1,5 +1,6 @@
 ---
 title: "Made by Dude -badge"
+lastModified: "2026-06-18T20:51:59.104Z"
 ---
 
 Sivujen tekijästä ilmoittaa **Made by Dude** -badge, joka lisätään asiakkaan suostumuksesta sivuston Footer-osioon.

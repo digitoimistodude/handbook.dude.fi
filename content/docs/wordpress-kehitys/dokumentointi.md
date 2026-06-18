@@ -1,5 +1,6 @@
 ---
 title: "Dokumentointi"
+lastModified: "2026-06-18T20:51:59.089Z"
 ---
 
 Omat GitHub-repositoriot tulisi dokumentoida ennen julkaisua aina siten, että kuka tahansa (myös vähän taidottomampi) osaisi step-by-step ohjeilla käyttää palikkaa. Asiakasprojektin dokumentointi tulee hoitaa niin, että Duden tekninen osasto pysyy projektin kanssa tilanteen tasalla.

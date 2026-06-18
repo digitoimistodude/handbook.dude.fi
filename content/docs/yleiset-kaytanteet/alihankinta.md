@@ -1,5 +1,6 @@
 ---
 title: "Alihankinta"
+lastModified: "2026-06-18T20:51:59.209Z"
 ---
 
 Lähtökohtaisesti Dude ei ota uusia alihankintasopimuksia. Harkintaa voidaan kuitenkin käyttää yksittäisissä alihankintaprojekteissa, joissa projekti tilataan siten, että Dudella on valta kommunikoida suoraan asiakkaan kanssa.

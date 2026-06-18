@@ -1,5 +1,6 @@
 ---
 title: "Tekninen dokumentaatio"
+lastModified: "2026-06-18T20:51:58.430Z"
 ---
 
 Ylläpidimme tässä osoitteessa teknistä dokumentaatiota suomeksi aina vuoteen 2021 saakka, kunnes siirsimme kaiken tekniikan yhteen paikkaan ja yhdelle kielelle englanniksi Duden sisäiseen dokumentaatiopankkiin nimeltään **Internal Development Docs**.

@@ -1,6 +1,7 @@
 ---
 title: "Ilmapiiri ja työrauha"
 description: "Yleiset pelisäännöt."
+lastModified: "2026-06-18T20:51:58.681Z"
 ---
 
 Duden primitiivisestä ja tulehtuneesta huumorista huolimatta pyritään antamaan työrauha kaikille. 
