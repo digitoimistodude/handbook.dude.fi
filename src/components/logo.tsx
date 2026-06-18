@@ -5,7 +5,7 @@ export function DudeLogo() {
       role="img"
       aria-label="Dude"
       xmlns="http://www.w3.org/2000/svg"
-      style={{ height: 18, width: 'auto' }}
+      style={{ height: 14, width: 'auto' }}
     >
       <path
         fill="currentColor"

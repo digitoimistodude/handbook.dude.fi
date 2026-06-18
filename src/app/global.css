@@ -11,12 +11,12 @@ html > body[data-scroll-locked] {
   --removed-body-scroll-bar-size: 0px !important;
 }
 
-/* Dude brand accent: petrol on light, mint on dark */
+/* Dude brand accent (from dude.fi theme :root): petrol on light, mint on dark */
 :root {
-  --color-fd-primary: #1a6a8a;
-  --color-fd-ring: #1a6a8a;
+  --color-fd-primary: #1e4348;
+  --color-fd-ring: #1e4348;
 }
 .dark {
-  --color-fd-primary: #08c894;
-  --color-fd-ring: #08c894;
+  --color-fd-primary: #7effe1;
+  --color-fd-ring: #7effe1;
 }
