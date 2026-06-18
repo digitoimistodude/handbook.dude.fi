@@ -2,7 +2,7 @@
 title: "Lähtökohdat"
 ---
 
-Erityisesti _teknisessä_ työssä, mutta myös kaikessa muussakin Duden lähtökohdat ovat tärkeysjärjestyksessään:
+Erityisesti *teknisessä* työssä, mutta myös kaikessa muussakin Duden lähtökohdat ovat tärkeysjärjestyksessään:
 
 ### **Asiakkaat**
 
@@ -24,4 +24,4 @@ Duden pääpaino on tuottaa hyvää laatua ja sitä kautta lisäarvoa asia
 
 Valmiita lisäosia tai työkaluja voidaan käyttää, kunhan ne ovat yleisesti Duden hyväksymiä ja asiakkaan tarpeisiin hyviksi todettuja.
 
-> ”Jos voit tehdä asian viidessä minuutissa, tee se saman tien.”
+> "Jos voit tehdä asian viidessä minuutissa, tee se saman tien."

@@ -3,9 +3,9 @@ title: "Security Policy"
 description: "In English for disclosure."
 ---
 
-At Digitoimisto Dude Oy (Finnish limited company), we offer top quality hosting and upkeep for our clients. Most of them lack comprehensive knowledge of security or privacy issues. That’s why we ask you to report the security issues directly to us.
+At Digitoimisto Dude Oy (Finnish limited company), we offer top quality hosting and upkeep for our clients. Most of them lack comprehensive knowledge of security or privacy issues. That's why we ask you to report the security issues directly to us.
 
-After receiving a disclosure, we will let all affected customers know about that with all the necessary details included. If the disclosed issue is severe or the reporter asks us, we’ll ensure that the client acknowledges receipt of the information directly to the reporter.
+After receiving a disclosure, we will let all affected customers know about that with all the necessary details included. If the disclosed issue is severe or the reporter asks us, we'll ensure that the client acknowledges receipt of the information directly to the reporter.
 
 Please submit security and privacy risk or issue disclosures via mail to [security@dude.fi](mailto:security@dude.fi).
 
@@ -17,7 +17,7 @@ We fully reserve the right to decide the amount of the bounty (usually from 10 t
 
 ### Not eligible security reports - no bounty
 
-The following things **are not** eligible for security reports, as we’ve taken **other precautions** to mitigate the possible problems:
+The following things **are not** eligible for security reports, as we've taken **other precautions** to mitigate the possible problems:
 
 * Systems that are not under our control, like [status.dude.fi](https://status.dude.fi/)
 * Internal tools like Syncthing that have authentication page and are otherwise open to the public and secured in other ways
@@ -33,7 +33,7 @@ The following things **are not** eligible for security reports, as we’ve taken
 * The lack of visible rate limits on forms
 * The lack of certain max character limit in forms
 * HSTS/HTTPS preloading, see [this](https://www.techtarget.com/searchsecurity/answer/Why-is-preloading-HTTP-Strict-Transport-Security-risky)
-* Tabnabbing / target="\_blank" (see [this](https://www.dude.fi/uuteen-valilehteen-aukeavat-linkit), in Finnish)
+* Tabnabbing / target="_blank" (see [this](https://www.dude.fi/uuteen-valilehteen-aukeavat-linkit), in Finnish)
 * Vulnerabilities that have severity of very low, best practice or info, like clickjacking
 * Info leakage like nginx version or leftover phpinfo
 * [maamerkit.dude.fi](https://maamerkit.dude.fi/) or other temporary sites with embeds on them

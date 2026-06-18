@@ -14,5 +14,3 @@ Verkkosivujen hallintapaneeliin tallennettuja tietoja ja asiakkaan tietoja käyt
 * Paremman asiakaspalvelun tarjoamiseen
 
 Tietoja käsitellään asiakkaan ja Digitoimisto Dude Oy:n väliseen asiakassuhteeseen, sivuston käyttöön tai asiakkaan erilliseen nimenomaiseen suostumukseen perustuen.
-
-\

@@ -1,6 +1,6 @@
 ---
 title: "Dev Friday: Perjantain kehityspalaveri"
-description: "Aiemmin: ”Devitsekki II: Viikottainen koodin katselmointi™”."
+description: "Aiemmin: \"Devitsekki II: Viikottainen koodin katselmointi™\"."
 ---
 
 ### Perjantaisin kehitytään 
@@ -14,7 +14,7 @@ Perjantain tarkoituksena on kehittää sisäisiä työkaluja, teemoja, open sour
 
 ### Viikottainen koodin katselmointi 
 
-Kalenterissa on joka **perjantai kello 15:30-16:30** ”Devitsekki II: Viikottainen koodin katselmointi™” (engl. Weekly Code Review), joka on se hetki, jolloin käydään viikon aikana saatuja tuotoksia läpi.
+Kalenterissa on joka **perjantai kello 15:30-16:30** "Devitsekki II: Viikottainen koodin katselmointi™" (engl. Weekly Code Review), joka on se hetki, jolloin käydään viikon aikana saatuja tuotoksia läpi.
 
 ### Agenda
 

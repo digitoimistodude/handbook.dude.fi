@@ -19,7 +19,7 @@ https://github.com/digitoimistodude/handbook.dude.fi/blob/master/dude-handbook/a
 
 ### Etkö löytänyt kysymykseesi vastausta? 
 
-Järjestimme 15.1.2021 kaikkien aikojen ensimmäisen ”Kysy meiltä” -teemapäivän, joka on Redditistä AMAna tunnettu formaatti. Kysymyksiä tuli yhteensä 122 kappaletta. Näiden kysymysten joukosta saattaa löytyä asioita, joita olet aina miettinyt. Katso AMAn vastaukset osoitteesta [dude.fi/ama](https://www.dude.fi/ama).
+Järjestimme 15.1.2021 kaikkien aikojen ensimmäisen "Kysy meiltä" -teemapäivän, joka on Redditistä AMAna tunnettu formaatti. Kysymyksiä tuli yhteensä 122 kappaletta. Näiden kysymysten joukosta saattaa löytyä asioita, joita olet aina miettinyt. Katso AMAn vastaukset osoitteesta [dude.fi/ama](https://www.dude.fi/ama).
 
 Olemme avanneet myös montaa arkeemme liittyvää aihetta [blogimme](https://www.dude.fi/blogi) puolella.
 

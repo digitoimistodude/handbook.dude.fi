@@ -9,11 +9,11 @@ Duden käytössä on tietyt fundamentaalit työkalut, joita jokainen Dude ka
 
 https://slack.com
 
-Perinteisten face-2-face työkalujen lisäksi kommunikaatiotapana toimii ensisijaisesti [Slack](https://www.slack.com/) siitä syystä, että se on laiteriippumaton, moderni mutta _irkkimäinen_, helppokäyttöinen, reaaliaikainen ja monipuolinen tapa kommunikoida. Slackiin saa myös kätevästi ulkopuoliset tahot ilmaiseksi yhden kanavan Guest-käyttäjänä. Slack-botit helpottavat elämää huomattavasti.
+Perinteisten face-2-face työkalujen lisäksi kommunikaatiotapana toimii ensisijaisesti [Slack](https://www.slack.com/) siitä syystä, että se on laiteriippumaton, moderni mutta *irkkimäinen*, helppokäyttöinen, reaaliaikainen ja monipuolinen tapa kommunikoida. Slackiin saa myös kätevästi ulkopuoliset tahot ilmaiseksi yhden kanavan Guest-käyttäjänä. Slack-botit helpottavat elämää huomattavasti.
 
 Firman sisäisten sähköpostien lähettäminen on **kiellettyä**, ellei kyseessä ole asiakkaaseen tai projektiin viittaava isompi aineistopläjäys tai speksaus, jonka haluaa välittää toiselle. Tästä jatkokeskustelut pyritään kuitenkin käymään kasvotusten tai Slackissa ja kirjaamaan asiat [Help Scoutiin](https://www.helpscout.com/) tai [Trelloon](https://trello.com/) ylös.
 
-Jokaiselle projektille luodaan oma Slack-kanava _keikat-&lt;projekti>_, jotta projektikohtaiset keskustelut pysyvät lapasessa.
+Jokaiselle projektille luodaan oma Slack-kanava *keikat-&lt;projekti>*, jotta projektikohtaiset keskustelut pysyvät lapasessa.
 
 ### Myynti ja asiakasrekisteri
 
@@ -27,7 +27,7 @@ Myynnin vaiheita on tasan kolme, **1. Liidi sisään**, **2. Yhteydenotto tehty*
 
 https://trello.com
 
-Trello on käytössä siksi, että se on laiteriippumaton, selkeä ja helppokäyttöinen ja siellä projektien kokonaistilanne ja kokonaiskuva on nähtävissä yhdellä vilkaisulla. Trello on ikäänkuin projektien ”emoalus”, jonne linkitetään materiaalit muista palveluista. [Trelloon](https://www.trello.com/) lisätään jokainen projekti kortiksi liiditasolta lähtien ja jokainen dude on **velvollinen raportoimaan projektin edistymisestä** kommenttikenttään aina kun projektiin tulee oleellisia muutoksia. Käytännössä kokonaiset asiakkaan lähettämät oleelliset sähköpostit on hyvä copy-pastettaa Trello-kommenttiin.
+Trello on käytössä siksi, että se on laiteriippumaton, selkeä ja helppokäyttöinen ja siellä projektien kokonaistilanne ja kokonaiskuva on nähtävissä yhdellä vilkaisulla. Trello on ikäänkuin projektien "emoalus", jonne linkitetään materiaalit muista palveluista. [Trelloon](https://www.trello.com/) lisätään jokainen projekti kortiksi liiditasolta lähtien ja jokainen dude on **velvollinen raportoimaan projektin edistymisestä** kommenttikenttään aina kun projektiin tulee oleellisia muutoksia. Käytännössä kokonaiset asiakkaan lähettämät oleelliset sähköpostit on hyvä copy-pastettaa Trello-kommenttiin.
 
 Joka maanantaisen viikkopalaverin yhteydessä lisätään tarvittaessa Trello-projekteihin kommentit tilanteen ajan tasalla pitämiseksi. Trellossa on oltava tieto heillekin, jotka eivät ole olleet projektissa mukana tai eivät ole olleet läsnä yhteisissä tapaamisissa, tai joita tieto ei suoraan edes koske. Tärkeää on, että tieto on kaikille helposti saatavilla ilman että tarvitsee erikseen kysellä ympäriinsä.
 
@@ -37,7 +37,7 @@ Olisi hyvä, jos jokaisessa projektikortissa olisi myös kuvankaappaus etusivu
 
 https://height.app/product
 
-Height on valikoitunut projektityökaluksi, koska se on selkeä ja sallii sekä Sheet- että Kanban-näkymän, johon Trello ei taivu. Trellon ”Projektit” board onkin ”emoalus”, jonne linkataan/integroidaan niin liidit, visut, tarjoukset kuin Height-projektitkin.
+Height on valikoitunut projektityökaluksi, koska se on selkeä ja sallii sekä Sheet- että Kanban-näkymän, johon Trello ei taivu. Trellon "Projektit" board onkin "emoalus", jonne linkataan/integroidaan niin liidit, visut, tarjoukset kuin Height-projektitkin.
 
 Heightissä on pohja, jota käytetään uudelle projektille. Varsinaisten päätehtävien alle luodaan tarvittaessa alatehtävät kokonaiskuvan hahmottamiseksi ja työstön helpottamiseksi. Projektiin liittyvät tehtävät lisätään aina Heightiinn.
 

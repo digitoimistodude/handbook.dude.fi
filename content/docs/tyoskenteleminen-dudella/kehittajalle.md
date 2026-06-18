@@ -6,4 +6,4 @@ Duden kehittäjädokumentaatio on siirretty omaan sisäiseen Internal Developmen
 
 ### Katso myös
 
-[../tekninen-dokumentaatio.md](../tekninen-dokumentaatio.md)
+[/api/attachments.redirect?id=1469c746-a979-4555-b0da-987d2d11b3d5](../tekninen-dokumentaatio.md)

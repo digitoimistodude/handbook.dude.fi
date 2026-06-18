@@ -13,7 +13,7 @@ Käytössä on melkein tonnin työtuolit, joissa ei mene selkä rikki. Työpöyd
 
 ### Välineet
 
-Suosimme Macbook Pro-tietokonetta, jonka saa helposti ”pöytäkoneeksi” sekä mukaan. Kuulokkeet ovat sulkevat ja tarvittaessa vastamelutoiminnolla varustetut, jotta voi keskittyä.
+Suosimme Macbook Pro-tietokonetta, jonka saa helposti "pöytäkoneeksi" sekä mukaan. Kuulokkeet ovat sulkevat ja tarvittaessa vastamelutoiminnolla varustetut, jotta voi keskittyä.
 
 ### Virvokkeet
 

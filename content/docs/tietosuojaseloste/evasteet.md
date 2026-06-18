@@ -2,7 +2,7 @@
 title: "Käytetäänkö sivustoilla evästeitä ja mitä ne ovat?"
 ---
 
-Dude käyttää evästeitä (”cookies”) ja muita vastaavia tekniikoita, kuten selaimen paikallista varastoa (”local storage”). Evästeet ovat päätelaitteen selaimen ja palvelimen välisiä pieniä tekstitiedostoja.
+Dude käyttää evästeitä ("cookies") ja muita vastaavia tekniikoita, kuten selaimen paikallista varastoa ("local storage"). Evästeet ovat päätelaitteen selaimen ja palvelimen välisiä pieniä tekstitiedostoja.
 
 Käytämme evästeitä asiakkaan sivustolla eri asioiden tunnistamiseen, kirjautumisen ylläpitämiseen ja esimerkiksi verkkokaupoissa ostoskorin toimintoihin. Näihin toimintoihin evästeiden käyttö ja niiden käytön hyväksyminen on pakollista. Palvelimen asettamat evästeet säilyvät selaimessa yhden (1) kuukauden, ellei niitä poisteta erikseen selaimen asetuksista. Sivustolla käynti asettaa evästeet uudelleen selaimen sen salliessa. Selaimen paikallista varastoa käytetään esimerkiksi tuotteiden toimitusaika-arvioita varten.
 

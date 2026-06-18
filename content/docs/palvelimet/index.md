@@ -27,7 +27,7 @@ Rautapalvelimen sisällä on uusimmat suorittimet ja keskusmuistia niin paljon, 
 
 Käyttöjärjestelmänä käytetään uusinta tuettua Ubuntu-serverijakelua, jossa ns. pitkän ajan tuki (LTS). Web-palvelintekniikkana toimii LEMP (Linux, Nginx + ngx-pagespeed, MariaDB, php-fpm), lähtökohtaisesti uusimmat versiot Nginxistä, MariaDB:stä sekä PHP:sta.
 
-Välimuistituksessa on käytössä uusin [ngx-pagespeed](https://developers.google.com/speed/pagespeed/module), joka tekee lukuisia toimenpiteitä suoraan RAM-muistiin, kuten lazylaodaa, pakkaa ja muuntaa sivustojen kuvat uuden sukupolven webp-muotoon fallbackeineen, minifoi HTML:n, CSS:n, JS:n, kuvakkeet ja näin ollen nopeuttaa kaikkia sivustoja. Kannan välimuistituksessa WP:n sisäänrakennettujen transientien ja cache-pluginien lisäksi käytössä on palvelintasolla [Redis](https://redis.io/) ja [ngx\_http\_fastcgi\_module](https://nginx.org/en/docs/http/ngx\_http\_fastcgi\_module.html).
+Välimuistituksessa on käytössä uusin [ngx-pagespeed](https://developers.google.com/speed/pagespeed/module), joka tekee lukuisia toimenpiteitä suoraan RAM-muistiin, kuten lazylaodaa, pakkaa ja muuntaa sivustojen kuvat uuden sukupolven webp-muotoon fallbackeineen, minifoi HTML:n, CSS:n, JS:n, kuvakkeet ja näin ollen nopeuttaa kaikkia sivustoja. Kannan välimuistituksessa WP:n sisäänrakennettujen transientien ja cache-pluginien lisäksi käytössä on palvelintasolla [Redis](https://redis.io/) ja [ngx_http_fastcgi_module](https://nginx.org/en/docs/http/ngx_http_fastcgi_module.html).
 
 ### Päivitykset
 

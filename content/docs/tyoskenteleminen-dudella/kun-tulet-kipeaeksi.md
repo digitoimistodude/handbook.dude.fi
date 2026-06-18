@@ -4,7 +4,7 @@ title: "Kun tulet kipeäksi"
 
 * Ilmoitathan lähimmälle esihenkilölle vähintään Slackissa, pikaviestimellä tai tekstiviestillä viimeistään samana aamuna kun olet tullut kipeäksi, ennen työaikaa.
 * Ilmoita aina uudelleen seuraavana aamuna, jos et tiedä sairastelusi kestoa.
-* Kirjaa sairastelusi tunnit [Timelyyn](tyoajat/tyoajan-seuranta/timely-ohje.md).
+* Kirjaa sairastelusi tunnit [Timelyyn](/tyoskenteleminen-dudella/tyoajat/tyoajan-seuranta/timely-ohje).
 * Jos sairastelu jatkuu, haethan lääkärintodistuksen.
 
 ### Palaverien peruminen

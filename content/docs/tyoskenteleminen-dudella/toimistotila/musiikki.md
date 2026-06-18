@@ -33,6 +33,6 @@ https://open.spotify.com/playlist/2Uqu1MqUhYHipkDGUX1HTh?si=96802d4a7c584703
 
 #### Rituaali, kun tulee uutta keikkaa
 
-Kun tarjous on mennyt läpi, jolloin on soitettava Daft Punkin _Get Lucky._
+Kun tarjous on mennyt läpi, jolloin on soitettava Daft Punkin *Get Lucky.*
 
 https://open.spotify.com/track/2Foc5Q5nqNiosCNqttzHof?si=e2f9b33229d7498c

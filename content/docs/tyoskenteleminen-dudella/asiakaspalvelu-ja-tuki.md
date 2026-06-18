@@ -26,4 +26,4 @@ Hienovaraisesti muistutetaan ylläpitopaketistamme tarvittaessa niitä, joilla
 
 Tehtävät delegoidaan sille, jolla on paras tietämys kyseessä olevasta asiasta ja jolta tehtävän suorittaminen käy vaivattomimmin. Tärkeintä on siis kommunikointi.
 
-Tehtävät hoidetaan lähtökohtaisesti FIFO-mallin mukaisesti (_First In, First Out_).
+Tehtävät hoidetaan lähtökohtaisesti FIFO-mallin mukaisesti (*First In, First Out*).

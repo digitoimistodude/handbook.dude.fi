@@ -3,9 +3,9 @@ title: "Ilmapiiri ja työrauha"
 description: "Yleiset pelisäännöt."
 ---
 
-Duden primitiivisestä ja tulehtuneesta huumorista huolimatta pyritään antamaan työrauha kaikille.&#x20;
+Duden primitiivisestä ja tulehtuneesta huumorista huolimatta pyritään antamaan työrauha kaikille. 
 
-🎧 Kuulokkeet päässä tarkoittaa: **Älä häiritse**. Silloin laitetaan viestiä Slackin kautta.&#x20;
+🎧 Kuulokkeet päässä tarkoittaa: **Älä häiritse**. Silloin laitetaan viestiä Slackin kautta. 
 
 Kysy asia suoraan, älä kysy voisiko kysyä.
 

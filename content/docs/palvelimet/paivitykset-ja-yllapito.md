@@ -8,7 +8,7 @@ Isompia päivityksiä varten otetaan aina tietokannasta varmuuskopio ennen pa�
 
 ### Vanhan hostingin siirtäminen Duden ylläpitoon
 
-Asiakkaalta tarvitaan siirtoa varten .fi -domaineista _välittäjänvaihtoavain_, ulkomaisista .com-domainista lukituksen poisto sekä _EPP Code_, eli siirtokoodi.
+Asiakkaalta tarvitaan siirtoa varten .fi -domaineista *välittäjänvaihtoavain*, ulkomaisista .com-domainista lukituksen poisto sekä *EPP Code*, eli siirtokoodi.
 
 Uudet kotimaiset domainit varataan [Viestintäviraston](https://registry.domain.fi/) kautta suoraan, ulkomaiset domainit varataan [Cloudflarelta](https://www.cloudflare.com/) tai erikoisemmat TLD:t [iwantmyname.comin](https://iwantmyname.com/) kautta.
 

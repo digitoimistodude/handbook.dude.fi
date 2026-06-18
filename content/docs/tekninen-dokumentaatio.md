@@ -6,7 +6,7 @@ Ylläpidimme tässä osoitteessa teknistä dokumentaatiota suomeksi aina vuoteen
 
 Tähän dokumenttiin ei ole pääsyä julkisen domainin kautta, sillä vaikka koostamamme sisällössä on iso osa aivan avointa matskua, se sisältää myös jotakin tietoturva-aspektiltaan arkaluontoista tietoa, jota ei soisi julkaistavan. Jouduimme tekemään päätöksen, haluammeko julkaista osan avoimesti netissä, vai kaikki yhdessä paikkaa. Päädyimme päivittelyn helpottamiseksi keskittää kaikki suljettujen ovien taakse. Tästä linkistä pääsee katsomaan sisäistä dokumentointiamme, mutta linkki toimii vain henkilökunnalle:
 
-[https://app.gitbook.com/o/PedExJWZmbCiZe4gDwKC/s/VVikkYgIZ9miBzwYDCYh/](https://app.gitbook.com/o/PedExJWZmbCiZe4gDwKC/s/VVikkYgIZ9miBzwYDCYh/)
+&lt;https://app.gitbook.com/o/PedExJWZmbCiZe4gDwKC/s/VVikkYgIZ9miBzwYDCYh/>
 
 ### Julkinen tekninen dokumentaatio
 

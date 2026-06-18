@@ -10,4 +10,4 @@ Näihin kannattaa liityä:
 * [#kehitys](https://dudet.slack.com/archives/CFSR4E1M2) - Kehittäjien kanava, esim. vinkkien kysymiseen ja speksaamiseen ja muuta devausaiheista keskustelua varten.
 * [#tyhy](https://dudet.slack.com/archives/C017A1YNYV6) - Työhyvinvointiin ja töissä viihtymiseen liittyvät asiat.
 * [#markkinointi](https://dudet.slack.com/archives/C01AYAF6M47) - Duden markkinointikanava.
-* _#keikat-\&lt;projektin-nimi>_ - Liity projektiin, joka sinulla on työstössä.
+* *#keikat-&lt;projektin-nimi>* - Liity projektiin, joka sinulla on työstössä.

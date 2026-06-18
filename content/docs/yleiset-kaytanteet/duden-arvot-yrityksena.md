@@ -27,7 +27,7 @@ Emme ole koskaan valmiita. Koko tiimi seuraa aktiivisesti oman alansa työkaluje
 
 ### **Välittäminen**
 
-Katsellaan vähän mitä ympärillä tapahtuu ja joskus on hyvä kysyä kanssaeläjiltä että ”kuinka voit?”. Projekteissa meille ei riitä pelkästään huikea visuaalisuus ja moitteeton koodi, vaan haluamme myös koko palvelukokemuksen olevan korkealla tasolla aina ensimmäisestä yhteydenotosta lähtien. Jokainen ihmisen kirjoittama viesti tai puhelu ansaitsee tulla vastatuksi.
+Katsellaan vähän mitä ympärillä tapahtuu ja joskus on hyvä kysyä kanssaeläjiltä että "kuinka voit?". Projekteissa meille ei riitä pelkästään huikea visuaalisuus ja moitteeton koodi, vaan haluamme myös koko palvelukokemuksen olevan korkealla tasolla aina ensimmäisestä yhteydenotosta lähtien. Jokainen ihmisen kirjoittama viesti tai puhelu ansaitsee tulla vastatuksi.
 
 ### Aiheeseen liittyviä bloggauksia
 

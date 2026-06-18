@@ -17,6 +17,6 @@ Jos tulee vastaan tilanteita, jolloin ei ole saatavilla, täytyy käyttää Slac
 
 ### Etäily korona-aikana
 
-Maailmanlaajuisen pandemian kuten COVID-19:n ja erityisesti _lockdownin_ osuessa kohdalle, jääthän kotiin, jos on mitenkään mahdollista. Toimistolla voi olla väkeä 1-2 kerrallaan, jos kotona työskentelemisessä on esteitä.
+Maailmanlaajuisen pandemian kuten COVID-19:n ja erityisesti *lockdownin* osuessa kohdalle, jääthän kotiin, jos on mitenkään mahdollista. Toimistolla voi olla väkeä 1-2 kerrallaan, jos kotona työskentelemisessä on esteitä.
 
 Jos olet vähänkään kipeänä tai edes pienessä nuhassa tai flunssassa, ota etäpäivä - tai vielä parempi, saikkupäivä.
