@@ -1,0 +1,18 @@
+@import 'tailwindcss';
+@import 'fumadocs-ui/css/neutral.css';
+@import 'fumadocs-ui/css/preset.css';
+
+html {
+  scrollbar-gutter: stable;
+}
+
+html > body[data-scroll-locked] {
+  margin-right: 0px !important;
+  --removed-body-scroll-bar-size: 0px !important;
+}
+
+/* Dude brand: petrol accent on light bg */
+:root {
+  --color-fd-primary: #1a6a8a;
+  --color-fd-ring: #1a6a8a;
+}
