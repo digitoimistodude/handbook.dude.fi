@@ -1,8 +1,15 @@
 import { getPageImage, source } from '@/lib/source';
 import { notFound } from 'next/navigation';
 import { ImageResponse } from 'next/og';
+import { readFileSync } from 'fs';
+import { join } from 'path';
 
 export const revalidate = false;
+
+// Load real Inter faces so headings render at a true weight (next/og's default
+// font ignores fontWeight). Title uses 600 (semibold), body copy 400.
+const interRegular = readFileSync(join(process.cwd(), 'src/app/og/fonts/Inter-Regular.ttf'));
+const interSemiBold = readFileSync(join(process.cwd(), 'src/app/og/fonts/Inter-SemiBold.ttf'));
 
 // Dude-branded OG card: navy background, mint wordmark, mint accents.
 export async function GET(_req: Request, { params }: RouteContext<'/og/docs/[...slug]'>) {
@@ -21,7 +28,7 @@ export async function GET(_req: Request, { params }: RouteContext<'/og/docs/[...
           justifyContent: 'space-between',
           background: '#1d1f29',
           padding: '80px',
-          fontFamily: 'sans-serif',
+          fontFamily: 'Inter',
         }}
       >
         <div style={{ display: 'flex' }}>
@@ -33,7 +40,7 @@ export async function GET(_req: Request, { params }: RouteContext<'/og/docs/[...
           </svg>
         </div>
         <div style={{ display: 'flex', flexDirection: 'column' }}>
-          <div style={{ display: 'flex', fontSize: 66, fontWeight: 700, color: '#ffffff', lineHeight: 1.1 }}>
+          <div style={{ display: 'flex', fontSize: 66, fontWeight: 600, color: '#ffffff', lineHeight: 1.1 }}>
             {page.data.title}
           </div>
           {page.data.description ? (
@@ -48,7 +55,14 @@ export async function GET(_req: Request, { params }: RouteContext<'/og/docs/[...
         </div>
       </div>
     ),
-    { width: 1200, height: 630 },
+    {
+      width: 1200,
+      height: 630,
+      fonts: [
+        { name: 'Inter', data: interRegular, weight: 400, style: 'normal' },
+        { name: 'Inter', data: interSemiBold, weight: 600, style: 'normal' },
+      ],
+    },
   );
 }
 
