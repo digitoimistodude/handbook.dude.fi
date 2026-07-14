@@ -1,7 +1,7 @@
 ---
 title: "Security Policy"
 description: "In English for disclosure."
-lastModified: "2026-06-18T21:25:46.122Z"
+lastModified: "2026-07-14T06:51:31.466Z"
 ---
 
 At Digitoimisto Dude Oy (Finnish limited company), we offer top quality hosting and upkeep for our clients. Most of them lack comprehensive knowledge of security or privacy issues. That's why we ask you to report the security issues directly to us.
@@ -39,3 +39,4 @@ The following things **are not** eligible for security reports, as we've taken *
 * Info leakage like nginx version or leftover phpinfo
 * [maamerkit.dude.fi](https://maamerkit.dude.fi/) or other temporary sites with embeds on them
 * Fantasy or theoretical scenarios that need a physical access to our high security office space, high security data center, man-in-the-middle position or physical downgrade and exploit
+* Disclosure or enumeration of content that is already public, such as post titles, IDs or post bodies, which is not a vulnerability
