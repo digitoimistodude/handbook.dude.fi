@@ -1,7 +1,7 @@
 ---
 title: "Security Policy"
 description: "In English for disclosure."
-lastModified: "2026-07-14T06:51:31.466Z"
+lastModified: "2026-07-14T07:05:13.751Z"
 ---
 
 At Digitoimisto Dude Oy (Finnish limited company), we offer top quality hosting and upkeep for our clients. Most of them lack comprehensive knowledge of security or privacy issues. That's why we ask you to report the security issues directly to us.
@@ -29,6 +29,7 @@ The following things **are not** eligible for security reports, as we've taken *
 * Open author archives (user enumeration)
 * Sites under subdomains that are not under our control or servers
 * Public archived GitHub repositories
+* Public repositories under our GitHub organisation ([github.com/digitoimistodude](https://github.com/digitoimistodude)), including findings derived only from reading their source
 * Reveal.js based or any other repository for presentations
 * Autoindex for [slides.dude.fi](https://slides.dude.fi)
 * The lack of visible rate limits on forms
